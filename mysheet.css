@@ -7,7 +7,7 @@
 }
 
 html, body {
-  background-color: black;
+  background-color: white;
   margin: 10px;
 }
 
@@ -15,17 +15,6 @@ html, body {
   background-color: white; 
 }
 
-/*.container > div:nth-child(3n) {
-  background-color: black;
-}
-
-.container > div:nth-child(2n) {
-      background-color: black;
-}
-
-.container > div:nth-child(4n) {
-      background-color: black;
-}*/
 
 .container {
     height: 100%;
