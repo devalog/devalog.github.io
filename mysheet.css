@@ -3,18 +3,29 @@
     justify-content: center;
     align-items: center;
     font-size: 1em;
-    color: white;
+    color: #ffeead;
 }
 
 html, body {
-  background-color: black;
+  background-color: #ffeead;
   margin: 10px;
 }
 
 .container > div:nth-child(1n) {
-  background-color: white; 
+  background-color: black  
 }
 
+/*.container > div:nth-child(3n) {
+  background-color: black;
+}
+
+.container > div:nth-child(2n) {
+      background-color: black;
+}
+
+.container > div:nth-child(4n) {
+      background-color: black;
+}*/
 
 .container {
     height: 100%;
