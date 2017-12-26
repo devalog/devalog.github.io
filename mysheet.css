@@ -12,19 +12,19 @@ html, body {
 }
 
 .container > div:nth-child(1n) {
-  background-color: #96ceb4;  
+  background-color: black  
 }
 
 .container > div:nth-child(3n) {
-  background-color: #88d8b0;
+  background-color: black;
 }
 
 .container > div:nth-child(2n) {
-      background-color: #ff6f69;
+      background-color: black;
 }
 
 .container > div:nth-child(4n) {
-      background-color: #ffcc5c;
+      background-color: black;
 }
 
 .container {
