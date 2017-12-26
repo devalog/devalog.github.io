@@ -31,7 +31,7 @@ html, body {
     display: grid;
     grid-gap: 3px;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 40px 300px 40px;
+    grid-template-rows: 40px auto 40px;
 }
 
 .header {
