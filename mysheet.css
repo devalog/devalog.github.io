@@ -28,20 +28,29 @@ html, body {
 }*/
 
 .container {
+    height: 100%;
     display: grid;
     grid-gap: 3px;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 40px auto 40px;
+    grid-template-areas: 
+        ". h h h h h h h h h h ."
+        "m c c c c c c c c c c c"
+        "f f f f f f f f f f f f";
 }
 
 .header {
-    grid-column: 1 / -1;
+    grid-area: h;
 }
 
-.menu {}
+.menu {
+    grid-area: m;
+}
 
-.content {}
+.content {
+    grid-area: c;
+}
 
 .footer {
-  grid-column: 1 / -1;
+    grid-area: f;
 }
