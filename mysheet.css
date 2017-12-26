@@ -3,7 +3,7 @@
     justify-content: center;
     align-items: center;
     font-size: 1em;
-    color: #ffeead;
+    color: white;
 }
 
 html, body {
@@ -34,7 +34,7 @@ html, body {
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 40px auto 100px;
     grid-template-areas: 
-        ". . . h h h h h h . . ."
+        ". . h h h h h h h h . ."
         "m m m m c c c c c c c c"
         "f f f f f f f f f f f f";
 }
