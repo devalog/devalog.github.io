@@ -12,7 +12,7 @@ html, body {
 }
 
 .container > div:nth-child(1n) {
-  background-color: black; 
+  background-color: white; 
 }
 
 
