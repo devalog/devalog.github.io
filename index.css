@@ -38,7 +38,7 @@ html, body {
 .header {
     grid-area: h;
     align-content: center;
-    border-style: solid;
+
 }
 
 .content {
