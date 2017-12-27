@@ -9,7 +9,7 @@
 
 .container > div > ul > li {
     display: inline-block; 
-    align-content: right;
+    align-content: left;
 }
 
 .container > div > ul {
