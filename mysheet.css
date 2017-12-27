@@ -7,12 +7,12 @@
 }
 
 html, body {
-  background-color: white;
+  background-color: #ffeead;
   margin: 10px;
 }
 
 .container > div:nth-child(1n) {
-  background-color: white  
+  background-color: #ffeead; 
 }
 
 /*.container > div:nth-child(3n) {
