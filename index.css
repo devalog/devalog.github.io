@@ -39,6 +39,7 @@ html, body {
 
 .content {
     grid-area: c;
+    border-style: solid;
 }
 
 .footer {
