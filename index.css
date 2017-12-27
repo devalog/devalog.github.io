@@ -7,14 +7,16 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container > div > ul > li {
-    
-    float: left;
-}
-
 .container > div > ul {
-    text-align: center;
+    text-align: left;
     list-style-type: none;
+    position:relative;
+    display: inline-block;  
+    list-style: none;
+    width:100%;
+    text-align: center;
+    margin: auto;
+    padding: 0;
 }
 
 html, body {
