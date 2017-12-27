@@ -12,9 +12,10 @@
     float: left;
 }
 
-/*.container > div > ul {
+.container > div > ul {
     text-align: center;
-}*/
+    list-style-type: none;
+}
 
 html, body {
   background-color: white;
