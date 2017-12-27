@@ -3,16 +3,16 @@
     justify-content: center;
     align-items: center;
     font-size: 1em;
-    color: red;
+    color: black;
 }
 
 html, body {
-  background-color: #ffeead;
+  background-color: white;
   margin: 10px;
 }
 
 .container > div:nth-child(1n) {
-  background-color: black  
+  background-color: white  
 }
 
 /*.container > div:nth-child(3n) {
