@@ -38,5 +38,35 @@ html, body {
     grid-area: c;
 }
 
+.content2 {
+    grid-area: f;
+}
+
+.ul {
+    padding: 0;*/
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.li {
+    float: left;
+}
+
+.a {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.acontent {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
 
 
