@@ -8,12 +8,12 @@
 }
 
 .container > div > ul > li {
-    display: inline;
+    display: inline-block; 
     align-content: right;
 }
 
 .container > div > ul {
-    align-content: center;
+    text-align: center;
 }
 
 html, body {
@@ -53,6 +53,6 @@ html, body {
     grid-area: c;
     border-style: solid;
     align-content: center;
-    padding: 25px;
+    padding: 10px;
 }
 
