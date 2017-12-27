@@ -7,12 +7,12 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*.container > div > ul > li {
-    display: inline-block; 
+.container > div > ul > li {
+    
     float: left;
 }
 
-.container > div > ul {
+/*.container > div > ul {
     text-align: center;
 }*/
 
