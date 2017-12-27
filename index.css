@@ -7,6 +7,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.container > div > ul > li {
+    display: inline;
+}
+
 html, body {
   background-color: white;
   margin: 10px;
