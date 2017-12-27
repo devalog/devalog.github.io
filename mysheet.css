@@ -8,12 +8,12 @@
 }
 
 html, body {
-  background-color: #ffeead;
+  background-color: white
   margin: 10px;
 }
 
 .container > div:nth-child(1n) {
-  background-color: #ffeead; 
+  background-color: white; 
 }
 
 
@@ -22,7 +22,6 @@ html, body {
     display: grid;
     grid-gap: 3px;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: 40px auto 100px;
     grid-template-areas: 
         ". . h h h h h h h h . ."
         "m m m m c c c c c c c c"

@@ -49,6 +49,12 @@ html, body {
 }
 
 .ul {
+    /*position:relative;
+    display: inline;  
+    list-style: none;
+    width:100%;
+    text-align: center;
+    margin: auto;
     padding: 0;*/
     list-style-type: none;
     margin: 0;
@@ -58,6 +64,7 @@ html, body {
 
 .li {
     float: left;
+    list-style-type: none;
 }
 
 .a {
