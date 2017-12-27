@@ -35,15 +35,18 @@ html, body {
 
 .title {
     grid-area: t;
-/*    border-style: solid;*/
+    border-style: solid;
+    align-content: center;
 }
 
 .header {
     grid-area: h;
+    align-content: center;
 }
 
 .content {
     grid-area: c;
     border-style: solid;
+    align-content: center;
 }
 
