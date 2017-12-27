@@ -9,7 +9,7 @@
 
 .container > div > ul > li {
     display: inline-block; 
-    align-content: left;
+    float: left;
 }
 
 .container > div > ul {
