@@ -7,18 +7,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*.container > div > ul {
-    text-align: left;
-    list-style-type: none;
-    position:relative;
-    display: inline-block;  
-    list-style: none;
-    width:100%;
-    text-align: center;
-    margin: auto;
-    padding: 0;
-}*/
-
 html, body {
   background-color: white;
   margin: 10px;
@@ -61,8 +49,6 @@ html, body {
 }
 
 .ul {
-    text-align: left;
-    list-style-type: none;
     position:relative;
     display: inline;  
     list-style: none;
