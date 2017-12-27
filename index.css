@@ -9,7 +9,7 @@
 
 .container > div > ul > li {
     display: inline;
-    align-content: center;
+    align-content: right;
 }
 
 .container > div > ul {
@@ -34,7 +34,7 @@ html, body {
   /*  grid-template-rows: 40px auto 100px;*/
     grid-template-areas: 
         ". . . . . t t . . . . ."
-        ". . . . . h h . . . . ."
+        ". . . . h h h h . . . ."
         ". . . . c c c c . . . .";
 }
 
