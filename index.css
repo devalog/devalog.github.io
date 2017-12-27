@@ -25,7 +25,7 @@ html, body {
     grid-template-rows: 40px auto 100px;
     grid-template-areas: 
         ". . h h h h h h h h . ."
-        ". . . . c c c c . . . ."
+        ". . . c c c c c c . . ."
         "f f f f f f f f f f f f";
 }
 
