@@ -33,10 +33,6 @@ html, body {
     grid-area: h;
 }
 
-.menu {
-    grid-area: m;
-}
-
 .content {
     grid-area: c;
     border-style: solid;
