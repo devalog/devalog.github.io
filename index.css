@@ -25,7 +25,7 @@ html, body {
     grid-template-rows: 40px auto 100px;
     grid-template-areas: 
         ". . h h h h h h h h . ."
-        "m m m m c c c c m m m m"
+        "m m m m c c c c c c c c"
         "f f f f f f f f f f f f";
 }
 
@@ -33,10 +33,14 @@ html, body {
     grid-area: h;
 }
 
+.menu {
+    grid-area: m;
+}
 
 .content {
     grid-area: c;
 }
 
-
-
+.footer {
+    grid-area: f;
+}
