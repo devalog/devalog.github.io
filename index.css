@@ -53,5 +53,6 @@ html, body {
     grid-area: c;
     border-style: solid;
     align-content: center;
+    padding: 25px;
 }
 
