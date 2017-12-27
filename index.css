@@ -24,9 +24,9 @@ html, body {
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 40px auto 100px;
     grid-template-areas: 
-        "f f f f f f f f f f f f"
+        ". . . . . f f . . . . ."
         ". . h h h h h h h h . ."
-        ". . . c c c c c c . . .";
+        ". . . . c c c c . . . .";
 }
 
 .header {
@@ -40,4 +40,5 @@ html, body {
 
 .title {
     grid-area: f;
+    border-style: solid;
 }
