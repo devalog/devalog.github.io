@@ -7,14 +7,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container > div > ul > li {
+/*.container > div > ul > li {
     display: inline-block; 
     float: left;
 }
 
 .container > div > ul {
     text-align: center;
-}
+}*/
 
 html, body {
   background-color: white;
