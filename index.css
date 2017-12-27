@@ -63,11 +63,11 @@ html, body {
 }
 
 .li {
-    display: block;
-    text-align: center;
+    float: left;
 }
 
 .a {
-    display: block;
+    display: inline-block;
+    text-align: center;
 }
 
