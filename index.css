@@ -43,18 +43,12 @@ html, body {
 
 .content {
     grid-area: c;
-    border-style: solid;
+    /*border-style: solid;*/
     align-content: center;
     padding: 10px;
 }
 
 .ul {
-    /*position:relative;
-    display: inline;  
-    list-style: none;
-    width:100%;
-    text-align: center;
-    margin: auto;
     padding: 0;*/
     list-style-type: none;
     margin: 0;
