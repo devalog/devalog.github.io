@@ -9,6 +9,11 @@
 
 .container > div > ul > li {
     display: inline;
+    align-content: center;
+}
+
+.container > div > ul {
+    align-content: center;
 }
 
 html, body {
