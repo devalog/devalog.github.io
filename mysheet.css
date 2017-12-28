@@ -70,13 +70,13 @@ html, body {
     padding: 10px;
 }
 
-/*.content4 {
+.content4 {
     grid-area: b;
     align-content: center;
     padding: 10px;
     align-items: center;
 
-}*/
+}
 
 .ul {
     list-style-type: none;
