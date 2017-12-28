@@ -43,7 +43,7 @@ html, body {
 
 
 .content3 {
-    grid-area: f;
+    grid-area: b;
     align-content: center;
     border-style: solid;
     padding: 10px;
@@ -64,19 +64,19 @@ html, body {
 }
 
 .content5 {
-    grid-area: b;
+    grid-area: f;
     align-content: center;
     border-style: solid;
     padding: 10px;
 }
 
-.content4 {
+/*.content4 {
     grid-area: b;
     align-content: center;
     padding: 10px;
     align-items: center;
 
-}
+}*/
 
 .ul {
     list-style-type: none;
