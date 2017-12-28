@@ -75,3 +75,10 @@ html, body {
     text-decoration: none;
 }
 
+.p {
+  align-content: center;
+  margin: 0;    
+  padding: 0;
+
+}
+
