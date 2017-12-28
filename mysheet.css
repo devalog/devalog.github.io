@@ -28,7 +28,7 @@ html, body {
         ". . . . c c c c . . . ."
         ". . . . f f f f . . . ."
         ". . . . m m m m . . . ."
-        ". . . . a a a a . . . .";
+        ". . . . . b b . . . . .";
 }
 
 .title {
@@ -61,7 +61,7 @@ html, body {
 }
 
 .content4 {
-    grid-area: a;
+    grid-area: b;
 
 }
 
