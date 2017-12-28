@@ -44,24 +44,28 @@ html, body {
 
 .content3 {
     grid-area: f;
+    align-content: center;
     border-style: solid;
     padding: 10px;
 }
 
 .content2 {
     grid-area: m;
+    align-content: center;
     border-style: solid;
     padding: 10px;
 }
 
 .content {
     grid-area: c;
+    align-content: center;
     border-style: solid;
     padding: 10px;
 }
 
 .content4 {
     grid-area: b;
+    align-content: center;
     padding: 10px;
 
 }
