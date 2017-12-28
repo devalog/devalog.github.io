@@ -25,9 +25,9 @@ html, body {
     grid-template-areas: 
         ". . . . . t t . . . . ."
         ". . h h h h h h h h . ."
-        ". . . c c c c c c . . ."
-        ". . . f f f f f f . . ."
-        ". . . m m m m m m . . .";
+        ". . . . c c c c . . . ."
+        ". . . . f f f f . . . ."
+        ". . . . m m m m . . . .";
 }
 
 .title {
