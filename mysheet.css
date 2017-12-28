@@ -73,6 +73,7 @@ html, body {
 .content4 {
     grid-area: b;
     align-content: center;
+    align-items: center;
     padding: 10px;
 }
 
