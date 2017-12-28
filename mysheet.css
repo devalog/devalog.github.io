@@ -28,7 +28,7 @@ html, body {
         ". . . . c c c c . . . ."
         ". . . . f f f f . . . ."
         ". . . . m m m m . . . ."
-        ". . . . b b b b . . . ."
+        ". . . . . b b . . . . ."
         ". . . . z z z z . . . .";
 }
 
@@ -43,10 +43,9 @@ html, body {
 }
 
 
-.content3 {
+.content3 { 
     grid-area: b;
     align-content: center;
-    border-style: solid;
     padding: 10px;
 }
 
