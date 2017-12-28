@@ -74,7 +74,6 @@ html, body {
     grid-area: b;
     align-content: center;
     padding: 10px;
-    border-style: solid;
 }
 
 .ul {
@@ -97,13 +96,12 @@ html, body {
 }
 
 
+.p {
+  align-content: center;
+  margin: 0;    
+  padding: 0;
 
-  .p {
-    align-content: center;
-    margin: 0;
-    padding: 0;
-
-  }
+}
 
   .ulnew {
 
