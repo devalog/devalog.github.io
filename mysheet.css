@@ -67,6 +67,7 @@ html, body {
     grid-area: b;
     align-content: center;
     padding: 10px;
+    align-items: center;
 
 }
 
