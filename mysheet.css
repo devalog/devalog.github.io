@@ -48,7 +48,7 @@ html, body {
 }
 
 .content2 {
-    grid-area: c;
+    grid-area: f;
     border-style: solid;
     padding: 10px;
 }
