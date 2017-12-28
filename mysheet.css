@@ -62,8 +62,7 @@ html, body {
 
 .content4 {
     grid-area: a;
-    border-style: solid;
-    padding: 10px;
+
 }
 
 .ul {
