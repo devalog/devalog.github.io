@@ -41,7 +41,7 @@ html, body {
 
 }
 
-.content {
+.first {
     grid-area: c;
     border-style: solid;
     align-content: center;
@@ -49,7 +49,7 @@ html, body {
 
 }
 
-.content2 {
+.second {
     grid-area: q;
     align-content: center;
     padding: 10px;
