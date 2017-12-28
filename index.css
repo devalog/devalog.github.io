@@ -25,7 +25,8 @@ html, body {
     grid-template-areas: 
         ". . . . . t t . . . . ."
         ". . . . h h h h . . . ."
-        ". . . . c c c c . . . .";
+        ". . . . c c c c . . . ."
+        ". . . . q q q q . . . .";
 }
 
 .title {
@@ -43,6 +44,12 @@ html, body {
 .content {
     grid-area: c;
     border-style: solid;
+    align-content: center;
+    padding: 10px;
+}
+
+.content2 {
+    grid-area: c;
     align-content: center;
     padding: 10px;
 }
