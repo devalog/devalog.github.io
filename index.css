@@ -49,7 +49,7 @@ html, body {
 }
 
 .content2 {
-    grid-area: c;
+    grid-area: q;
     align-content: center;
     padding: 10px;
 }
