@@ -63,6 +63,13 @@ html, body {
     padding: 10px;
 }
 
+.content5 {
+    grid-area: b;
+    align-content: center;
+    border-style: solid;
+    padding: 10px;
+}
+
 .content4 {
     grid-area: b;
     align-content: center;
