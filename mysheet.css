@@ -32,6 +32,8 @@ html, body {
 
 .title {
   grid-area: t;
+  border-style: solid;
+  align-content: center;
 }
 
 .header {
