@@ -46,12 +46,14 @@ html, body {
     border-style: solid;
     align-content: center;
     padding: 10px;
+
 }
 
 .content2 {
     grid-area: q;
     align-content: center;
     padding: 10px;
+    border-style: solid;
 }
 
 .ul {
