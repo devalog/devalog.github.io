@@ -42,19 +42,19 @@ html, body {
 
 
 .content3 {
-    grid-area: c;
-    border-style: solid;
-    padding: 10px;
-}
-
-.content2 {
     grid-area: f;
     border-style: solid;
     padding: 10px;
 }
 
-.content {
+.content2 {
     grid-area: m;
+    border-style: solid;
+    padding: 10px;
+}
+
+.content {
+    grid-area: c;
     border-style: solid;
     padding: 10px;
 }
