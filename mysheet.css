@@ -28,7 +28,8 @@ html, body {
         ". . . . c c c c . . . ."
         ". . . . f f f f . . . ."
         ". . . . m m m m . . . ."
-        ". . . . b b b b . . . .";
+        ". . . . b b b b . . . ."
+        ". . . . z z z z . . . .";
 }
 
 .title {
@@ -71,7 +72,7 @@ html, body {
 }
 
 .content4 {
-    grid-area: b;
+    grid-area: z;
     align-content: center;
     padding: 10px;
     vertical-align: top
