@@ -74,6 +74,7 @@ html, body {
     grid-area: b;
     align-content: center;
     padding: 10px;
+    border-style: solid;
 }
 
 .ul {
