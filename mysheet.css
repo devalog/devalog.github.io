@@ -23,9 +23,15 @@ html, body {
     grid-gap: 3px;
     grid-template-columns: repeat(12, 1fr);
     grid-template-areas: 
+        ". . . . . t t . . . . ."
         ". . h h h h h h h h . ."
-        ". . m m m m c c c c . ."
-        ". . . f f f f f f . . .";
+        ". . . c c c c c c . . ."
+        ". . . f f f f f f . . ."
+        ". . . m m m m m m . . .";
+}
+
+.title {
+  grid-area: t;
 }
 
 .header {
@@ -40,7 +46,7 @@ html, body {
 }
 
 .content2 {
-    grid-area: f;
+    grid-area: c;
     border-style: solid;
     padding: 10px;
 }
