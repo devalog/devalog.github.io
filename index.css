@@ -21,7 +21,7 @@ html, body {
     height: 100%;
     display: grid;
     grid-gap: 3px;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(12, 1fr); 
     grid-template-areas: 
         ". . . . . t t . . . . ."
         ". . . . h h h h . . . ."
