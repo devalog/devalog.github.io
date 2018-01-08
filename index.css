@@ -33,7 +33,6 @@ html, body {
     grid-area: t;
     border-style: solid;
     align-content: center;
-    padding: 10px;
 }
 
 .header {
