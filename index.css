@@ -12,9 +12,9 @@ html, body {
   margin: 10px;
 }
 
-.container > div:nth-child(1n) {
+/*.container > div:nth-child(1n) {
   background-color: white; 
-}
+}*/
 
 
 .container {
