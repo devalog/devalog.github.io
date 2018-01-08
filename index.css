@@ -33,6 +33,7 @@ html, body {
     grid-area: t;
     border-style: solid;
     align-content: center;
+    background-color: #F0F8FF;
 }
 
 .header {
