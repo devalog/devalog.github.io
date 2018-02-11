@@ -13,7 +13,7 @@ html, body {
 }
 
 /*.container > div:nth-child(1n) {
-  background-color: white; 
+  background-color: white;
 }*/
 
 
@@ -21,9 +21,10 @@ html, body {
     height: 100%;
     display: grid;
     grid-gap: 3px;
-    grid-template-columns: repeat(12, 1fr); 
-    grid-template-areas: 
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-areas:
         ". . . . . t t . . . . ."
+        ". . . . . m m . . . . ."
         ". . . . h h h h . . . ."
         ". . . . c c c c . . . ."
         ". . . . . q q . . . . .";
@@ -31,6 +32,13 @@ html, body {
 
 .title {
     grid-area: t;
+    border-style: solid;
+    align-content: center;
+    background-color: white;
+}
+
+.pic {
+    grid-area: m;
     border-style: solid;
     align-content: center;
     background-color: white;
@@ -77,8 +85,7 @@ html, body {
 
 .p {
   align-content: center;
-  margin: 0;    
+  margin: 0;
   padding: 0;
 
 }
-
