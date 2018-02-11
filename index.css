@@ -42,6 +42,11 @@ html, body {
     border-style: solid;
     align-content: center;
     background-color: white;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    display: block;
+    margin: auto;
 }
 
 .header {
