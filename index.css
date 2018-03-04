@@ -19,6 +19,16 @@ a:hover {
   color: #2798FE;
 }
 
+.onpage {
+  color: #555;
+  text-decoration: none;
+}
+
+.onpage:hover {
+  color: #555;
+  font-style: normal;
+}
+
 img {
   max-width: 100%;
   margin-bottom: 1em;
