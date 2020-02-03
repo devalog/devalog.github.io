@@ -87,18 +87,17 @@ img {
   line-height: 150%;
 }
 
-
-td {
-  padding: 0em 1em 0em 0em;
-  font-size: 0.95em;
-  line-height: 150%;
-}
-
 .portrait {
   border-radius: 50%;
   width: 15em;
   display: block;
   margin: auto;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
 }
 
 }
