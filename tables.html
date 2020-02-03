@@ -1,6 +1,23 @@
  <head>
   <title>Using tables in technical documentation</title>
   <link rel="stylesheet" type="text/css" href="all.css">
+  <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
 </head>
 
 <body>
@@ -33,7 +50,8 @@
         <h2>When to use tables instead of lists</h2>
         <br>
         <p>Lists are good, especially when the list content is just doing one thing. For example, you might want to just list various use cases:</p>
-         <p>“You can use System A in the following use cases:
+   <br>      
+   <p>“You can use System A in the following use cases:
         <ul>
         <li>Use case 1</li>
         <li>Use case 2</li>
@@ -77,6 +95,7 @@
    <td>Way 3</td>
   </tr>
  </table>
+ <br>
  <h3>Important caveat</h3>
  <br>
  <p>Lists are always better than tables for numbered lists (for example, if you’re writing step-by-step instructions). Tables usually don’t do a good job of conveying chronology.</p>
