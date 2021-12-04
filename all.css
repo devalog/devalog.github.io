@@ -94,8 +94,17 @@ img {
   margin: auto;
 }
 
-tr th {
-  padding: 3px;
+.booklist {
+  display: grid;
+  grid-column-gap: 5px;
+  grid-row-gap: 10px;
+  grid-template-columns: 1fr .6fr .25fr 50px;
 }
 
+.booklist .rating {
+  justify-self: center;
+}
+
+.booklist .date {
+  padding-right: 1em;
 }
