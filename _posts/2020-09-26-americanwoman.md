@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<i>American Woman</i> considers how radicalism can produce ambivalence"
+title: "*American Woman* considers how radicalism can produce ambivalence"
 date: 2020-09-26
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A great setup and disappointing payoff in <i>Admission</i>"
+title: "A great setup and disappointing payoff in *Admission*"
 date: 2024-12-08
 ---
 
