@@ -6,3 +6,11 @@ layout: default
   {{ content }}
   {%- comment -%} This prevents any posts from being displayed on the home page {%- endcomment -%}
 </div>
+
+{% for post in site.posts %}
+  <h2>
+    <a href="{{ post.url | relative_url }}">
+      {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    </a>
+  </h2>
+{% endfor %}
