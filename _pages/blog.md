@@ -13,3 +13,12 @@ Mostly books but also some other things.
     <small>{{ post.date | date_to_string }}</small>
   </article>
 {% endfor %}
+
+
+{% for post in site.posts %}
+  <h2>
+    <a href="{{ post.url | relative_url }}">
+      {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    </a>
+  </h2>
+{% endfor %}
