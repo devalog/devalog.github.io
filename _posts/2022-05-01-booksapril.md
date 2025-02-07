@@ -17,3 +17,6 @@ This book is a novella (*The Country of the Pointed Firs*) and a collection of s
 # #3: *Conversations with Friends* by Sally Rooney
 
 I read this book, for the third time, in anticipation of the miniseries that's coming out in a few weeks. I liked it just alright this time around. I found myself getting much more annoyed at with the characters and their lack of communication this read. Does this just mean I'm getting older?
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

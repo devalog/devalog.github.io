@@ -153,3 +153,6 @@ If a book you want to read isn’t available on OverDrive, you can:
 1. Buy it via the Kobo catalog. Before you buy an individual book, look into Kobo’s [membership options](https://help.kobo.com/hc/en-us/sections/360002747873-Kobo-Super-Points). It might be a better deal. 
 
 1. Download it. If you are located in the United States and you want to check out a book from before 1929, you may want to find a downloadable public domain copy of the book instead of checking it out from the library so you aren’t subject to the time limits of a library book. [Standard Ebooks](https://standardebooks.org/) has a robust catalog of public domain ebooks. 
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

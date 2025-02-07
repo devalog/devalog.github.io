@@ -27,3 +27,6 @@ In *Beautiful World*, a similar exchange takes longer, and is not funny:
 "Alice, do you remember a few weeks or months ago I sent you an email about the Late Bronze Age collapse? I went on reading about it afterwards, and it seems that while little is known about the period, scholarly interpretations are more various than the Wikipedia page led me to believe. We do know that before the collapse, rich and literate palace economies in the Eastern Mediterranean readed in exorbitant costly goods, apparently sending and receiving them as gifts to and from rules of other kingdoms…" and on, and on, and on (168).
 
 The first-person style of this exchange removes all the ironic distance that the similar NP scene had. It's not as concise, not as snappy. And the characters are deadly serious – they aren't able to see the ironic side of their interactions like the characters in NP are able to, and there's no self-awareness. Maybe the characters, and maybe Rooney too, are just too tired and discouraged when confronted with the state of the world to be concise and ironic. I don't blame them – it just doesn't make particularly good fiction.
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -21,3 +21,6 @@ Overlong, too much explanation, so generic:
 - "Minjun didn't hate it. In fact, he found himself wanting to listen to her for a couple more hours after work, over a beer or something. As to why he would feel this way, he thought about it and concluded that perhaps if he was able to listen to someone rant for a few hours, he would also eventually be able to articulate his own struggles. For the first time, he was acutely aware of how lonely he'd been for a long time" (45).
 
 This book felt like it was trying to be a novel, a memoir about running a bookstore, and an encouraging self-help book. I would be interested in reading any one of these individual things. Smooshed all together, though, it wasn't any of these things. This wasn't a book I wanted to continue.
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

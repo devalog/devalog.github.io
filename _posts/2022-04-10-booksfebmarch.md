@@ -31,3 +31,6 @@ This book, which was the last novel Hardy published, has been on my list for som
 # #6: *The Country of the Pointed Firs and Other Stories* by Sarah Orne Jewett
 
 The novella and short stories in the book were really great. Most of the short stories deal with older women who are widowed or never married. They often cover the events of a single day, or even just an extended conversation between two characters. The novella, too, basically was a chronicle of everyday life.
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

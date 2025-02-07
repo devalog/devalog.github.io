@@ -45,3 +45,6 @@ I find both Hemingway and Baldwin a bit hard to read at times. While each senten
 # #6: *Minor Feelings* by Cathy Park Hong
 
 I read half of this book about a year ago, but stopped when it was due at the library. I finally started *Minor Feelings* over and read it in its entirety. I really liked parts of this book (I loved the chapter about [Theresa Cha](https://en.wikipedia.org/wiki/Theresa_Hak_Kyung_Cha)), but overall, too many references to Twitter – and so many references overall – bogged me down. The narrative style was unconventional and very artistic, but maybe I'm not artistic enough to fully get it!
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

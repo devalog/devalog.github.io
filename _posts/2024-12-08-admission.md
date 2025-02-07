@@ -15,3 +15,6 @@ There are multiple storylines about unintended pregnancies in *Admission*. (I co
 I really liked the central motif (and title) of admission – obviously this refers to college admissions, but also to the admission or retention of secrets. The Latecomer did something similar. The title/central motif most obviously referred to the arrival of a fourth child many years after the birth of the first three (triplets), but also to people arriving or doing something too late.
 
 *Admission* was published in 2009, significantly before *The Latecomer* (2022) and *The Plot* (2021). And it reads like that too, like an earlier, less polished version of the writing style I so love in these later two books.
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
