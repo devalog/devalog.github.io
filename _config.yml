@@ -24,16 +24,12 @@ email: devinannlogan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: devinlogan
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-minima:
-  social_links:
-    - platform: linkedin
-      user_url: "https://www.linkedin.com/in/devinlogan"
 
 include:
   - _pages
