@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Finished books"
+title: "Books I've read"
 permalink: /books/
 ---
 
