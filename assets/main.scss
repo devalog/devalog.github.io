@@ -32,6 +32,7 @@ img {
 }
 
 .side-by-side-image {
-    max-width: 45%;    /* Make images smaller to fit side by side */
+    max-width: 300px;
+    height: auto;    /* Make images smaller to fit side by side */
     margin: 0;         /* Remove the margin we set on regular images */
 }
