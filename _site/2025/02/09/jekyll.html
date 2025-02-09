@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Using an LLM to revamp my site | Devin Logan, Freelance Technical Writer and Editor</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Using an LLM to revamp my site" />
+<meta name="author" content=" " />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this." />
+<meta property="og:description" content="This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this." />
+<link rel="canonical" href="http://localhost:4000/2025/02/09/jekyll.html" />
+<meta property="og:url" content="http://localhost:4000/2025/02/09/jekyll.html" />
+<meta property="og:site_name" content="Devin Logan, Freelance Technical Writer and Editor" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-02-09T00:00:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Using an LLM to revamp my site" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":" "},"dateModified":"2025-02-09T00:00:00-05:00","datePublished":"2025-02-09T00:00:00-05:00","description":"This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this.","headline":"Using an LLM to revamp my site","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2025/02/09/jekyll.html"},"url":"http://localhost:4000/2025/02/09/jekyll.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css">
+  <link rel="icon" type="image/png" href="/assets/favicon.png"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Devin Logan, Freelance Technical Writer and Editor" /></head><body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Devin Logan, Freelance Technical Writer and Editor</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/blog/">Blog</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry">
+  <header class="post-header">
+    <h1 class="post-title p-name">Using an LLM to revamp my site
+</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2025-02-09T00:00:00-05:00">Feb 9, 2025
+      </time>
+    </p>
+  </header>
+
+  <div class="post-content e-content">
+    <p>This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this.</p>
+
+<p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
+
+<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" class="bordered-image" /></p>
+
+<p>This site used to be raw HTML. I wanted to change it to Jekyll and Markdown for a few reasons:</p>
+
+<ul>
+  <li>I was tired of writing raw HTML every time I added a page.</li>
+  <li>I wanted to write Markdown. Markdown is easier and I’m really familiar with it.</li>
+  <li>I left my job at Google and am embarking on a freelance technical writing career. I wanted to have a site that was a little more professional/technical than just plain HTML. I also wanted to partition the site into two sections: information about me as a freelancer and blog posts. But didn’t want to design a new look from scratch.</li>
+  <li>I wanted to do a non-work-related technical project.</li>
+</ul>
+
+<p>My site is hosted on GitHub pages and I own my domain (devinlogan.org) through Domain.com. I wanted to keep this setup, but just build the site with Jekyll instead of with just handwritten HTML.</p>
+
+<h1 id="installing-jekyll">Installing Jekyll</h1>
+
+<ol>
+  <li>
+    <p>I actually didn’t know if I needed to do anything before installing Jekyll, so I explained my situation to Claude.</p>
+
+    <p><img src="/assets/jekyll_site/initial_prompt.png" alt="Initial prompt to Claude" /></p>
+  </li>
+  <li>
+    <p>Sure enough, installing Jekyll was the first step. Claude instructed me how to do that:</p>
+
+    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" class="small-image" /></p>
+  </li>
+  <li>
+    <p>After trying out the first step, I got an error:</p>
+
+    <p><code class="language-plaintext highlighter-rouge">(ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory.)</code></p>
+
+    <p>Claude recommended two different ways I could do it instead (I chose the second).</p>
+
+    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" class="small-image" /></p>
+  </li>
+</ol>
+
+<p>Now I had a basic Jekyll site up and running.</p>
+
+<p>Looking back at the Jekyll documentation, the instructions are all there. I could have just used the docs. The issue was though, the Jekyll docs have a ton of prerequisites and I found myself getting really bogged down in them, especially as someone who has never used Ruby before. The docs are better and more thorough than Claude. But Claude was more approachable.</p>
+
+<p>I also didn’t know whether installing Jekyll was the first thing I needed to do. I thought there might be some other step I needed to complete. I could have certainly clarified that through internet searching. But it was a lot more straightforward to just explain my situation to Claude and ask what I needed to do first.</p>
+
+<h1 id="working-through-some-issues">Working through some issues</h1>
+
+<p>I had a Jekyll site running. Now, as instructed by Claude, I wanted to convert some of my HTML pages to Markdown, put them on the site, and see how things looked. Claude converted my raw HTML files into Markdown, even putting in front matter. I had to edit the formatting a bit, but it was a pretty seamless process.</p>
+
+<p>Next, I spent some time on the design. I wanted the site index to be a page about me and my freelance work. I wanted my blog to be on a separate page linked from the index. I started to execute the design and ran into some issues along the way.</p>
+
+<h2 id="issue-1-take-posts-off-of-the-homepage">Issue #1: Take posts off of the homepage.</h2>
+
+<p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
+
+<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" class="bordered-small-image" /></p>
+
+<ol>
+  <li>
+    <p>First, I thought I’d just change the theme and find one that suited me better. I found a few that looked good and got one up and running, but then I realized I’d have to make additional changes to get the look I wanted. That seemed annoying so I just went back to the basic theme.</p>
+  </li>
+  <li>
+    <p>Next, I tried to get Claude to help me. First, Claude told me to remove the for loops from the index, but I didn’t have any. My index was literally just text, no special formatting.</p>
+  </li>
+  <li>
+    <p>I reworded my question, and Claude told me to override the home layout. This technically did what I wanted – it removed the posts, but also all other styling on the page. Other than the removing posts, I wanted the Minima layout and styling preserved.</p>
+
+    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" class="small-image" /></p>
+  </li>
+  <li>
+    <p>I tried again. Claude wanted me to implement a bunch of JavaScript. This seemed like a hack, and I wanted a better solution.</p>
+  </li>
+  <li>
+    <p>So I went to the internet. I read some stuff and tried some stuff and nothing was quite right. For example, a common issue people have is wanting to <a href="https://tamrazyan.com/how-to-hide-a-post-on-jekyll">hide some posts</a>. But I wanted to hide all posts, not filter some out.</p>
+  </li>
+  <li>
+    <p>I finally went back to Claude and asked how to override the Minima theme. This turned out to be the correct wording! I got a simple solution that worked right away.</p>
+
+    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" class="small-image" />
+ <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" class="bordered-small-image" /></p>
+  </li>
+</ol>
+
+<h2 id="issue-2-italicize-words-in-the-title-of-a-post">Issue #2: Italicize words in the title of a post</h2>
+
+<p>As I continued converting more pages from HTML to Markdown, I ran into another issue. Many of my blog posts are about books, and many of my post titles contain book titles. I wanted to italicize these. I figured this would be an easy fix that a lot of people wanted to do, so I went to the internet first instead of Claude. I found a lot of resources.</p>
+
+<ol>
+  <li>
+    <p>First I tried <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tags around the title. This correctly italicized the title on the excerpt page, but when I clicked into the post the <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tags weren’t properly rendered.</p>
+  </li>
+  <li>
+    <p>I had some things commented out in the yml file that I thought were unrelated to the italics issues, but when I did a dive into the Minima documentation, I cleaned that up and it fixed it.</p>
+  </li>
+  <li>
+    <p>This worked for a while, but when I went to connect the local instance of my site to GitHub and my domain name, the italics broke again.</p>
+  </li>
+  <li>
+    <p>I went to Claude. Claude recommended I take out the HTML tags and replace it with Markdown formatting. I’d already tried this, but I gave it a shot again. It didn’t work.</p>
+  </li>
+  <li>
+    <p>I tried again, this time specifying that I was using the Minima theme. Once again, this was the key. Claude instructed me to override the <code class="language-plaintext highlighter-rouge">post.html</code> layout file so that it handled Markdown formatting in post titles. This worked!
+ <img src="/assets/jekyll_site/italics_solution.png" alt="Claude's solution for italics in post titles" class="small-image" /></p>
+  </li>
+</ol>
+
+<h2 id="issue-3-add-a-favicon">Issue #3: Add a favicon</h2>
+
+<p>I thought this would be super easy and just a single line of code somewhere, but I struggled finding the right solution. I found a number of help threads and a couple of blog posts about this topic, but their solutions were overly complicated or just gave plain text descriptions of the solutions with no code. I’ve added favicons to sites before and I was convinced that this should be easy. I just wanted someone to give me the code.</p>
+
+<ol>
+  <li>
+    <p>First, Claude told me to convert my <code class="language-plaintext highlighter-rouge">.jpg</code> to <code class="language-plaintext highlighter-rouge">.png</code>. Easy enough. I used <a href="https://www.adobe.com/express/feature/image/convert/jpg-to-png">Adobe’s free converter</a>.</p>
+  </li>
+  <li>
+    <p>Then, Claude told me to put the file in the root directory or  /assets folder. I already had an assets folder so I put it there.</p>
+  </li>
+  <li>
+    <p>Next, Claude told me to add the favicon to my site by overriding Minima’s default head.html file. I did this by creating a new <code class="language-plaintext highlighter-rouge">head.html</code> file in the <code class="language-plaintext highlighter-rouge">_includes</code> folder. I added the code Claude told me to and this subsequently broke all of the formatting for the site. Once again, Claude provided a solution that both worked and broke a bunch of other things.</p>
+  </li>
+  <li>
+    <p>Next, Claude took a more nuanced, Minima-specific approach. I copied Minima’s <code class="language-plaintext highlighter-rouge">head.html</code> file over to my own, and then adjusted some of the code to account for the favicon. This worked.</p>
+
+    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" class="small-image" /></p>
+  </li>
+</ol>
+
+<h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
+
+<p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
+
+<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" class="small-image" /></p>
+
+<h1 id="takeaways">Takeaways</h1>
+
+<p>While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes. Also, you’re asking questions of an LLM – you can word them badly or in the dumbest way possible, and you still get a nice answer. I’m not a software engineer, but I have a decent amount of technical ability. I could switch between asking Claude really technical questions and asking Claude to clarify a trivial point that most engineers would already know. It’s a really great way to accomplish a complex task while also quickly filling in gaps in your knowledge.</p>
+
+  </div>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Devin Logan, Freelance Technical Writer and Editor</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"> </li><li><a class="u-email" href="mailto:devinannlogan@gmail.com">devinannlogan@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://www.linkedin.com/in/devinlogan"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg> <span class="username">devinlogan</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

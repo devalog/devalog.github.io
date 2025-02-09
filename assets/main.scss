@@ -1,0 +1,18 @@
+---
+---
+
+@import "minima";
+
+// Your custom CSS goes here
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;        // This makes the image a block element
+    margin-left: auto;     // These two margin properties
+    margin-right: auto;    // center the image
+    max-width: 600px;
+    height: auto;
+    margin: 20px auto;    // This adds 20px top and bottom, and auto left/right for centering
+}

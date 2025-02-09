@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-07T19:50:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Freelance Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Reading Trollope for the first time</title><link href="http://localhost:4000/2025/01/27/trollope.html" rel="alternate" type="text/html" title="Reading Trollope for the first time" /><published>2025-01-27T00:00:00-05:00</published><updated>2025-01-27T00:00:00-05:00</updated><id>http://localhost:4000/2025/01/27/trollope</id><content type="html" xml:base="http://localhost:4000/2025/01/27/trollope.html"><![CDATA[<p>After years and years of seeing Trollope books in used bookstores and being like “I should read those someday,” I finally read <em>The Claverings</em> in October 2024. I chose this specific book to be my foray into Trollope because it was a standalone book (not part of a larger series like the Chronicles of Barsetshire) and the plot seemed similar to the kind of stuff I already like in Victorian literature (basically, marriage plot with a twist). While I’m glad I read the book and enjoyed parts of it, I found it overlong and depressingly patriarchal. I’m honestly surprised by the <a href="https://www.goodreads.com/book/show/469232.The_Claverings">rave reviews on Goodreads</a>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-09T10:59:57-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Freelance Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Using an LLM to revamp my site</title><link href="http://localhost:4000/2025/02/09/jekyll.html" rel="alternate" type="text/html" title="Using an LLM to revamp my site" /><published>2025-02-09T00:00:00-05:00</published><updated>2025-02-09T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/09/jekyll</id><content type="html" xml:base="http://localhost:4000/2025/02/09/jekyll.html"><![CDATA[<p>This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this.</p>
+
+<p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
+
+<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" class="bordered-image" /></p>
+
+<p>This site used to be raw HTML. I wanted to change it to Jekyll and Markdown for a few reasons:</p>
+
+<ul>
+  <li>I was tired of writing raw HTML every time I added a page.</li>
+  <li>I wanted to write Markdown. Markdown is easier and I’m really familiar with it.</li>
+  <li>I left my job at Google and am embarking on a freelance technical writing career. I wanted to have a site that was a little more professional/technical than just plain HTML. I also wanted to partition the site into two sections: information about me as a freelancer and blog posts. But didn’t want to design a new look from scratch.</li>
+  <li>I wanted to do a non-work-related technical project.</li>
+</ul>
+
+<p>My site is hosted on GitHub pages and I own my domain (devinlogan.org) through Domain.com. I wanted to keep this setup, but just build the site with Jekyll instead of with just handwritten HTML.</p>
+
+<h1 id="installing-jekyll">Installing Jekyll</h1>
+
+<ol>
+  <li>
+    <p>I actually didn’t know if I needed to do anything before installing Jekyll, so I explained my situation to Claude.</p>
+
+    <p><img src="/assets/jekyll_site/initial_prompt.png" alt="Initial prompt to Claude" /></p>
+  </li>
+  <li>
+    <p>Sure enough, installing Jekyll was the first step. Claude instructed me how to do that:</p>
+
+    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" class="small-image" /></p>
+  </li>
+  <li>
+    <p>After trying out the first step, I got an error:</p>
+
+    <p><code class="language-plaintext highlighter-rouge">(ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory.)</code></p>
+
+    <p>Claude recommended two different ways I could do it instead (I chose the second).</p>
+
+    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" class="small-image" /></p>
+  </li>
+</ol>
+
+<p>Now I had a basic Jekyll site up and running.</p>
+
+<p>Looking back at the Jekyll documentation, the instructions are all there. I could have just used the docs. The issue was though, the Jekyll docs have a ton of prerequisites and I found myself getting really bogged down in them, especially as someone who has never used Ruby before. The docs are better and more thorough than Claude. But Claude was more approachable.</p>
+
+<p>I also didn’t know whether installing Jekyll was the first thing I needed to do. I thought there might be some other step I needed to complete. I could have certainly clarified that through internet searching. But it was a lot more straightforward to just explain my situation to Claude and ask what I needed to do first.</p>
+
+<h1 id="working-through-some-issues">Working through some issues</h1>
+
+<p>I had a Jekyll site running. Now, as instructed by Claude, I wanted to convert some of my HTML pages to Markdown, put them on the site, and see how things looked. Claude converted my raw HTML files into Markdown, even putting in front matter. I had to edit the formatting a bit, but it was a pretty seamless process.</p>
+
+<p>Next, I spent some time on the design. I wanted the site index to be a page about me and my freelance work. I wanted my blog to be on a separate page linked from the index. I started to execute the design and ran into some issues along the way.</p>
+
+<h2 id="issue-1-take-posts-off-of-the-homepage">Issue #1: Take posts off of the homepage.</h2>
+
+<p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
+
+<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" class="bordered-small-image" /></p>
+
+<ol>
+  <li>
+    <p>First, I thought I’d just change the theme and find one that suited me better. I found a few that looked good and got one up and running, but then I realized I’d have to make additional changes to get the look I wanted. That seemed annoying so I just went back to the basic theme.</p>
+  </li>
+  <li>
+    <p>Next, I tried to get Claude to help me. First, Claude told me to remove the for loops from the index, but I didn’t have any. My index was literally just text, no special formatting.</p>
+  </li>
+  <li>
+    <p>I reworded my question, and Claude told me to override the home layout. This technically did what I wanted – it removed the posts, but also all other styling on the page. Other than the removing posts, I wanted the Minima layout and styling preserved.</p>
+
+    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" class="small-image" /></p>
+  </li>
+  <li>
+    <p>I tried again. Claude wanted me to implement a bunch of JavaScript. This seemed like a hack, and I wanted a better solution.</p>
+  </li>
+  <li>
+    <p>So I went to the internet. I read some stuff and tried some stuff and nothing was quite right. For example, a common issue people have is wanting to <a href="https://tamrazyan.com/how-to-hide-a-post-on-jekyll">hide some posts</a>. But I wanted to hide all posts, not filter some out.</p>
+  </li>
+  <li>
+    <p>I finally went back to Claude and asked how to override the Minima theme. This turned out to be the correct wording! I got a simple solution that worked right away.</p>
+
+    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" class="small-image" />
+ <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" class="bordered-small-image" /></p>
+  </li>
+</ol>
+
+<h2 id="issue-2-italicize-words-in-the-title-of-a-post">Issue #2: Italicize words in the title of a post</h2>
+
+<p>As I continued converting more pages from HTML to Markdown, I ran into another issue. Many of my blog posts are about books, and many of my post titles contain book titles. I wanted to italicize these. I figured this would be an easy fix that a lot of people wanted to do, so I went to the internet first instead of Claude. I found a lot of resources.</p>
+
+<ol>
+  <li>
+    <p>First I tried <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tags around the title. This correctly italicized the title on the excerpt page, but when I clicked into the post the <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tags weren’t properly rendered.</p>
+  </li>
+  <li>
+    <p>I had some things commented out in the yml file that I thought were unrelated to the italics issues, but when I did a dive into the Minima documentation, I cleaned that up and it fixed it.</p>
+  </li>
+  <li>
+    <p>This worked for a while, but when I went to connect the local instance of my site to GitHub and my domain name, the italics broke again.</p>
+  </li>
+  <li>
+    <p>I went to Claude. Claude recommended I take out the HTML tags and replace it with Markdown formatting. I’d already tried this, but I gave it a shot again. It didn’t work.</p>
+  </li>
+  <li>
+    <p>I tried again, this time specifying that I was using the Minima theme. Once again, this was the key. Claude instructed me to override the <code class="language-plaintext highlighter-rouge">post.html</code> layout file so that it handled Markdown formatting in post titles. This worked!
+ <img src="/assets/jekyll_site/italics_solution.png" alt="Claude's solution for italics in post titles" class="small-image" /></p>
+  </li>
+</ol>
+
+<h2 id="issue-3-add-a-favicon">Issue #3: Add a favicon</h2>
+
+<p>I thought this would be super easy and just a single line of code somewhere, but I struggled finding the right solution. I found a number of help threads and a couple of blog posts about this topic, but their solutions were overly complicated or just gave plain text descriptions of the solutions with no code. I’ve added favicons to sites before and I was convinced that this should be easy. I just wanted someone to give me the code.</p>
+
+<ol>
+  <li>
+    <p>First, Claude told me to convert my <code class="language-plaintext highlighter-rouge">.jpg</code> to <code class="language-plaintext highlighter-rouge">.png</code>. Easy enough. I used <a href="https://www.adobe.com/express/feature/image/convert/jpg-to-png">Adobe’s free converter</a>.</p>
+  </li>
+  <li>
+    <p>Then, Claude told me to put the file in the root directory or  /assets folder. I already had an assets folder so I put it there.</p>
+  </li>
+  <li>
+    <p>Next, Claude told me to add the favicon to my site by overriding Minima’s default head.html file. I did this by creating a new <code class="language-plaintext highlighter-rouge">head.html</code> file in the <code class="language-plaintext highlighter-rouge">_includes</code> folder. I added the code Claude told me to and this subsequently broke all of the formatting for the site. Once again, Claude provided a solution that both worked and broke a bunch of other things.</p>
+  </li>
+  <li>
+    <p>Next, Claude took a more nuanced, Minima-specific approach. I copied Minima’s <code class="language-plaintext highlighter-rouge">head.html</code> file over to my own, and then adjusted some of the code to account for the favicon. This worked.</p>
+
+    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" class="small-image" /></p>
+  </li>
+</ol>
+
+<h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
+
+<p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
+
+<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" class="small-image" /></p>
+
+<h1 id="takeaways">Takeaways</h1>
+
+<p>While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes. Also, you’re asking questions of an LLM – you can word them badly or in the dumbest way possible, and you still get a nice answer. I’m not a software engineer, but I have a decent amount of technical ability. I could switch between asking Claude really technical questions and asking Claude to clarify a trivial point that most engineers would already know. It’s a really great way to accomplish a complex task while also quickly filling in gaps in your knowledge.</p>]]></content><author><name> </name></author><summary type="html"><![CDATA[This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this.]]></summary></entry><entry><title type="html">Reading Trollope for the first time</title><link href="http://localhost:4000/2025/01/27/trollope.html" rel="alternate" type="text/html" title="Reading Trollope for the first time" /><published>2025-01-27T00:00:00-05:00</published><updated>2025-01-27T00:00:00-05:00</updated><id>http://localhost:4000/2025/01/27/trollope</id><content type="html" xml:base="http://localhost:4000/2025/01/27/trollope.html"><![CDATA[<p>After years and years of seeing Trollope books in used bookstores and being like “I should read those someday,” I finally read <em>The Claverings</em> in October 2024. I chose this specific book to be my foray into Trollope because it was a standalone book (not part of a larger series like the Chronicles of Barsetshire) and the plot seemed similar to the kind of stuff I already like in Victorian literature (basically, marriage plot with a twist). While I’m glad I read the book and enjoyed parts of it, I found it overlong and depressingly patriarchal. I’m honestly surprised by the <a href="https://www.goodreads.com/book/show/469232.The_Claverings">rave reviews on Goodreads</a>.</p>
 
 <p><em>The Claverings</em> was initially serialized in Cornhill magazine from 1866-1867. I’ve read a lot of books that were originally serialized, but this one felt especially overlong. It contained lots of plot recaps and unnecessary plot filler.</p>
 
@@ -336,20 +473,4 @@
 
 <p>The best book I read recently was probably <em>Passing</em> by Nella Larsen. The book was so tense and readable and concise. <em>Klara and the Sun</em> was good too – I like speculative fiction that has disorienting, unobtrusive world-building, where the reader has to figure out over the course of many pages how exactly the setting relates to present-day Earth. <em>Klara and the Sun</em> did that really well.</p>
 
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><summary type="html"><![CDATA[The worst book I read recently was Lady Chatterley’s Lover, which provoked a landmark obscenity trial in the UK in 1960. Some critics think D.H. Lawrence’s writing style was influenced by his tuberculosis, which he died from two years after publishing Lady Chatterley’s Lover. Apparently, tuberculosis can cause a heightened emotional state and also impotence, which matches up pretty well to my personal beef with the book: I found the prose insufferably flowery and the characters flat and annoying.]]></summary></entry><entry><title type="html">Buy Nothing groups in Mountain View and San Mateo</title><link href="http://localhost:4000/2022/05/20/buynothing.html" rel="alternate" type="text/html" title="Buy Nothing groups in Mountain View and San Mateo" /><published>2022-05-20T00:00:00-04:00</published><updated>2022-05-20T00:00:00-04:00</updated><id>http://localhost:4000/2022/05/20/buynothing</id><content type="html" xml:base="http://localhost:4000/2022/05/20/buynothing.html"><![CDATA[<p>I moved from Mountain View to San Mateo at the end of March. In anticipation of my move, I joined my Mountain View neighborhood’s <a href="https://buynothingproject.org/">Buy Nothing group</a> in order to offload some of the things that I didn’t want to pack up and move – things like clothes I no longer wore, books I read and didn’t like, some cheap IKEA furniture that I longer needed, and various items of an old roommate that I’d never gotten around to getting rid of. The Mountain View Buy Nothing group I joined was extremely active – multiple people expressed interest in almost everything I posted, and I was ultimately able to rehome a lot of items. I was surprised how great doing this felt – less profit driven than donating to Goodwill, more “useful” than bringing to the recycling center, more personal than posting on the free section of Craigslist, and more altruistic than selling on eBay (not that I could sell things like miscellaneous light bulbs anyway).</p>
-
-<p>Then, I moved to San Mateo. As I unpacked my things, I found even more items that I wanted to get rid of. I joined the San Mateo Buy Nothing group and posted the following items: an unopened assorted popcorn gift kit; a small unopened bag of fancy dried fruit; a gently used but clean twin mattress protector; and two new, unopened water filters for a ZeroWater (sorta like a Brita) pitcher. If I had posted these back in Mountain View, I know without a doubt that most if not items would have gone quickly – definitely within the hour and with “multiple interest” (to use the group’s terminology). But here in the San Mateo group (which is, interestingly, much larger than the Mountain View group) –  silence. Well, mostly. The popcorn kit went in less than 30 minutes, with 2-3 people interested in it. The fruit went a few hours later. And nothing else went.</p>
-
-<p>I posted the rest of the items on Craigslist’s free section. The mattress pad and water filters went very quickly, as did a lot of lesser quality items like a swiffer with no pad (I couldn’t believe someone actually wanted this!) and a strand of twinkle lights with some bulbs out.</p>
-
-<p>This played out the same way the few other times I posted something on the Buy Nothing San Mateo group – I posted, nobody was interested, so I offloaded the items on Craigslist’s free section. The items I was trying to give away weren’t crappy or anything, either – they went pretty quickly on Craigslist.</p>
-
-<p>This isn’t to say that the San Mateo Buy Nothing group isn’t active at all – it is, but mainly for food (“I have leftover cupcakes from a specialty bakery”) and really nice, larger items (“I have a pop up soccer net that’s brand new” or “here’s an iPad I no longer use.”). The Mountain View one skewed toward smaller, lower-priced items. For example, I posted a random assortment of miscellaneous loose lightbulbs, and got “multiple interest” almost immediately.</p>
-
-<p>Why is this happening? I think it has something to do with socioeconomic diversity – the San Mateo group I’m in now doesn’t seem to have much, while the Mountain View group seemed to have a lot more. The area I lived in in Mountain View (that is, the area encompassed in the Buy Nothing group) consisted primarily of small older apartment complexes, newer row houses, older ranch style single-family homes, and a trailer park. In contrast, North San Mateo (where I now live) primarily includes single family homes that are significantly more expensive than the single family homes in my old Mountain View neighborhood, along with a smattering of apartment complexes that are, overall, nicer and more expensive than the complex I lived in in Mountain View.</p>
-
-<p>This is all to say, I’m nostalgic for my old Buy Nothing group. I missed being able to post a giant, half-used canister of laundry detergent that my old roommate left behind and within the hour, be able to gift it to a woman who’s been doing a lot of laundry because her young son keeps peeing his pants. It felt genuinely good to be able to offload some sweaters that I didn’t wear much anymore to other women who told me how much they loved them after picking them up, as opposed to selling them on eBay or Poshmark. (Which I’ve also done – but that’s a story for a different article!)</p>
-
-<p>That’s not to say there’s not a lot of positive stuff going on in the San Mateo Buy Nothing group – for example, there’s a woman who makes literal gallons of soup every few weeks, just to be able to give them away to members of the group. And I noticed what could possibly be hoarding tendencies more often on the Mountain View group – that is, people who commented on multiple posts a day. But still, it seemed to me that in Mountain View, goods were actually getting meaningfully redistributed from people who didn’t want or need something anymore to neighbors who wanted or needed that very thing.</p>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><summary type="html"><![CDATA[I moved from Mountain View to San Mateo at the end of March. In anticipation of my move, I joined my Mountain View neighborhood’s Buy Nothing group in order to offload some of the things that I didn’t want to pack up and move – things like clothes I no longer wore, books I read and didn’t like, some cheap IKEA furniture that I longer needed, and various items of an old roommate that I’d never gotten around to getting rid of. The Mountain View Buy Nothing group I joined was extremely active – multiple people expressed interest in almost everything I posted, and I was ultimately able to rehome a lot of items. I was surprised how great doing this felt – less profit driven than donating to Goodwill, more “useful” than bringing to the recycling center, more personal than posting on the free section of Craigslist, and more altruistic than selling on eBay (not that I could sell things like miscellaneous light bulbs anyway).]]></summary></entry></feed>
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><summary type="html"><![CDATA[The worst book I read recently was Lady Chatterley’s Lover, which provoked a landmark obscenity trial in the UK in 1960. Some critics think D.H. Lawrence’s writing style was influenced by his tuberculosis, which he died from two years after publishing Lady Chatterley’s Lover. Apparently, tuberculosis can cause a heightened emotional state and also impotence, which matches up pretty well to my personal beef with the book: I found the prose insufferably flowery and the characters flat and annoying.]]></summary></entry></feed>
