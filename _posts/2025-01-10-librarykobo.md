@@ -22,8 +22,7 @@ OverDrive is a digital platform that distributes library content to e-readers. U
 
 	<div class="image-container">
     <img src="/assets/kobo/more.jpg" alt="Kobo more menu" class="side-by-side-image">
-    <img src="/assets/kobo/settings.jpg" alt="Kobo settings menu" class="side-by-side-image">
-</div>
+    <img src="/assets/kobo/settings.jpg" alt="Kobo settings menu" class="side-by-side-image"></div>
 
 
 1. In the OverDrive menu, select **Add a library**. Search for your library in the OverDrive search bar, select it, and then enter your library card and pin directly on the device. 
@@ -32,8 +31,7 @@ OverDrive is a digital platform that distributes library content to e-readers. U
 
 	<div class="image-container">
     <img src="/assets/kobo/notsignedin.jpg" alt="OverDrive menu: user not signed in" class="side-by-side-image">
-    <img src="/assets/kobo/addlibrary.jpg" alt="Add a library page" class="side-by-side-image">
-</div>
+    <img src="/assets/kobo/addlibrary.jpg" alt="Add a library page" class="side-by-side-image"></div>
 
 1. When you’ve successfully added your library card, the device returns you to the OverDrive menu. Check the **Communication** bar to make sure your email address is up to date. OverDrive sends notifications to this email address to let you know when holds are available to borrow. 
 
