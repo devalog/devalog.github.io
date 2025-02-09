@@ -677,4 +677,9 @@ img {
   margin: 0; /* Remove the margin we set on regular images */
 }
 
+/* Spacing after posts */
+.post-list article {
+  margin-bottom: 2em;
+}
+
 /*# sourceMappingURL=main.css.map */
