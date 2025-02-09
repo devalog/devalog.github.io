@@ -53,7 +53,7 @@
 
 <p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
 
-<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" class="bordered-image" /></p>
+<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" /></p>
 
 <p>This site used to be raw HTML. I wanted to change it to Jekyll and Markdown for a few reasons:</p>
 
@@ -77,7 +77,7 @@
   <li>
     <p>Sure enough, installing Jekyll was the first step. Claude instructed me how to do that:</p>
 
-    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" /></p>
   </li>
   <li>
     <p>After trying out the first step, I got an error:</p>
@@ -86,7 +86,7 @@
 
     <p>Claude recommended two different ways I could do it instead (I chose the second).</p>
 
-    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" /></p>
   </li>
 </ol>
 
@@ -106,7 +106,7 @@
 
 <p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
 
-<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" class="bordered-small-image" /></p>
+<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" /></p>
 
 <ol>
   <li>
@@ -118,7 +118,7 @@
   <li>
     <p>I reworded my question, and Claude told me to override the home layout. This technically did what I wanted – it removed the posts, but also all other styling on the page. Other than the removing posts, I wanted the Minima layout and styling preserved.</p>
 
-    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" /></p>
   </li>
   <li>
     <p>I tried again. Claude wanted me to implement a bunch of JavaScript. This seemed like a hack, and I wanted a better solution.</p>
@@ -129,8 +129,8 @@
   <li>
     <p>I finally went back to Claude and asked how to override the Minima theme. This turned out to be the correct wording! I got a simple solution that worked right away.</p>
 
-    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" class="small-image" />
- <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" class="bordered-small-image" /></p>
+    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" />
+ <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" /></p>
   </li>
 </ol>
 
@@ -174,15 +174,14 @@
   <li>
     <p>Next, Claude took a more nuanced, Minima-specific approach. I copied Minima’s <code class="language-plaintext highlighter-rouge">head.html</code> file over to my own, and then adjusted some of the code to account for the favicon. This worked.</p>
 
-    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" /></p>
+    <h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
   </li>
 </ol>
 
-<h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
-
 <p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
 
-<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" class="small-image" /></p>
+<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" /></p>
 
 <h1 id="takeaways">Takeaways</h1>
 

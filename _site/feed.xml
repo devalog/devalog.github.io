@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-09T11:38:39-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Freelance Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Using an LLM to revamp my site</title><link href="http://localhost:4000/2025/02/09/jekyll.html" rel="alternate" type="text/html" title="Using an LLM to revamp my site" /><published>2025-02-09T00:00:00-05:00</published><updated>2025-02-09T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/09/jekyll</id><content type="html" xml:base="http://localhost:4000/2025/02/09/jekyll.html"><![CDATA[<p>This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-09T11:53:03-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Freelance Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Using an LLM to revamp my site</title><link href="http://localhost:4000/2025/02/09/jekyll.html" rel="alternate" type="text/html" title="Using an LLM to revamp my site" /><published>2025-02-09T00:00:00-05:00</published><updated>2025-02-09T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/09/jekyll</id><content type="html" xml:base="http://localhost:4000/2025/02/09/jekyll.html"><![CDATA[<p>This is a meandering post about my personal experience using Claude (just the LLM I happened to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project) to redesign my site and my broader takeaways on using LLMs for technical projects like this.</p>
 
 <p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
 
-<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" class="bordered-image" /></p>
+<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" /></p>
 
 <p>This site used to be raw HTML. I wanted to change it to Jekyll and Markdown for a few reasons:</p>
 
@@ -26,7 +26,7 @@
   <li>
     <p>Sure enough, installing Jekyll was the first step. Claude instructed me how to do that:</p>
 
-    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" /></p>
   </li>
   <li>
     <p>After trying out the first step, I got an error:</p>
@@ -35,7 +35,7 @@
 
     <p>Claude recommended two different ways I could do it instead (I chose the second).</p>
 
-    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" /></p>
   </li>
 </ol>
 
@@ -55,7 +55,7 @@
 
 <p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
 
-<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" class="bordered-small-image" /></p>
+<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" /></p>
 
 <ol>
   <li>
@@ -67,7 +67,7 @@
   <li>
     <p>I reworded my question, and Claude told me to override the home layout. This technically did what I wanted – it removed the posts, but also all other styling on the page. Other than the removing posts, I wanted the Minima layout and styling preserved.</p>
 
-    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" /></p>
   </li>
   <li>
     <p>I tried again. Claude wanted me to implement a bunch of JavaScript. This seemed like a hack, and I wanted a better solution.</p>
@@ -78,8 +78,8 @@
   <li>
     <p>I finally went back to Claude and asked how to override the Minima theme. This turned out to be the correct wording! I got a simple solution that worked right away.</p>
 
-    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" class="small-image" />
- <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" class="bordered-small-image" /></p>
+    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" />
+ <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" /></p>
   </li>
 </ol>
 
@@ -123,15 +123,14 @@
   <li>
     <p>Next, Claude took a more nuanced, Minima-specific approach. I copied Minima’s <code class="language-plaintext highlighter-rouge">head.html</code> file over to my own, and then adjusted some of the code to account for the favicon. This worked.</p>
 
-    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" class="small-image" /></p>
+    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" /></p>
+    <h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
   </li>
 </ol>
 
-<h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
-
 <p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
 
-<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" class="small-image" /></p>
+<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" /></p>
 
 <h1 id="takeaways">Takeaways</h1>
 
@@ -163,14 +162,7 @@
 
 <h1 id="getting-started-with-overdrive">Getting started with OverDrive</h1>
 
-<table style="max-width: 50%;">
-    <tr>
-        <th>Libra H2O homepage</th>
-    </tr>
-    <tr>
-        <td><img src="/assets/homepage.jpg" /></td>
-   </tr>
-</table>
+<p><img src="/assets/kobo/homepage.jpg" alt="Kobo homepage" class="smaller-image" /></p>
 
 <ol>
   <li>
@@ -179,17 +171,15 @@
   <li>
     <p>Next, navigate to the <strong>More</strong> icon at the bottom right of the Libra H2O homepage. In the menu that opens, select <strong>Settings</strong>, then to <strong>OverDrive</strong>.</p>
 
-    <table>
-     <tr>
-         <th>More menu</th>
-         <th>Settings menu</th>
-     </tr>
-     <tr>
-         <td><img src="/assets/more.jpg" /></td>
-         <td><img src="/assets/settings.jpg" /></td>
-    </tr>
- </table>
+    <div class="image-container">
+ <img src="/assets/kobo/more.jpg" alt="Kobo more menu" class="side-by-side-image" />
+ <img src="/assets/kobo/settings.jpg" alt="Kobo settings menu" class="side-by-side-image" />
+</div>
   </li>
+</ol>
+<p>&lt;/div&gt;</p>
+
+<ol>
   <li>
     <p>In the OverDrive menu, select <strong>Add a library</strong>. Search for your library in the OverDrive search bar, select it, and then enter your library card and pin directly on the device.</p>
 
@@ -197,28 +187,19 @@
       <p>Note: Kobo warns that this method doesn’t always work and that the more reliable methods include scanning the QR code with your phone or entering a code on the OverDrive website.</p>
     </blockquote>
 
-    <table>
-     <tr>
-         <th>OverDrive menu: user not signed in</th>
-         <th>Add a library page</th>
-     </tr>
-     <tr>
-         <td><img src="/assets/notsignedin.jpg" /></td>
-         <td><img src="/assets/addlibrary.jpg" /></td>
-    </tr>
- </table>
+    <div class="image-container">
+ <img src="/assets/kobo/notsignedin.jpg" alt="OverDrive menu: user not signed in" class="side-by-side-image" />
+ <img src="/assets/kobo/addlibrary.jpg" alt="Add a library page" class="side-by-side-image" />
+</div>
   </li>
+</ol>
+<p>&lt;/div&gt;</p>
+
+<ol>
   <li>
     <p>When you’ve successfully added your library card, the device returns you to the OverDrive menu. Check the <strong>Communication</strong> bar to make sure your email address is up to date. OverDrive sends notifications to this email address to let you know when holds are available to borrow.</p>
 
-    <table style="max-width: 50%;">
-     <tr>
-         <th>The OverDrive menu</th>
-     </tr>
-     <tr>
-         <td><img src="/assets/overdrivemenu.jpg" /></td>
-    </tr>
- </table>
+    <p><img src="/assets/kobo/overdrivemenu.jpg" alt="OverDrive menu" class="smaller-image" /></p>
   </li>
 </ol>
 
@@ -256,14 +237,7 @@
   <li>
     <p>Log in with your library card details (this should be the same library account you’re logged into on your e-reader) and search the catalog.</p>
 
-    <table style="max-width: 75%;">
-     <tr>
-         <th>Catalog homepage for the Arlington Public Library in Arlington, VA. </th>
-     </tr>
-     <tr>
-         <td><img src="/assets/library.jpg" /></td>
-    </tr>
- </table>
+    <p><img src="/assets/kobo/library.jpg" alt="Catalog homepage for the Arlington Public Library in Arlington, VA." /></p>
   </li>
   <li>
     <p>When you’ve found the book you want to check out or put on hold, choose the <strong>eBook</strong> format and select <strong>Borrow with Libby/OverDrive</strong> (for books that are available now) or <strong>Place Hold</strong> (for books that aren’t available now).</p>
@@ -272,14 +246,7 @@
       <p>Note: Different library systems might use slightly different terminology for different book formats. It’s important to choose the eBook format that is not the Kindle format, as the Kindle format, as this isn’t compatible with Kobo e-readers.</p>
     </blockquote>
 
-    <table style="max-width: 75%;">
-     <tr>
-         <th>A book you might want to check out, with different format options. </th>
-     </tr>
-     <tr>
-         <td><img src="/assets/catalog.jpg" /></td>
-    </tr>
- </table>
+    <p><img src="/assets/kobo/catalog.jpg" alt="A book you might want to check out, with different format options." /></p>
   </li>
   <li>
     <p>You might not need to do anything to get a book you checked out to appear on your Libra H2O. Automatic sync is on by default, so when you turn on your device, it syncs to your library account automatically. However, the device often requires an additional manual sync to download books you checked out on your library account. To manually sync your device, select the <strong>Sync</strong> icon on the top right of the homepage</p>
@@ -289,7 +256,7 @@
 <h2 id="searching-for-books-on-the-libra-h2o">Searching for books on the Libra H2O</h2>
 
 <blockquote>
-  <p>Note: The built-in search functionality on the device is basic and slow. While you can filter searches by author, title, and other categories, the search results are often strange and unexpected. Searching directly from your library’s catalog is often the best bet if you’re looking for something specific.</p>
+  <p>Note: The built-in search functionality on the device is basic and slow. While you can filter searches by author, title, and other categories, the search results are often strange and unexpected. Searching directly from your library’s catalog is often the best bet if you’re looking for something specific. <img src="/assets/kobo/results.jpg" alt="Filtering search results" class="smaller-image" /></p>
 </blockquote>
 
 <p>To search for a book directly on the Libra H2O:</p>
@@ -304,16 +271,7 @@
   <li>
     <p>After you’ve conducted a search, you can filter the results by a number of categories, including <strong>Most Popular</strong> or <strong>Author</strong>.</p>
 
-    <table>
-     <tr>
-         <th>Filtering search results</th>
-         <th>Strange results on the built-in Kobo catalog</th>
-     </tr>
-     <tr>
-         <td><img src="/assets/filter.jpg" /></td>
-         <td><img src="/assets/results.jpg" /></td>
-    </tr>
- </table>
+    <p><img src="/assets/kobo/filter.jpg" alt="Filtering search results" class="smaller-image" /></p>
   </li>
 </ol>
 

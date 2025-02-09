@@ -16,3 +16,22 @@ img {
     height: auto;
     margin: 20px auto;    // This adds 20px top and bottom, and auto left/right for centering
 }
+
+.smaller-image {
+    max-width: 300px;
+    height: auto;
+}
+
+
+/* New styles for side-by-side images */
+.image-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;         /* Space between images */
+    margin: 20px 0;    /* Vertical spacing around the container */
+}
+
+.side-by-side-image {
+    max-width: 45%;    /* Make images smaller to fit side by side */
+    margin: 0;         /* Remove the margin we set on regular images */
+}
