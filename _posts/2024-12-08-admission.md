@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A great setup and disappointing payoff in *Admission*"
+redirect_from: /admission.html
 date: 2024-12-08
 ---
 

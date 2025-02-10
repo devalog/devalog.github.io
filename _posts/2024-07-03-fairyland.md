@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Leaving fairyland behind: on rereading books from my childhood"
+redirect_from: /fairyland.html
 date: 2024-07-03
 ---
 

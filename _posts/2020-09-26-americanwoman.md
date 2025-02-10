@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "*American Woman* considers how radicalism can produce ambivalence"
+redirect_from: /am_woman_review.html
 date: 2020-09-26
 ---
 
