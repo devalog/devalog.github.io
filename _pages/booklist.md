@@ -61,6 +61,11 @@ All the books I've read since January 2020.
     <td>2025</td>
     <td>4</td>
   </tr>
+
+  <tr>
+    <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
+  </tr>
+  
   <tr>
     <td>Intermezzo</td>
     <td>Sally Rooney</td>
