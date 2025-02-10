@@ -65,7 +65,7 @@ All the books I've read since January 2020.
   <tr>
     <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
   </tr>
-  
+
   <tr>
     <td>Intermezzo</td>
     <td>Sally Rooney</td>
@@ -423,6 +423,11 @@ All the books I've read since January 2020.
     <td>2024</td>
     <td>5</td>
   </tr>
+
+  <tr>
+    <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
+  </tr>
+
   <tr>
     <td>Portrait of a Scotsman</td>
     <td>Evie Dunmore</td>
@@ -717,6 +722,11 @@ All the books I've read since January 2020.
     <td>2023</td>
     <td>4</td>
   </tr>
+
+  <tr>
+    <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
+  </tr>
+
   <tr>
     <td>The Picture of Dorian Gray</td>
     <td>Oscar Wilde</td>
@@ -1053,6 +1063,11 @@ All the books I've read since January 2020.
     <td>2022</td>
     <td>3</td>
   </tr>
+
+  <tr>
+    <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
+  </tr>
+
   <tr>
     <td>Minor Feelings</td>
     <td>Cathy Park Hong</td>
@@ -1445,6 +1460,11 @@ All the books I've read since January 2020.
     <td>2021</td>
     <td>5</td>
   </tr>
+
+  <tr>
+    <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
+  </tr>
+  
   <tr>
    <td>Conversations with Friends (reread)</td>
    <td>Sally Rooney</td>
