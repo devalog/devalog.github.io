@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I didn't like *Mexican Gothic*, but a lot of critics did"
+redirect_from: /mexicangothic.html
 date: 2021-04-08
 ---
 
