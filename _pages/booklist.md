@@ -15,6 +15,53 @@ All the books I've read since January 2020.
     <th>Rating (out of 5)</th>
   </tr>
   <tr>
+    <td>If We Were Villains</td>
+    <td>M.L. Rio</td>
+    <td>February</td>
+    <td>2025</td>
+    <td>3</td>
+  </tr>
+
+  <tr>
+    <td>The Dutch House</td>
+    <td>Ann Patchett</td>
+    <td>January</td>
+    <td>2025</td>
+    <td>3</td>
+  </tr>
+
+  <tr>
+    <td>Commonwealth</td>
+    <td>Ann Patchett</td>
+    <td>January</td>
+    <td>2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+    <td>Tom Lake</td>
+    <td>Ann Patchett</td>
+    <td>January</td>
+    <td>2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+    <td>Circle of Friends</td>
+    <td>Maeve Binchy</td>
+    <td>January</td>
+    <td>2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
+    <td>The Sequel</td>
+    <td>Jean Hanff Korelitz</td>
+    <td>January</td>
+    <td>2025</td>
+    <td>4</td>
+  </tr>
+  <tr>
     <td>Intermezzo</td>
     <td>Sally Rooney</td>
     <td>December</td>
