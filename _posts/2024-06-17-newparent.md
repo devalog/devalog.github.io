@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reading as a new parent"
+redirect_from: /new_parent.html
 date: 2024-06-17
 ---
 
