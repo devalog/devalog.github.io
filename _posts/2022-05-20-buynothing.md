@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Buy Nothing groups in Mountain View and San Mateo"
+redirect_from: /buy_nothing.html
 date: 2022-05-20
 ---
 

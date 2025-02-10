@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A beautiful book, you were not"
+redirect_from: /beautiful_world.html
 date: 2022-09-21
 ---
 
