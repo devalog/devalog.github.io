@@ -1464,7 +1464,7 @@ All the books I've read since January 2020.
   <tr>
     <td colspan="5"><hr style="border: 0; border-top: 2px solid #1e90ff;"></td>
   </tr>
-  
+
   <tr>
    <td>Conversations with Friends (reread)</td>
    <td>Sally Rooney</td>
@@ -1774,3 +1774,6 @@ All the books I've read since January 2020.
    <td>4</td>
   </tr>
 </table>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
