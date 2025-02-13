@@ -16,7 +16,7 @@ I write about technical things for technical and nontechnical audiences. More sp
 
 Skills I have:
 
-*   Writing HTML and Markdown. I'm also an expert in editing and writing hacky CSS :)
+*   Writing Markdown, HTML, and CSS.
 *   Working with minimal supervision, either autonomously or as part of a team. 
 *   Learning new information and new technologies quickly.
 *   Documenting Python, Java, and C++ code.
