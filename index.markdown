@@ -24,7 +24,5 @@ Skills I have:
 *   Using and learning new technical writing tools, including Microsoft Office and Google Workspace suites, version control tools, Oxygen XML, etc. 
 
 
-I'm currently open for freelance work, especially part-time or ad-hoc work. I'm also open to doing documentation work at a reduced rate for nonprofits or personal projects. 
-
 <script data-goatcounter="https://dlog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
