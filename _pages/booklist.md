@@ -20,7 +20,7 @@ All the books I've read since January 2020.
     <td>Alexandre Dumas</td>
     <td>February</td>
     <td>2025</td>
-    <td>3</td>
+    <td>5</td>
   </tr>
 
   <tr>
