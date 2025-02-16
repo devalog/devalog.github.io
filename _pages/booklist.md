@@ -14,6 +14,15 @@ All the books I've read since January 2020.
     <th>Year</th>
     <th>Rating (out of 5)</th>
   </tr>
+
+  <tr>
+    <td>The Count of Monte Cristo</td>
+    <td>Alexandre Dumas</td>
+    <td>February</td>
+    <td>2025</td>
+    <td>3</td>
+  </tr>
+
   <tr>
     <td>If We Were Villains</td>
     <td>M.L. Rio</td>
