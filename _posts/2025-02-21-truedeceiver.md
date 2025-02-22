@@ -12,7 +12,7 @@ Katri is unlikeable and has odd yellow eyes, and her brother Mats is “simple.�
 
 Anna Aemelin is a shut-in children’s book illustrator who lives in a large, beautiful house at the edge of town. The villagers call it “the rabbit house,” both because “it actually resembled a large, crouched rabbit” and because Anna Aemelin is a successful children’s book illustrator who draws cartoons of rabbits with flowery fur. Like Katri, Anna is also isolated from the town due to her parentage (but in her case, because of her parents’ wealth and general snootiness) and personality (Anna is timid and standoffish, and prefers to be alone). Katri has no connection to Anna, but nevertheless embarks on a scheme to get Mats his boat by moving into the rabbit house and streamlining Anna’s life and money:
 
-	>“That’s where she lives. Mats and I will live there too. But I have to wait. I need to think carefully before I give this Anna Aemelin an important place in my life” (11).
+>“That’s where she lives. Mats and I will live there too. But I have to wait. I need to think carefully before I give this Anna Aemelin an important place in my life” (11).
 
 A dozen pages into the book, this scene reveals the true conceit of the book. While Katri succeeds in her mission quite early on in the book, subsequent events don’t unfold the way Katri expects. Katri initially holds the initiative, the honesty, and the drive to get what she wants. Anna appears initially as an indecisive pushover. But Katri is not all-powerful, and Anna is not helpless.
 
@@ -24,7 +24,7 @@ This scene about grocery delivery is so ordinary, but it’s indicative of the t
 
 The book is mostly written in third person, but it occasionally switches to first person, revealing the inner thoughts and resolutions of Katri:
 
-	>“Mats spent his days in the boat shed and every evening after dinner he went up to his room. Katri asked no questions.
+>“Mats spent his days in the boat shed and every evening after dinner he went up to his room. Katri asked no questions.
 
 He’s probably sitting and drawing, some detail or other that he wants to work on. He doesn’t read any more, it’s only the boat. Soon I’ll need the down payment for Liljeberg, a third of the price. Next payment when it’s planked and sided, and the final when it’s finished. When I’m sure of the down payment, I can tell Mats it’s his boat he’s building. But not yet” (135).
 
@@ -32,16 +32,19 @@ It’s a fascinating combination. Third person narration is ostensibly so object
 
 Nobody in the book is married or in a relationship, and nobody wants to be married or in a relationship except possibly the storekeeper. The absence of romantic relationships, and really, friendships, only accentuates the value of acquaintances, of the people who live near and maybe you’ve known your entire life, who aren’t intimate friends or romantic partners but who still form an integral part of the social fabric of your life. In *The True Deceiver*, these relationships are marked by both trust and wariness, both self-interest and compassion:
 
-	>“The move was made in Liljeberg’s van, and was very simple: a few cardboard boxes, two suitcases, a small table, and a bookcase.
-
-	‘No problem,’ said Liljeberg. ‘It’s practically next door. Not every village has its own transport!’ It was nice to hear him laugh. [...]
-
-	‘Jump in, little witch,’ he said. ‘Cinderella on her way to the castle!’ When he started the engine, the storekeeper shouted, ‘Give my best regards to Miss Aemelin! Tell her I’m getting in some rabbit! Fresh, just killed! Just for her…’ The village children ran after the van a little way, shrieking and throwing snowballs.
-
-	‘This feels right,’ Liljeberg said and smiled at Katri. ‘There ought to be a big fuss when people move up in the world’” (71-72).
+>“The move was made in Liljeberg’s van, and was very simple: a few cardboard boxes, two suitcases, a small table, and a bookcase.
+>
+>‘No problem,’ said Liljeberg. ‘It’s practically next door. Not every village has its own transport!’ It was nice to hear him laugh. [...]
+>
+>‘Jump in, little witch,’ he said. ‘Cinderella on her way to the castle!’ When he started the engine, the storekeeper shouted, ‘Give my best regards to Miss Aemelin! Tell her I’m getting in some rabbit! Fresh, just killed! Just for her…’ The village children ran after the van a little way, shrieking and throwing snowballs.
+>
+>‘This feels right,’ Liljeberg said and smiled at Katri. ‘There ought to be a big fuss when people move up in the world’” (71-72).
 
 Beyond its exploration of honesty, dishonesty, objectivity, and emotion, *The True Deceiver* is also just a fun book. The dialogue is amazing – perfectly ordinary, quietly hilarious, and exceedingly true to life:
 
-	>“Mats read Katri’s books to make her happy, but he didn’t talk about them. In the beginning, she would ask, and he would say only, ‘Yes, that was extremely fine.’ So she stopped asking” (25).
+>“Mats read Katri’s books to make her happy, but he didn’t talk about them. In the beginning, she would ask, and he would say only, ‘Yes, that was extremely fine.’ So she stopped asking” (25).
 
 I first read *The True Deceiver* in August 2022. Since then, I’ve reread it fully twice, and I often pick it up to read a passage or two. Every time I read it, I realize something new about a character or truly appreciate a line I’d previously just glossed over. It’s tense and comforting and beautiful, and I think I’ll reread it every year for the rest of my life. 
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
