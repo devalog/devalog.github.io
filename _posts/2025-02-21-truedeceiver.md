@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Truth, lies, and life in *The True Deceiver*"
+date: 2025-02-21
+---
+
+My favorite book is *The True Deceiver* by Tove Jansson, famed creator of the Moomin comics. It was published in 1982 (late in Jansson’s life; she started creating the Moomin comics in the 1940s) and released in English in 2009. 
+
+In *The True Deceiver*, Katri Kling and her brother Mats live in an isolated town in Sweden. That is, I assume it’s Sweden; the book contains no dates, no references to current events, no clue about the exact location or references to big cities. The book’s insularity makes it all the more compelling. 
+
+Katri is unlikeable and has odd yellow eyes, and her brother Mats is “simple.”. They’re the kids of a mother who died and a foreigner father (“he’d not been a local man”). They live in an apartment above a store where Katri used to do the books, until she rejected the advances of the storekeeper (“his lust was ludicrous”). Even though the townspeople hold her at a distance, Katri is known to be honest and provides legal advice to pretty much the whole town, teaching them how to look out for their own self-interests. Katri loves nobody in the world except for her brother (she only tolerates her nameless dog). Mats works at a shipbuilding operation owned by Edvard Liljeberg and his brothers, doing “small jobs that were not too important” (7). He dreams of designing boats. Katri dreams of commissioning a boat for Mats based on his designs. To achieve this goal, Katri sets her sights on Anna Aemelin.
+
+Anna Aemelin is a shut-in children’s book illustrator who lives in a large, beautiful house at the edge of town. The villagers call it “the rabbit house,” both because “it actually resembled a large, crouched rabbit” and because Anna Aemelin is a successful children’s book illustrator who draws cartoons of rabbits with flowery fur. Like Katri, Anna is also isolated from the town due to her parentage (but in her case, because of her parents’ wealth and general snootiness) and personality (Anna is timid and standoffish, and prefers to be alone). Katri has no connection to Anna, but nevertheless embarks on a scheme to get Mats his boat by moving into the rabbit house and streamlining Anna’s life and money:
+
+	>“That’s where she lives. Mats and I will live there too. But I have to wait. I need to think carefully before I give this Anna Aemelin an important place in my life” (11).
+
+A dozen pages into the book, this scene reveals the true conceit of the book. While Katri succeeds in her mission quite early on in the book, subsequent events don’t unfold the way Katri expects. Katri initially holds the initiative, the honesty, and the drive to get what she wants. Anna appears initially as an indecisive pushover. But Katri is not all-powerful, and Anna is not helpless.
+
+Everybody has an opinion in the book. Katri views the world and her town in a certain way. So does Anna. So does Mats, the shopkeeper. Nobody is necessarily right, but nobody is necessarily wrong. The pack of kids who chant “witch” as Katri walks past – they aren’t necessarily wrong. Every event that happens in the book is ordinary and might just be something that happens. Is there a moral of the story? Is it reducible to allegory? It’s not. You can unpick the events and try to draw a conclusion but in the end it’s just a story about being honest and lying to yourself and others at the same time.
+
+For example, early on in the book, the (unnamed) storekeeper sends liver to Anna Aemelin in her grocery order. Even though Anna protests that liver is hard to prepare and spoils quickly, the shopkeeper insists – “I’ve set some aside for you specially,” he says. Liljeberg usually delivers the mail and groceries to Anna. Katri convinces Liljeberg to make the delivery instead. He’s suspicious of the request, and asks Katri if she’s trying to help. Benevolence isn’t something Katri is known for, after all. “‘You know I’m not,’” Katri says in response. She continues, “‘I’m doing it entirely for my own sake. Do you trust me or don’t you?’” Edvard lets her take the mail. At Anna’s house, Anna opens the package of liver and is disgusted. When Katri asks her why she orders liver if she hates it, Anna dithers – the storekeeper is so nice to put it aside for her. Katri tells Anna that the storekeeper is “a very malicious man” who put in the liver specifically because he knows Anna hates it.
+
+This scene about grocery delivery is so ordinary, but it’s indicative of the twisting honesty of the book overall. It’s hard to say what the shopkeeper’s motives are when he sends Anna the liver. Is he malicious? He might be. Is he actually being nice despite his generally malicious instincts? Maybe. Is he not malicious but instead sad and insecure? It’s possible. Does Katri actually think he’s malicious, or does she only tell Anna so? It’s hard to say. Does she tell Anna he is malicious to be nice as well as for her own self-interest? Maybe. Every motive is plausible, and it’s hard to say exactly which actions are honest or dishonest. Does being honest mean acting with benevolence, or does it mean acting with transparency? Again, it’s hard to say.
+
+The book is mostly written in third person, but it occasionally switches to first person, revealing the inner thoughts and resolutions of Katri:
+
+	>“Mats spent his days in the boat shed and every evening after dinner he went up to his room. Katri asked no questions.
+
+He’s probably sitting and drawing, some detail or other that he wants to work on. He doesn’t read any more, it’s only the boat. Soon I’ll need the down payment for Liljeberg, a third of the price. Next payment when it’s planked and sided, and the final when it’s finished. When I’m sure of the down payment, I can tell Mats it’s his boat he’s building. But not yet” (135).
+
+It’s a fascinating combination. Third person narration is ostensibly so objective, and so too does Katri strive to be so objective. She is not objective, though, and even the third person narration is not objective. The book slips into first person; Katri slips from objectivity to subjectivity. She bounces from logic to emotion and back until it’s no longer clear which one drives her more. Nobody is objective, the book seems to be saying. We tell ourselves we are logical and objective, when indeed we are irrational and self-interested and we deceive others and ourselves.
+
+Nobody in the book is married or in a relationship, and nobody wants to be married or in a relationship except possibly the storekeeper. The absence of romantic relationships, and really, friendships, only accentuates the value of acquaintances, of the people who live near and maybe you’ve known your entire life, who aren’t intimate friends or romantic partners but who still form an integral part of the social fabric of your life. In *The True Deceiver*, these relationships are marked by both trust and wariness, both self-interest and compassion:
+
+	>“The move was made in Liljeberg’s van, and was very simple: a few cardboard boxes, two suitcases, a small table, and a bookcase.
+
+	‘No problem,’ said Liljeberg. ‘It’s practically next door. Not every village has its own transport!’ It was nice to hear him laugh. [...]
+
+	‘Jump in, little witch,’ he said. ‘Cinderella on her way to the castle!’ When he started the engine, the storekeeper shouted, ‘Give my best regards to Miss Aemelin! Tell her I’m getting in some rabbit! Fresh, just killed! Just for her…’ The village children ran after the van a little way, shrieking and throwing snowballs.
+
+	‘This feels right,’ Liljeberg said and smiled at Katri. ‘There ought to be a big fuss when people move up in the world’” (71-72).
+
+Beyond its exploration of honesty, dishonesty, objectivity, and emotion, *The True Deceiver* is also just a fun book. The dialogue is amazing – perfectly ordinary, quietly hilarious, and exceedingly true to life:
+
+	>“Mats read Katri’s books to make her happy, but he didn’t talk about them. In the beginning, she would ask, and he would say only, ‘Yes, that was extremely fine.’ So she stopped asking” (25).
+
+I first read *The True Deceiver* in August 2022. Since then, I’ve reread it fully twice, and I often pick it up to read a passage or two. Every time I read it, I realize something new about a character or truly appreciate a line I’d previously just glossed over. It’s tense and comforting and beautiful, and I think I’ll reread it every year for the rest of my life. 
