@@ -25,8 +25,8 @@ This scene about grocery delivery is so ordinary, but it’s indicative of the t
 The book is mostly written in third person, but it occasionally switches to first person, revealing the inner thoughts and resolutions of Katri:
 
 >“Mats spent his days in the boat shed and every evening after dinner he went up to his room. Katri asked no questions.
-
-He’s probably sitting and drawing, some detail or other that he wants to work on. He doesn’t read any more, it’s only the boat. Soon I’ll need the down payment for Liljeberg, a third of the price. Next payment when it’s planked and sided, and the final when it’s finished. When I’m sure of the down payment, I can tell Mats it’s his boat he’s building. But not yet” (135).
+>
+>He’s probably sitting and drawing, some detail or other that he wants to work on. He doesn’t read any more, it’s only the boat. Soon I’ll need the down payment for Liljeberg, a third of the price. Next payment when it’s planked and sided, and the final when it’s finished. When I’m sure of the down payment, I can tell Mats it’s his boat he’s building. But not yet” (135).
 
 It’s a fascinating combination. Third person narration is ostensibly so objective, and so too does Katri strive to be so objective. She is not objective, though, and even the third person narration is not objective. The book slips into first person; Katri slips from objectivity to subjectivity. She bounces from logic to emotion and back until it’s no longer clear which one drives her more. Nobody is objective, the book seems to be saying. We tell ourselves we are logical and objective, when indeed we are irrational and self-interested and we deceive others and ourselves.
 
