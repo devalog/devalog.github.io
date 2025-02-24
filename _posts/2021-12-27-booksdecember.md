@@ -2,7 +2,7 @@
 layout: post
 title: "The books I read in December 2021"
 date: 2021-12-27
-tags: books
+tags: books recaps
 ---
 
 ...in chronological order.

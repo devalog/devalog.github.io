@@ -2,7 +2,7 @@
 layout: post
 title: "Some thoughts about the books I read in May and June 2022"
 date: 2022-07-24
-tags: books
+tags: books recaps
 ---
 
 The worst book I read recently was *Lady Chatterley's Lover*, which provoked a [landmark obscenity trial](https://en.wikipedia.org/wiki/R_v_Penguin_Books_Ltd) in the UK in 1960. Some critics think D.H. Lawrence's writing style was influenced by his tuberculosis, which he died from two years after publishing *Lady Chatterley's Lover*. Apparently, tuberculosis can cause a heightened emotional state and also impotence, which matches up pretty well to my personal beef with the book: I found the prose insufferably flowery and the characters flat and annoying.

@@ -2,7 +2,7 @@
 layout: post
 title: "The books I read in February and March 2022"
 date: 2022-04-10
-tags: books
+tags: books recaps
 ---
 
 ...in chronological order.

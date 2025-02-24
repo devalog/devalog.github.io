@@ -2,6 +2,7 @@
 layout: post
 title: "Finally reading *The Count of Monte Cristo*"
 date: 2025-02-17
+tags: books
 ---
 
 I bought a copy of The Count of Monte Cristo from my local Half Price Books when I was in high school. It remained on my shelf for all of high school, and I donated it (probably back to Half Price Books) when I went to college. Last month, over 15 years after I first bought the book, I finally read The Count of Monte Cristo. My first impression of the book was that it was boring. I thought it would be a lot more swashbuckling than it was – a tale of revenge! Perhaps I was also mixing up The Count of Monte Cristo with the author’s other famous work, The Three Musketeers. Even though I had a hard time getting into the book, once I was in it, I loved it. It’s a slow burn revenge plot – scenarios take years (and many chapters) for the Count of Monte Cristo to set up, but the final reveal is always incredible. 
