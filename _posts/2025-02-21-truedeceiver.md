@@ -2,6 +2,7 @@
 layout: post
 title: "Truth, lies, and life in *The True Deceiver*"
 date: 2025-02-21
+tags: books
 ---
 
 My favorite book is *The True Deceiver* by Tove Jansson, famed creator of the Moomin comics. It was published in 1982 (late in Jansson’s life; she started creating the Moomin comics in the 1940s) and released in English in 2009. 
