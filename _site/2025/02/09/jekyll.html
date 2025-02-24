@@ -8,8 +8,8 @@
 <meta property="og:title" content="Using an LLM to revamp my site" />
 <meta name="author" content=" " />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="This is a meandering post about my personal experience using Claude to redesign my site and my broader takeaways on using LLMs for technical projects like this. Note that Claude is just the LLM I happen to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project." />
-<meta property="og:description" content="This is a meandering post about my personal experience using Claude to redesign my site and my broader takeaways on using LLMs for technical projects like this. Note that Claude is just the LLM I happen to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project." />
+<meta name="description" content="Recently, I revamped this site to use Jekyll and Markdown instead of handwritten HTML. I used Claude to do it. Overall, I found that Claude is good for troubleshooting when you already have some domain experience." />
+<meta property="og:description" content="Recently, I revamped this site to use Jekyll and Markdown instead of handwritten HTML. I used Claude to do it. Overall, I found that Claude is good for troubleshooting when you already have some domain experience." />
 <link rel="canonical" href="http://localhost:4000/2025/02/09/jekyll.html" />
 <meta property="og:url" content="http://localhost:4000/2025/02/09/jekyll.html" />
 <meta property="og:site_name" content="Devin Logan, Technical Writer and Editor" />
@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Using an LLM to revamp my site" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":" "},"dateModified":"2025-02-09T00:00:00-05:00","datePublished":"2025-02-09T00:00:00-05:00","description":"This is a meandering post about my personal experience using Claude to redesign my site and my broader takeaways on using LLMs for technical projects like this. Note that Claude is just the LLM I happen to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project.","headline":"Using an LLM to revamp my site","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2025/02/09/jekyll.html"},"url":"http://localhost:4000/2025/02/09/jekyll.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":" "},"dateModified":"2025-02-09T00:00:00-05:00","datePublished":"2025-02-09T00:00:00-05:00","description":"Recently, I revamped this site to use Jekyll and Markdown instead of handwritten HTML. I used Claude to do it. Overall, I found that Claude is good for troubleshooting when you already have some domain experience.","headline":"Using an LLM to revamp my site","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2025/02/09/jekyll.html"},"url":"http://localhost:4000/2025/02/09/jekyll.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css">
   <link rel="icon" type="image/png" href="/assets/favicon.png"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Devin Logan, Technical Writer and Editor" /></head><body><header class="site-header" role="banner">
@@ -54,9 +54,13 @@
         </a>
     </header>
   <div class="post-content e-content">
-    <p>This is a meandering post about my personal experience using Claude to redesign my site and my broader takeaways on using LLMs for technical projects like this. Note that Claude is just the LLM I happen to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project.</p>
+    <p>Recently, I revamped this site to use Jekyll and Markdown instead of handwritten HTML. I used Claude to do it. Overall, I found that Claude is good for troubleshooting when you already have some domain experience.</p>
+
+<p>The rest of this page is a meandering post about my personal experience using Claude to redesign my site and my broader takeaways on using LLMs for technical projects like this. Note that Claude is just the LLM I happen to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project.</p>
 
 <p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
+
+<h1 id="it-seemed-the-better-way">It seemed the better way</h1>
 
 <p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" /></p>
 
@@ -180,9 +184,10 @@
     <p>Next, Claude took a more nuanced, Minima-specific approach. I copied Minima’s <code class="language-plaintext highlighter-rouge">head.html</code> file over to my own, and then adjusted some of the code to account for the favicon. This worked.</p>
 
     <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" /></p>
-    <h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
   </li>
 </ol>
+
+<h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
 
 <p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
 
@@ -190,9 +195,17 @@
 
 <h1 id="takeaways">Takeaways</h1>
 
-<p>While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes.</p>
-
-<p>Also, when you’re asking an LLM (versus a person) questions, you can word them badly or in the dumbest way possible, and you still get a nice answer. I could switch between asking Claude really technical questions and asking Claude to clarify a trivial point that most engineers would already know. It’s a really great way to accomplish a complex task while also quickly filling in gaps in your knowledge.</p>
+<ol>
+  <li>
+    <p><strong>Claude worked well for troubleshooting.</strong> While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes.</p>
+  </li>
+  <li>
+    <p><strong>Using Claude to complete a technical task requires some level of domain experience.</strong> I don’t consider myself a web development expert by any means. However, I’ve worked with HTML, CSS, Markdown, and GitHub enough that I have a baseline familiarity with web development concepts. I have some amount of intuition that makes me question some of Claude’s suggestions, or know to ask a follow-up question. I don’t want to put a bunch of inline CSS anywhere. I don’t want to add JavaScript in most situations. If something requires changing code in three or four different places, I wonder if there’s a simpler solution (there might not be, but sometimes there is). Without this background, this process would have been a whole lot harder.</p>
+  </li>
+  <li>
+    <p><strong>You can word things badly.</strong> When you’re asking an LLM (versus a person) questions, you can word them badly or in the dumbest way possible, and you still get a nice answer. I could switch between asking Claude really technical questions and asking Claude to clarify a trivial point that most engineers would already know. It’s a really great way to accomplish a complex task while also quickly filling in gaps in your knowledge. However, this kind of thing works best when you have some baseline level of domain knowledge (see above point).</p>
+  </li>
+</ol>
 
 <script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
 
