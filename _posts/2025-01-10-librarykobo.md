@@ -7,13 +7,13 @@ tags: tutorials tech
 
 This page describes how to set up a library account and manage library books on the [Kobo Libra H2O](https://us.kobobooks.com/products/kobo-libra-h2o) device using OverDrive functionality. This page does not cover the[ Kobo app](https://www.kobo.com/us/en/p/apps), another tool you can use to check out books to both the app and your e-reader. 
 
-# Background: OverDrive and the Libra H2O model
+## Background: OverDrive and the Libra H2O model
 
 The Kobo Libra H2O is a discontinued Rakuten Kobo model that is [still supported by Kobo.](https://help.kobo.com/hc/en-us/articles/360019690433-Products-no-longer-manufactured-or-supported-by-Kobo) 
 
 OverDrive is a digital platform that distributes library content to e-readers. Using OverDrive, you can directly access your library account on the Libra H2O and other e-readers. OverDrive also makes the Libby app, which [replaced the OverDrive platform functionality](https://company.overdrive.com/2021/08/09/important-update-regarding-libby-and-the-overdrive-app/) on some Kobo models in 2023. However, OverDrive (not Libby) is still the only way to connect to your library directly from the Libra H2O model without using the Kobo iOS or Android app. Unlike newer Kobo e-readers, OverDrive is built directly into the Kobo Libra H2O so it’s not impacted by the Libby update. You aren’t able to download Libby or any other app directly onto the Libra H2O. 
 
-# Getting started with OverDrive
+## Getting started with OverDrive
 
 ![Kobo homepage](/assets/kobo/homepage.jpg){: .smaller-image}
 
@@ -38,7 +38,7 @@ OverDrive is a digital platform that distributes library content to e-readers. U
 
 	![OverDrive menu](/assets/kobo/overdrivemenu.jpg){: .smaller-image}
 
-## Switching OverDrive accounts
+### Switching OverDrive accounts
 
 You might have multiple OverDrive accounts with different library systems. This might be the case if you’re a student and have library accounts with your school and your town. It’s also common to have multiple accounts if you reside in multiple places over the course of a year or have recently moved. When you’re using the Libra H2O model, you can only be logged into a single OverDrive account at any given time, but you can manually switch between accounts.
 
@@ -50,11 +50,11 @@ To switch accounts:
 
 	> Note: Switching OverDrive accounts only affects the books you have checked out with that library card. It doesn’t affect any books you have purchased or downloaded directly to your device. 
 
-# Finding and checking out books
+## Finding and checking out books
 
 You can browse for library books directly on your library’s website or via the built-in search on your device.
 
-## Searching for books on your library’s catalog
+### Searching for books on your library’s catalog
 
 To use your library’s catalog to find an ebook to check out to your LIbra H2O:
 
@@ -74,7 +74,7 @@ To use your library’s catalog to find an ebook to check out to your LIbra H2O:
 
 1. You might not need to do anything to get a book you checked out to appear on your Libra H2O. Automatic sync is on by default, so when you turn on your device, it syncs to your library account automatically. However, the device often requires an additional manual sync to download books you checked out on your library account. To manually sync your device, select the **Sync** icon on the top right of the homepage
 
-## Searching for books on the Libra H2O
+### Searching for books on the Libra H2O
 
 > Note: The built-in search functionality on the device is basic and slow. While you can filter searches by author, title, and other categories, the search results are often strange and unexpected. Searching directly from your library’s catalog is often the best bet if you’re looking for something specific. ![Filtering search results](/assets/kobo/results.jpg){: .smaller-image}
 
@@ -93,7 +93,7 @@ To borrow books that you previously placed on hold and are now ready for checkou
 
 To check out a suggested book, click on the book. Note that the default option is to buy the book from the Kobo catalog, not check it out from the library. Select the **…** option to open an additional menu and then borrow the book from your library. If the book is available to check out, it will be checked out and added to your books. If it isn’t, you will have an option to place a library hold.
 
-## Other ways to add books
+### Other ways to add books
 
 If a book you want to read isn’t available on OverDrive, you can:
 
