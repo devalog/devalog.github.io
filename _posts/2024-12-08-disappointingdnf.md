@@ -2,6 +2,7 @@
 layout: post
 title: "A disappointing dnf"
 date: 2024-12-08
+tags: books
 ---
 
 I was excited to read *Welcome to the Hyunam-Dong Bookshop* because I thought the premise (woman quits high-stress job to run a bookshop) was fun and cute. It took me two weeks to read the first 60 pages before I decided to call it quits.  I've read reviews that call Welcome to the Hyunam-Dong Bookshop "[comforting](https://catherinerosegunther.com/2023/12/16/review-welcome-to-the-hyunam-dong-bookshop-by-hwang-bo-reum/)" and "[gentle](https://judithmckinnon.com/2024/09/29/book-review-welcome-to-the-hyunam-dong-bookshop-by-huang-bo-reum-a-novel-about-new-beginnings-friendship-and-reading/)" but I just found it boring. Everything felt too long, too clique, and too general. I read some reviews that mention that the characters' backstories are revealed later. I've read books where that progressive revelation really works, but here I just wasn't compelled enough to stick around for the reveal. 

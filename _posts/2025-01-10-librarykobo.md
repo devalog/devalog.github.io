@@ -2,6 +2,7 @@
 layout: post
 title: "Managing library books on the Kobo Libra H2O"
 date: 2025-01-10
+tags: tutorials, tech
 ---
 
 This page describes how to set up a library account and manage library books on the [Kobo Libra H2O](https://us.kobobooks.com/products/kobo-libra-h2o) device using OverDrive functionality. This page does not cover the[ Kobo app](https://www.kobo.com/us/en/p/apps), another tool you can use to check out books to both the app and your e-reader. 

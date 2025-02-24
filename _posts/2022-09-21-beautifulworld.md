@@ -3,6 +3,7 @@ layout: post
 title: "A beautiful book, you were not"
 redirect_from: /beautiful_world.html
 date: 2022-09-21
+tags: books
 ---
 
 I'm a little bit embarrassed about how much I like *Conversations with Friends* and *Normal People*, the first two books by author Sally Rooney. I think this embarrassment comes from a variety of places. Sally Rooney is a [super popular](https://www.gq.com/story/sally-rooney-bucket-hat) author, and I sort of resent that I really like an author who a lot of other people like. I want to have more alternative, subtle taste in books! Her books are also pretty melodramatic. They're all on-and-off relationships and lack of communication and existential crises. I like this angst, but I'm also a little ashamed that I like this angst – it feels like something I should have grown out of. Anyway, because I liked Sally Rooney's first two books so much, I was really excited to hear she had a new book coming out – *Beautiful World, Where Are You*. I was so excited in fact, that I preordered the damn book back in June. (It came out in September.) I've never preordered a book in my life.

@@ -3,6 +3,7 @@ layout: post
 title: "Leaving fairyland behind: on rereading books from my childhood"
 redirect_from: /fairyland.html
 date: 2024-07-03
+tags: books
 ---
 
 I reread books a lot. The mark of a good book, in my opinion, is one that I know I will reread. Rereading is a weird thing, though – sometimes I reread a book and I love it so much more than I did initially (examples: *Pride and Prejudice*, *Wuthering Heights*). Sometimes it's more gradual, and each time I reread a book I like it more and more (examples: *The True Deceiver*, *Free Food for Millionaires*). But I've sometimes had the experience of rereading a book and liking it less than the first time or just feeling like the book didn't live up to my memory of it. I felt this way recently about *Anne of the Island*, the third book in the Anne of Green Gables series. In the book, Anne leaves Prince Edward Island to go to college in Kingsport, Nova Scotia.  The book wasn't as good as I remembered it being, and I also remembered some key scenes, scenes that were important to my overarching narrative of being A Reader as a child, flat-out wrong. 

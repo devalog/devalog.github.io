@@ -3,6 +3,7 @@ layout: post
 title: "*Normal People* is about shifting power dynamics, not love"
 redirect_from: /normal_people_review.html
 date: 2020-06-13
+tags: books
 ---
 
 *Normal People* is about the power dynamics that are present inside and outside of a romantic relationship and how they shift over time (over years and also over moments) because of the relationship itself, external factors, and individual factors like insecurity and mental health.

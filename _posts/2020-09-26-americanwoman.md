@@ -3,6 +3,7 @@ layout: post
 title: "*American Woman* considers how radicalism can produce ambivalence"
 redirect_from: /am_woman_review.html
 date: 2020-09-26
+tags: books
 ---
 
 *American Woman* is a fictionalization of the Patty Hearst kidnapping and aftermath – specifically, it focuses on the time between the SLA robbery of a sporting goods store in May 1974 and her arrest in April 1975.

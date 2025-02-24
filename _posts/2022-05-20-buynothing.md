@@ -3,6 +3,7 @@ layout: post
 title: "Buy Nothing groups in Mountain View and San Mateo"
 redirect_from: /buy_nothing.html
 date: 2022-05-20
+tags: musings
 ---
 
 I moved from Mountain View to San Mateo at the end of March. In anticipation of my move, I joined my Mountain View neighborhood's [Buy Nothing group](https://buynothingproject.org/) in order to offload some of the things that I didn't want to pack up and move – things like clothes I no longer wore, books I read and didn't like, some cheap IKEA furniture that I longer needed, and various items of an old roommate that I'd never gotten around to getting rid of. The Mountain View Buy Nothing group I joined was extremely active – multiple people expressed interest in almost everything I posted, and I was ultimately able to rehome a lot of items. I was surprised how great doing this felt – less profit driven than donating to Goodwill, more "useful" than bringing to the recycling center, more personal than posting on the free section of Craigslist, and more altruistic than selling on eBay (not that I could sell things like miscellaneous light bulbs anyway).

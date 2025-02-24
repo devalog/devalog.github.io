@@ -3,6 +3,7 @@ layout: post
 title: "Reading as a new parent"
 redirect_from: /new_parent.html
 date: 2024-06-17
+tags: books
 ---
 
 I had a baby in April and, predictably, barely read anything during the first month. After that, I've mostly returned to my typical pace of four books a month. Reading right now looks different than it did before the baby – and I expect it will change even more as the baby gets older and more active! For now, though, I've shifted to reading on my ereader instead of physical books, and to reading longer books and series instead of shorter books.

@@ -3,6 +3,7 @@ layout: post
 title: "A great setup and disappointing payoff in *Admission*"
 redirect_from: /admission.html
 date: 2024-12-08
+tags: books
 ---
 
 I recently read *Admission* by Jean Hanff Korelitz. It's my third book by Korelitz; I've also read *The Latecomer* and *The Plot*. Both of these books feel like the best kind of literary fiction – they're long, but not just long. They're expansive but not overlong, long enough so I can really relax and revel in the story, but not boring at all. They take their time building up the circumstances and plot, and going into the backstories of characters, and then things start to unravel and build and it's great! I found both of these books so satisfying to read and expected something similar from *Admission*.

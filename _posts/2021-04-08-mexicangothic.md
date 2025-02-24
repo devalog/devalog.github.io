@@ -3,6 +3,7 @@ layout: post
 title: "I didn't like *Mexican Gothic*, but a lot of critics did"
 redirect_from: /mexicangothic.html
 date: 2021-04-08
+tags: books
 ---
 
 I didn't like *Mexican Gothic*, but a lot of other people did. I was so excited about the premise: a gothic novel in 1950s Mexico! I thought, "maybe this will be sort of like a new twist on Jane Eyre." Yeah, it wasn't. I was disappointed.
