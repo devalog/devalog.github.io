@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Books I've read"
 permalink: /books/
 ---
