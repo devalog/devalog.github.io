@@ -16,6 +16,14 @@ All the books I've read since January 2020.
   </tr>
 
   <tr>
+    <td>The Pairing</td>
+    <td>Casey McQuiston</td>
+    <td>February</td>
+    <td>2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
     <td>The Count of Monte Cristo</td>
     <td>Alexandre Dumas</td>
     <td>February</td>
