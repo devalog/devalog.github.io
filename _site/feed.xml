@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-27T13:42:59-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Truth, lies, and life in *The True Deceiver*</title><link href="http://localhost:4000/2025/02/21/truedeceiver.html" rel="alternate" type="text/html" title="Truth, lies, and life in *The True Deceiver*" /><published>2025-02-21T00:00:00-05:00</published><updated>2025-02-21T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/21/truedeceiver</id><content type="html" xml:base="http://localhost:4000/2025/02/21/truedeceiver.html"><![CDATA[<p>My favorite book is <em>The True Deceiver</em> by Tove Jansson, famed creator of the Moomin comics. It was published in 1982 (late in Jansson’s life; she started creating the Moomin comics in the 1940s) and released in English in 2009.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-27T13:47:11-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Truth, lies, and life in *The True Deceiver*</title><link href="http://localhost:4000/2025/02/21/truedeceiver.html" rel="alternate" type="text/html" title="Truth, lies, and life in *The True Deceiver*" /><published>2025-02-21T00:00:00-05:00</published><updated>2025-02-21T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/21/truedeceiver</id><content type="html" xml:base="http://localhost:4000/2025/02/21/truedeceiver.html"><![CDATA[<p>My favorite book is <em>The True Deceiver</em> by Tove Jansson, famed creator of the Moomin comics. It was published in 1982 (late in Jansson’s life; she started creating the Moomin comics in the 1940s) and released in English in 2009.</p>
 
 <p>In <em>The True Deceiver</em>, Katri Kling and her brother Mats live in an isolated town in Sweden. That is, I assume it’s Sweden; the book contains no dates, no references to current events, no clue about the exact location or references to big cities. The book’s insularity makes it all the more compelling.</p>
 
@@ -121,7 +121,7 @@
 
 <p>Next, I spent some time on the design. I wanted the site index to be a page about me and my freelance work. I wanted my blog to be on a separate page linked from the index. I started to execute the design and ran into some issues along the way.</p>
 
-<h3 id="issue-1-take-posts-off-of-the-homepage">Issue 1: Take posts off of the homepage.</h3>
+<h3 id="taking-posts-off-of-the-homepage">Taking posts off of the homepage.</h3>
 
 <p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
 
@@ -153,7 +153,7 @@
   </li>
 </ol>
 
-<h3 id="issue-2-italicize-words-in-the-title-of-a-post">Issue 2: Italicize words in the title of a post</h3>
+<h3 id="italicizing-words-in-the-title-of-a-post">Italicizing words in the title of a post</h3>
 
 <p>As I continued converting more pages from HTML to Markdown, I ran into another issue. Many of my blog posts are about books, and many of my post titles contain book titles. I wanted to italicize these. I figured this would be an easy fix that a lot of people wanted to do, so I went to the internet first instead of Claude. I found a lot of resources.</p>
 
@@ -176,7 +176,7 @@
   </li>
 </ol>
 
-<h3 id="issue-3-add-a-favicon">Issue 3: Add a favicon</h3>
+<h3 id="adding-a-favicon">Adding a favicon</h3>
 
 <p>I thought this would be super easy and just a single line of code somewhere, but I struggled finding the right solution. I found a number of help threads and a couple of blog posts about this topic, but their solutions were overly complicated or just gave plain text descriptions of the solutions with no code. I’ve added favicons to sites before and I was convinced that this should be easy. I just wanted someone to give me the code.</p>
 
@@ -197,13 +197,13 @@
   </li>
 </ol>
 
-<h3 id="issue-4-add-a-linkedin-icon">Issue 4: Add a LinkedIn icon</h3>
+<h3 id="adding-a-linkedin-icon">Adding a LinkedIn icon</h3>
 
 <p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
 
 <p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" /></p>
 
-<h3 id="issue-5-implement-tags">Issue 5: Implement tags</h3>
+<h3 id="added-02-27-2025-implementing-tags"><strong><em>Added 02-27-2025</em></strong> Implementing tags</h3>
 
 <p>I wanted to implement tags on my site, so readers (and myself!) could sort my blog posts by topic. I found <a href="https://emmatheeng.github.io/projects/blog_setup/blog-tags.html">this tutorial</a> right away. This was pretty much what I wanted, so I implemented it.</p>
 
