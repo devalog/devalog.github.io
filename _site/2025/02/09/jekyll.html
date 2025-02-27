@@ -60,7 +60,7 @@
 
 <p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
 
-<h1 id="it-seemed-the-better-way">It seemed the better way</h1>
+<h2 id="it-seemed-the-better-way">It seemed the better way</h2>
 
 <p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" /></p>
 
@@ -75,7 +75,7 @@
 
 <p>My site is hosted on GitHub pages and I own my domain (devinlogan.org) through Domain.com. I wanted to keep this setup, but just build the site with Jekyll instead of with just handwritten HTML.</p>
 
-<h1 id="installing-jekyll">Installing Jekyll</h1>
+<h2 id="installing-jekyll">Installing Jekyll</h2>
 
 <ol>
   <li>
@@ -105,13 +105,13 @@
 
 <p>I also didn’t know whether installing Jekyll was the first thing I needed to do. I thought there might be some other step I needed to complete. I could have certainly clarified that through internet searching. But it was a lot more straightforward to just explain my situation to Claude and ask what I needed to do first.</p>
 
-<h1 id="working-through-some-issues">Working through some issues</h1>
+<h2 id="working-through-some-issues">Working through some issues</h2>
 
 <p>I had a Jekyll site running. Now, as instructed by Claude, I wanted to convert some of my HTML pages to Markdown, put them on the site, and see how things looked. Claude converted my raw HTML files into Markdown, even putting in front matter. I had to edit the formatting a bit, but it was a pretty seamless process.</p>
 
 <p>Next, I spent some time on the design. I wanted the site index to be a page about me and my freelance work. I wanted my blog to be on a separate page linked from the index. I started to execute the design and ran into some issues along the way.</p>
 
-<h2 id="issue-1-take-posts-off-of-the-homepage">Issue #1: Take posts off of the homepage.</h2>
+<h3 id="issue-1-take-posts-off-of-the-homepage">Issue 1: Take posts off of the homepage.</h3>
 
 <p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
 
@@ -143,7 +143,7 @@
   </li>
 </ol>
 
-<h2 id="issue-2-italicize-words-in-the-title-of-a-post">Issue #2: Italicize words in the title of a post</h2>
+<h3 id="issue-2-italicize-words-in-the-title-of-a-post">Issue 2: Italicize words in the title of a post</h3>
 
 <p>As I continued converting more pages from HTML to Markdown, I ran into another issue. Many of my blog posts are about books, and many of my post titles contain book titles. I wanted to italicize these. I figured this would be an easy fix that a lot of people wanted to do, so I went to the internet first instead of Claude. I found a lot of resources.</p>
 
@@ -166,7 +166,7 @@
   </li>
 </ol>
 
-<h2 id="issue-3-add-a-favicon">Issue #3: Add a favicon</h2>
+<h3 id="issue-3-add-a-favicon">Issue 3: Add a favicon</h3>
 
 <p>I thought this would be super easy and just a single line of code somewhere, but I struggled finding the right solution. I found a number of help threads and a couple of blog posts about this topic, but their solutions were overly complicated or just gave plain text descriptions of the solutions with no code. I’ve added favicons to sites before and I was convinced that this should be easy. I just wanted someone to give me the code.</p>
 
@@ -187,20 +187,65 @@
   </li>
 </ol>
 
-<h2 id="issue-4-add-a-linkedin-icon">Issue #4: Add a LinkedIn icon</h2>
+<h3 id="issue-4-add-a-linkedin-icon">Issue 4: Add a LinkedIn icon</h3>
 
 <p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
 
 <p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" /></p>
 
-<h1 id="takeaways">Takeaways</h1>
+<h3 id="issue-5-implement-tags">Issue 5: Implement tags</h3>
+
+<p>I wanted to implement tags on my site, so readers (and myself!) could sort my blog posts by topic. I found <a href="https://emmatheeng.github.io/projects/blog_setup/blog-tags.html">this tutorial</a> right away. This was pretty much what I wanted, so I implemented it.</p>
+
+<p>It looked good, except that this implementation had an archive page anchored to the header. I was fine with having an archive page but I didn’t want it so prominently featured on my site, .as sorting by tag is likely an edge case for users of my site. I wanted to maintain the archive page, but remove it from the header. Easier said than done! I went to Claude to get this done.</p>
 
 <ol>
   <li>
-    <p><strong>Claude worked well for troubleshooting.</strong> While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes.</p>
+    <p>Claude gave me two suggestions. I tried the simplest-looking one first and added <code class="language-plaintext highlighter-rouge">exclude:true</code> to the archive page’s front matter. I tried this, but nothing changed.</p>
+
+    <p><img src="/assets/jekyll_site/exclude-true.png" alt="Claude's initial solution for excluding the archive page from nav" /></p>
   </li>
   <li>
-    <p><strong>Using Claude to complete a technical task requires some level of domain experience.</strong> I don’t consider myself a web development expert by any means. However, I’ve worked with HTML, CSS, Markdown, and GitHub enough that I have a baseline familiarity with web development concepts. I have some amount of intuition that makes me question some of Claude’s suggestions, or know to ask a follow-up question. I don’t want to put a bunch of inline CSS anywhere. I don’t want to add JavaScript in most situations. If something requires changing code in three or four different places, I wonder if there’s a simpler solution (there might not be, but sometimes there is). Without this background, this process would have been a whole lot harder.</p>
+    <p>I tried Claude’s other suggestion, which involved editing the yaml file. This did remove the archive page from the navigation, but affected the site in a few other undesirable ways. When I clicked into individual posts, the header navigation disappeared entirely. I wasn’t really sure why this was happening.</p>
+  </li>
+  <li>
+    <p>Claude gave the same suggestion to use exclude syntax on the archive page’s front matter, but this time the actual syntax was different. I tried it. This fixed the navigation problem for posts, but when I clicked into the Books I’ve Read page, the header navigation once again disappeared.</p>
+  </li>
+  <li>
+    <p>Claude gave me some things to check in my code, including making sure the layout was designated as <code class="language-plaintext highlighter-rouge">page</code>. I actually had all three of my pages (booklist, blog, archive) designated as <code class="language-plaintext highlighter-rouge">default</code> so I changed them all to <code class="language-plaintext highlighter-rouge">page</code>. This fixed the navigation issue.</p>
+
+    <p><img src="/assets/jekyll_site/page-layout.png" alt="Changing the layout" /></p>
+  </li>
+  <li>
+    <p>Of course, this change introduced some additional issues. Titles now appeared on each page before all of the posts (“Blog,” “Books I’ve Read”) . I didn’t like this – it felt unnecessary and repetitive. I wanted to remove the title from all pages but keep it on the header. Claude suggested creating a custom layout file to fix this. However, since I wanted this style for all of my pages and not just one, I instead override the default Minima page layout.</p>
+
+    <p><img src="/assets/jekyll_site/remove-title-override.png" alt="Claude's solution for excluding the archive page from nav" /></p>
+  </li>
+</ol>
+
+<p>I noticed a few other issues with my implementation.</p>
+
+<ol>
+  <li>
+    <p>I wanted the tags to appear in the excerpt part of the post on the blog homepage. In my current implementation, the tags only appeared when you actually clicked into a post. At Claude’s suggestion, I added code to the main blog page that checked to see if the post had tags and if so, displayed them as a link to the corresponding section of the archive page.</p>
+
+    <p><img src="/assets/jekyll_site/tags-in-excerpt.png" alt="Tags in excerpt on site" /></p>
+  </li>
+  <li>
+    <p>Finally, I noticed that the archive page didn’t handle Markdown in some of my blog post titles correctly. This was a familiar problem! At Claude’s recommendation, I added one additional line of code directly to the archive page to handle this formatting.</p>
+
+    <p><img src="/assets/jekyll_site/archive-markdown-titles.png" alt="Claude's solution for handling Markdown in titles on archive page" /></p>
+  </li>
+</ol>
+
+<h2 id="takeaways">Takeaways</h2>
+
+<ol>
+  <li>
+    <p><strong>Claude works well for troubleshooting.</strong> While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes.</p>
+  </li>
+  <li>
+    <p><strong>Using Claude to complete a technical task requires some level of domain experience.</strong> I don’t consider myself a web development expert by any means. However, I’ve worked with HTML, CSS, Markdown, and GitHub enough that I have a baseline familiarity with web development concepts. This experience helped me question some of Claude’s suggestions and know when to ask a follow-up question. I didn’t want to put a bunch of inline CSS anywhere. I didn’t want to add JavaScript in most situations. If something required changing code in three or four different places, I wondered if there’s a simpler solution. Without this background, this process would have been a whole lot harder.</p>
   </li>
   <li>
     <p><strong>You can word things badly.</strong> When you’re asking an LLM (versus a person) questions, you can word them badly or in the dumbest way possible, and you still get a nice answer. I could switch between asking Claude really technical questions and asking Claude to clarify a trivial point that most engineers would already know. It’s a really great way to accomplish a complex task while also quickly filling in gaps in your knowledge. However, this kind of thing works best when you have some baseline level of domain knowledge (see above point).</p>
