@@ -15,6 +15,22 @@ All the books I've read since January 2020.
     <th>Rating (out of 5)</th>
   </tr>
 
+  <tr>
+    <td>Lady Audley's Secret</td>
+    <td>Mary Elizabeth Braddon</td>
+    <td>1862</td>
+    <td>March 2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
+    <td>The Patron Saint of Liars</td>
+    <td>Ann Patchett</td>
+    <td>1992</td>
+    <td>March 2025</td>
+    <td>4</td>
+  </tr>
+
    <tr>
     <td>State of Wonder</td>
     <td>Ann Patchett</td>
