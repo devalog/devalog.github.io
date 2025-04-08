@@ -16,6 +16,46 @@ All the books I've read since January 2020.
   </tr>
 
   <tr>
+    <td>So Big</td>
+    <td>Edna Ferber</td>
+    <td>1924</td>
+    <td>April 2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+    <td>The Able McLaughlins</td>
+    <td>Margaret Wilson</td>
+    <td>1923</td>
+    <td>April 2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
+    <td>City of Night Birds</td>
+    <td>Juhea Kim</td>
+    <td>2024</td>
+    <td>March 2025</td>
+    <td>2</td>
+  </tr>
+
+  <tr>
+    <td>The Rachel Incident</td>
+    <td>Caroline O'Donoghue</td>
+    <td>2023</td>
+    <td>March 2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+    <td>Run</td>
+    <td>Ann Patchett</td>
+    <td>2007</td>
+    <td>March 2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
     <td>Lady Audley's Secret</td>
     <td>Mary Elizabeth Braddon</td>
     <td>1862</td>
