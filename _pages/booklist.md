@@ -16,6 +16,80 @@ All the books I've read since January 2020.
   </tr>
 
   <tr>
+    <td>The Pursuit of Love</td>
+    <td>Nancy Mitford</td>
+    <td>1945</td>
+    <td>May 2025</td>
+    <td>5</td>
+  </tr>
+
+
+  <tr>
+    <td>The Warden</td>
+    <td>Anthony Trollope</td>
+    <td>1855</td>
+    <td>May 2025</td>
+    <td>5</td>
+  </tr>
+
+
+  <tr>
+    <td>Beach Read</td>
+    <td>Emily Henry</td>
+    <td>2020</td>
+    <td>May 2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
+    <td>Tom Lake</td>
+    <td>Ann Patchett</td>
+    <td>1923</td>
+    <td>May 2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+    <td>Our Town</td>
+    <td>Thornton Wilder</td>
+    <td>1938</td>
+    <td>May 2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+    <td>Early Autumn</td>
+    <td>Louis Bromfield</td>
+    <td>1926</td>
+    <td>April 2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
+    <td>Funny Story</td>
+    <td>Emily Henry</td>
+    <td>2024</td>
+    <td>April 2025</td>
+    <td>4</td>
+  </tr>
+
+  <tr>
+    <td>Taft</td>
+    <td>Ann Patchett</td>
+    <td>1994</td>
+    <td>April 2025</td>
+    <td>3</td>
+  </tr>
+
+  <tr>
+    <td>The Bridge of San Luis Rey</td>
+    <td>Thornton Wilder</td>
+    <td>1927</td>
+    <td>April 2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
     <td>So Big</td>
     <td>Edna Ferber</td>
     <td>1924</td>
