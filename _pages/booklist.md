@@ -44,7 +44,7 @@ All the books I've read since January 2020.
   <tr>
     <td>Tom Lake</td>
     <td>Ann Patchett</td>
-    <td>1923</td>
+    <td>2023</td>
     <td>May 2025</td>
     <td>5</td>
   </tr>
