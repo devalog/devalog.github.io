@@ -40,3 +40,6 @@ Similarly to the Monte Cristo piece, Claude's suggestions helped me clarify and 
 When I was in high school, I'd print out drafts of English class essays and give it to my best friend to proofread. She'd return it to me later that day with it all marked up and a note on the back, and I'd do the same for her essays. Using Claude to edit my work felt like a surprisingly similar experience, except I got the edits back in a few seconds rather than a few hours. Claude wasn't as thorough, harsh, or personal as my friend, but for this kind of personal writing that isn't for a job (or a grade!) that works just fine for me. 
 
 For this kind of personal writing, I don't think I'll ever use AI to write a first draft. That takes the fun out of writing. Also, for me writing is a way to get my thoughts in order and work out my opinion. Having Claude write a first draft would take away this processing stage, and I know my writing and my thoughts would suffer without it. But it's great at clarifying my thoughts and firming up my points. 
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

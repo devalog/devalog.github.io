@@ -5,6 +5,10 @@
 
 // Your custom CSS goes here
 
+.site-header {
+    border-top: none;
+}
+
 img {
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -59,4 +63,23 @@ img {
 
 .table-of-contents ul {
   margin-bottom: 0;
+}
+
+/* Indent nested heading levels */
+.toc-level-3 {
+  margin-left: 1.5rem;
+  list-style-type: circle;
+}
+
+.toc-level-4 {
+  margin-left: 3rem;
+  list-style-type: square;
+}
+
+.toc-level-5 {
+  margin-left: 4.5rem;
+}
+
+.toc-level-6 {
+  margin-left: 6rem;
 }

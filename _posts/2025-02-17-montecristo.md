@@ -22,5 +22,6 @@ The plots that the Count engineers are ingenious and very fun to read about. Evi
 Monte Cristo plays god, but he isn’t god. His morality is hard and brutal and not always actually moral. This moral ambiguity and the Count’s subtle back and forth between a righteous god and a megalomaniac makes the book incredibly gripping.
 
 
-
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
