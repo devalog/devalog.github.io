@@ -1,0 +1,53 @@
+{% comment %}
+This creates a table of contents from headings in your content
+GitHub Pages compatible - no plugins required
+Preserves formatting like italics and bold in TOC links
+{% endcomment %}
+
+{% assign toc_items = '' | split: '' %}
+{% assign html_content = content | markdownify %}
+
+{% comment %} Use regex-like approach to find headings {% endcomment %}
+{% assign heading_sections = html_content | split: '<h' %}
+
+{% for section in heading_sections %}
+  {% if section contains '</h' %}
+    {% comment %} Get the heading level {% endcomment %}
+    {% assign level_char = section | slice: 0, 1 %}
+    {% assign level = level_char | plus: 0 %}
+    
+    {% if level >= 2 and level <= 6 %}
+      {% comment %} Find everything after the first > and before the closing tag {% endcomment %}
+      {% assign parts = section | split: '>' %}
+      {% if parts.size > 1 %}
+        {% assign remaining = parts | shift | join: '>' %}
+        {% assign heading_content = remaining | split: '</h' | first %}
+        
+        {% comment %} Create clean ID from text-only version {% endcomment %}
+        {% assign clean_text = heading_content | strip_html | strip %}
+        {% assign heading_id = clean_text | downcase | replace: ' ', '-' | replace: ':', '' | replace: '?', '' | replace: '!', '' | replace: '.', '' | replace: ',', '' | replace: ';', '' | replace: '"', '' | replace: "'", '' | replace: '(', '' | replace: ')', '' | replace: '[', '' | replace: ']', '' | replace: '{', '' | replace: '}', '' | replace: '/', '' | replace: '\', '' | replace: '+', '' | replace: '=', '' | replace: '*', '' | replace: '&', '' | replace: '%', '' | replace: '$', '' | replace: '#', '' | replace: '@', '' | replace: '<', '' | replace: '>', '' %}
+        {% assign heading_id = heading_id | replace: '--', '-' | replace: '--', '-' %}
+        
+        {% assign toc_item = level | append: '|||' | append: heading_id | append: '|||' | append: heading_content %}
+        {% assign toc_items = toc_items | push: toc_item %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if toc_items.size > 0 %}
+<div class="table-of-contents">
+  <h3>Page contents</h3>
+  <ul>
+    {% for item in toc_items %}
+      {% assign parts = item | split: '|||' %}
+      {% assign level = parts[0] %}
+      {% assign id = parts[1] %}
+      {% assign text = parts[2] %}
+      <li class="toc-level-{{ level }}">
+        <a href="#{{ id }}">{{ text }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

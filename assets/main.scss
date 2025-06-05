@@ -41,3 +41,22 @@ img {
 .post-list article {
   margin-bottom: 2em;
 }
+
+.table-of-contents {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.table-of-contents h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  color: #6c757d; /* Gray color */
+}
+
+.table-of-contents ul {
+  margin-bottom: 0;
+}
