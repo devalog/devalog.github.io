@@ -19,6 +19,10 @@ layout: default
     {% endfor %}
 {%- endif -%}
   </header>
+  
+  {%- comment -%} Add table of contents {%- endcomment -%}
+  {% include toc.html %}
+  
   <div class="post-content e-content">
     {{ content }}
   </div>
