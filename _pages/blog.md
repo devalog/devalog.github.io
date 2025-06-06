@@ -9,7 +9,7 @@ permalink: /blog/
   {% assign pinned_posts = site.posts | where: "pinned", true %}
   {% for post in pinned_posts %}
     <article class="pinned-post">
-      <span class="pinned-label">📌 Pinned</span>
+      <span class="pinned-label">📌</span>
       <small>
         Published: {{ post.date | date_to_string }}
         {% if post.updated %}
