@@ -16,6 +16,31 @@ All the books I've read since January 2020.
   </tr>
 
   <tr>
+    <td>The Snow Child</td>
+    <td>Eowyn Ivey</td>
+    <td>2011</td>
+    <td>May 2025</td>
+    <td>5</td>
+  </tr>
+
+
+  <tr>
+    <td>The Turmoil</td>
+    <td>Booth Tarkington</td>
+    <td>1915</td>
+    <td>May 2025</td>
+    <td>2</td>
+  </tr>
+
+<tr>
+    <td>The Mighty Red</td>
+    <td>Louise Erdrich</td>
+    <td>2024</td>
+    <td>May 2025</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
     <td>The Pursuit of Love</td>
     <td>Nancy Mitford</td>
     <td>1945</td>
