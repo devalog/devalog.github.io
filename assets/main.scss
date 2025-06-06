@@ -46,6 +46,7 @@ img {
   margin-bottom: 2em;
 }
 
+/* TOC styling */
 .table-of-contents {
   background: #f8f9fa;
   border: 1px solid #e9ecef;
@@ -82,4 +83,22 @@ img {
 
 .toc-level-6 {
   margin-left: 6rem;
+}
+
+/* Pinned post styling */
+.pinned-post {
+  border: 2px dashed #ff8c00;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  background-color: #fef9f3;
+  border-radius: 4px;
+}
+
+.pinned-label {
+  font-size: 0.9em;
+  color: #ff8c00;
+  font-weight: bold;
+  font-style: italic;
+  display: block;
+  margin-bottom: 0.5rem;
 }
