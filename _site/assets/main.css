@@ -743,4 +743,10 @@ img {
   margin-bottom: 0.5rem;
 }
 
+/* Updated date styling */
+.updated-date {
+  font-weight: bold;
+  font-style: italic;
+}
+
 /*# sourceMappingURL=main.css.map */

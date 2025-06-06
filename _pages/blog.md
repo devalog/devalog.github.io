@@ -10,7 +10,12 @@ permalink: /blog/
   {% for post in pinned_posts %}
     <article class="pinned-post">
       <span class="pinned-label">📌 Pinned</span>
-      <small>{{ post.date | date_to_string }}</small>
+      <small>
+        Published: {{ post.date | date_to_string }}
+        {% if post.updated %}
+        <br><span class="updated-date">Updated: {{ post.updated | date_to_string }}</span>
+        {% endif %}
+      </small>
       <h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
       <p>{{ post.excerpt }}</p>
       {% if post.tags.size > 0 %}
@@ -23,12 +28,16 @@ permalink: /blog/
     </article>
   {% endfor %}
 
-  
   <!-- Regular posts (excluding pinned ones) -->
   {% assign regular_posts = site.posts | where: "pinned", nil %}
   {% for post in regular_posts %}
     <article>
-      <small>{{ post.date | date_to_string }}</small>
+      <small>
+        Published: {{ post.date | date_to_string }}
+        {% if post.updated %}
+        <br><span class="updated-date">Updated: {{ post.updated | date_to_string }}</span>
+        {% endif %}
+      </small>
       <h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
       <p>{{ post.excerpt }}</p>
       {% if post.tags.size > 0 %}
