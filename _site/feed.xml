@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-06T10:10:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Getting into technical writing: a primer</title><link href="http://localhost:4000/2025/05/23/primer.html" rel="alternate" type="text/html" title="Getting into technical writing: a primer" /><published>2025-05-23T00:00:00-04:00</published><updated>2025-05-23T00:00:00-04:00</updated><id>http://localhost:4000/2025/05/23/primer</id><content type="html" xml:base="http://localhost:4000/2025/05/23/primer.html"><![CDATA[<p>Over the past few years I’ve talked to a number of people who are interested in getting into the technical writing field. After years of meaning to do this, I finally took some time to write up the thoughts and resources I typically share with people looking to get into the field. This is far from a comprehensive guide and notably doesn’t include much specific resume or cover letter advice.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-06T11:03:07-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Getting into technical writing: a primer</title><link href="http://localhost:4000/2025/05/23/primer.html" rel="alternate" type="text/html" title="Getting into technical writing: a primer" /><published>2025-05-23T00:00:00-04:00</published><updated>2025-05-23T00:00:00-04:00</updated><id>http://localhost:4000/2025/05/23/primer</id><content type="html" xml:base="http://localhost:4000/2025/05/23/primer.html"><![CDATA[<p>Over the past few years I’ve talked to a number of people who are interested in getting into the technical writing field. After years of meaning to do this, I finally took some time to write up the thoughts and resources I typically share with people looking to get into the field. This is far from a comprehensive guide and notably doesn’t include much specific resume or cover letter advice.</p>
 
 <p>I worked as a technical writer at Google for almost 7 years. (And wrote <a href="https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/">this blog post</a> for Google’s The Keyword back in 2021, which captured my own journey into technical writing.) During that time, I interviewed a lot of candidates, including some people who were switching careers. Now, I’m a freelance technical writer and have spent a lot of time refining my resume and applying to jobs.</p>
 
@@ -367,6 +367,75 @@
     <p>Finally, I noticed that the archive page didn’t handle Markdown in some of my blog post titles correctly. This was a familiar problem! At Claude’s recommendation, I added one additional line of code directly to the archive page to handle this formatting.</p>
 
     <p><img src="/assets/jekyll_site/archive-markdown-titles.png" alt="Claude's solution for handling Markdown in titles on archive page" /></p>
+  </li>
+</ol>
+
+<h3 id="added-06-06-2025-adding-a-table-of-contents"><strong><em>Added 06-06-2025</em></strong> Adding a table of contents</h3>
+
+<p>When I initially started writing on this site, I wrote short articles with few to no headings within a post. In the past year or so, though, I’ve been writing some longer pieces with more headings. I thought it would be nice if these posts had tables of contents.</p>
+
+<p>I went back to Claude, of course, to add this to my site.</p>
+
+<ol>
+  <li>
+    <p>Claude started by giving me three different ways to add it:</p>
+
+    <p><img src="/assets/jekyll_site/toc/intro_prompt.png" alt="Claude's initial solution options" /></p>
+  </li>
+  <li>
+    <p>I chose the first solution, using the ‘jekyll-toc’ plugin, because it was “recommended” by Claude and at a glance seemed like the least amount of code. However, I couldn’t get anything to appear on the page.</p>
+
+    <p><img src="/assets/jekyll_site/toc/method1.png" alt="Jekyll-toc option" /></p>
+  </li>
+  <li>
+    <p>After an embarassing amount of troubleshooting with Claude, I realized the plugin wasn’t compatible with GitHub Pages, which I use to host the site. So, I switched to trying the Liquid implmentation and it worked right away.</p>
+
+    <p>(Actually, Claude told in the beginning that the Liquid solution (second option) was compatible with GitHub Pages. To justify myself, though – Claude didn’t say the ‘jekyll-toc’ plugin <em>wasn’t</em> compatible with GitHub Pages!)</p>
+
+    <p><img src="/assets/jekyll_site/toc/liquid_explanation.png" alt="Liquid option" /></p>
+  </li>
+  <li>
+    <p>The implementation was working but was super basic – just a bulleted list.</p>
+
+    <p><img src="/assets/jekyll_site/toc/no_css.png" alt="TOC with no CSS" /></p>
+  </li>
+  <li>
+    <p>I had Claude run me up some CSS to create a box around the table of contents:</p>
+
+    <p><img src="/assets/jekyll_site/toc/css_prompts.png" alt="TOC with CSS" /></p>
+
+    <p>Then, I played with the styling and eventually ended with a grey and italicized Page Contents header.</p>
+
+    <p><img src="/assets/jekyll_site/toc/with_css.png" alt="TOC with CSS" /></p>
+  </li>
+  <li>
+    <p>That looked a lot better, but there were still a few functional issues. First, all of the headings were on the same level in the table of contents – an <code class="language-plaintext highlighter-rouge">h2</code> was indistinguishable from an <code class="language-plaintext highlighter-rouge">h3</code>:
+ <img src="/assets/jekyll_site/toc/only_one_level.png" alt="TOC with levels" /></p>
+
+    <p>I had Claude add some additional CSS to fix this:</p>
+
+    <p><img src="/assets/jekyll_site/toc/level_prompts.png" alt="TOC with levels" /></p>
+
+    <p>And it worked:</p>
+
+    <p><img src="/assets/jekyll_site/toc/correct_levels.png" alt="TOC with levels" /></p>
+  </li>
+  <li>
+    <p>Also, my current implementation wasn’t handling italics (and other styling) in headings:</p>
+
+    <p><img src="/assets/jekyll_site/toc/no_italics.png" alt="Italics issue" /></p>
+
+    <p>I had to prompt Claude a few different times to fix this:</p>
+
+    <p><img src="/assets/jekyll_site/toc/claude_italics_attempts.png" alt="Claude's attempts at fixing the italics issue" /></p>
+
+    <p>…and I got some interesting-looking tables of contents in the meantime, but ultimately got it working.</p>
+
+    <p><img src="/assets/jekyll_site/toc/no_italics_again.png" alt="Yet another italics issue" />
+ <img src="/assets/jekyll_site/toc/italics_fixed.png" alt="TOC with CSS" /></p>
+  </li>
+  <li>
+    <p>Now every post on my site that has headings also has a table of contents!</p>
   </li>
 </ol>
 
