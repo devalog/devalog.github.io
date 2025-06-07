@@ -731,11 +731,12 @@ img {
   margin-bottom: 2rem;
   background-color: #ffe4cc;
   border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
 }
 
 .pinned-label {
   font-size: 0.9em;
-  color: #ffe0b3;
+  color: #ff8c00;
   font-weight: bold;
   font-style: italic;
   display: block;
