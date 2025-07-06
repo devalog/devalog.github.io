@@ -16,12 +16,19 @@ I write about technical things for technical and nontechnical audiences. More sp
 
 Skills I have:
 
-*   Writing Markdown, HTML, and CSS.
+*   Markdown, HTML, CSS, GitHub, docs-as-code, static site generators (Jekyll, Fern).
+*   Testing developer workflows
 *   Working with minimal supervision, either autonomously or as part of a team. 
 *   Learning new information and new technologies quickly.
 *   Documenting Python, Java, and C++ code.
 *   Using AI as a tool for coding and writing.
 *   Using and learning new technical writing tools, including Microsoft Office and Google Workspace suites, version control tools, Oxygen XML, etc. 
+
+Recent projects:
+
+*   SDK docs for [Fern](https://buildwithfern.com/) (current).
+*   Walk-through videos and docs consulting for Class Constructor Corp.
+*   Payment processing docs for Dowling Community Garden
 
 
 <script data-goatcounter="https://dlog.goatcounter.com/count"
