@@ -7,11 +7,11 @@ layout: home
 ---
 
 <div class="homepage-highlight">
-  <span class="highlight-label">✨ Recent projects:</span>
+  <span class="highlight-label">✨ Recent projects</span>
   <h2></h2>
   <p><ul>
-  <li>SDK docs for <a href="https://buildwithfern.com/">Fern</a> (current).</li>
-  <li>Walk-through videos and docs consulting for Class Constructor Corp.</li>
+  <li>SDK docs for <a href="https://buildwithfern.com/">Fern</a> (current)</li>
+  <li>Demo videos and docs consulting for Class Constructor Corp</li>
   <li>Payment processing docs for Dowling Community Garden</li></ul>
   </p>
 </div>
