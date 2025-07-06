@@ -12,7 +12,7 @@ I write about technical things for technical and nontechnical audiences. More sp
 *   Write technical content that bridges marketing and documentation needs, like case studies, blog posts, and product specs.
 *   Create training materials like education modules or presentations.
 *   Edit, expand, or reconfigure technical material.
-*   Develop documentation and maintenance strategies.
+*   Design comprehensive documentation strategies
 
 Skills I have:
 
@@ -20,9 +20,7 @@ Skills I have:
 *   Testing developer workflows
 *   Working with minimal supervision, either autonomously or as part of a team. 
 *   Learning new information and new technologies quickly.
-*   Documenting Python, Java, and C++ code.
 *   Using AI as a tool for coding and writing.
-*   Using and learning new technical writing tools, including Microsoft Office and Google Workspace suites, version control tools, Oxygen XML, etc. 
 
 Recent projects:
 
