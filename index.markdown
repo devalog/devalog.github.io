@@ -6,6 +6,16 @@ layout: home
 
 ---
 
+<div class="homepage-highlight">
+  <span class="highlight-label">✨ Recent projects:</span>
+  <h2></h2>
+  <p><ul>
+  <li>SDK docs for <a href="https://buildwithfern.com/">Fern</a> (current).</li>
+  <li>Walk-through videos and docs consulting for Class Constructor Corp.</li>
+  <li>Payment processing docs for Dowling Community Garden</li></ul>
+  </p>
+</div>
+
 I write about technical things for technical and nontechnical audiences. More specifically, I:
 
 *   Write end user documentation, including conceptual overviews, reference documentation, API guides, and codelabs.
@@ -21,13 +31,6 @@ Skills I have:
 *   Working with minimal supervision, either autonomously or as part of a team. 
 *   Learning new information and new technologies quickly.
 *   Using AI as a tool for coding and writing.
-
-Recent projects:
-
-*   SDK docs for [Fern](https://buildwithfern.com/) (current).
-*   Walk-through videos and docs consulting for Class Constructor Corp.
-*   Payment processing docs for Dowling Community Garden
-
 
 <script data-goatcounter="https://dlog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

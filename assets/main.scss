@@ -89,14 +89,14 @@ img {
 .pinned-post {
   padding: 1.5rem;
   margin-bottom: 2rem;
-  background-color: #ffe4cc;
+  background-color: #e6ffe6;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
 }
 
 .pinned-label {
   font-size: 0.9em;
-  color: #ff8c00;
+  color: #009900;
   font-weight: bold;
   font-style: italic;
   display: block;
@@ -115,4 +115,22 @@ img {
   -webkit-overflow-scrolling: touch;
   min-width: 500 px;
   border-collapse: collapse;
+}
+
+/* Homepage highlight box styling */
+.homepage-highlight {
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  background-color: #e6f3ff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
+}
+
+.highlight-label {
+  font-size: 0.9em;
+  color: #0066cc;
+  font-weight: bold;
+  font-style: italic;
+  display: block;
+  margin-bottom: 0.5rem;
 }
