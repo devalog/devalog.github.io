@@ -775,4 +775,15 @@ img {
   margin-bottom: 0.5rem;
 }
 
+/* Portfolio page heading fixes */
+.portfolio-page h1 {
+  font-size: 2.5em !important;
+  font-weight: 300;
+}
+
+.portfolio-page h2 {
+  font-size: 2em !important;
+  font-weight: 400;
+}
+
 /*# sourceMappingURL=main.css.map */

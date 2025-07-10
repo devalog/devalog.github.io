@@ -3,6 +3,7 @@ layout: page
 title: "Portfolio"
 permalink: /portfolio/
 exclude_from_nav: true
+custom_css_class: portfolio-page
 ---
 
 # Portfolio
@@ -16,9 +17,7 @@ exclude_from_nav: true
 ## Technical articles on my personal blog
 
 * [Using an LLM to revamp my site](https://devinlogan.org//2025/02/09/jekyll.html) (Feb 2025)
-
 * [Using (and not using) Claude to write book reviews](https://devinlogan.org/2025/03/12/aiproofreader.html) (Mar 2025)
-
 * [Managing library books on the Kobo Libra H2O](https://devinlogan.org/2025/01/10/librarykobo.html) (Jan 2025)
 
 ## Posts and articles about technical writing
