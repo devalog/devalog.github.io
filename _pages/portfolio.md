@@ -10,7 +10,6 @@ custom_css_class: portfolio-page
 
 ## Technical documentation for Fern (selected)
 
-
 * [TypeScript quickstart](https://buildwithfern.com/learn/sdks/generators/typescript/quickstart) (Jul 2025)
 * [Publishing to npm](https://buildwithfern.com/learn/sdks/generators/typescript/publishing) (Jul 2025)
 * [Publishing to PyPi](https://buildwithfern.com/learn/sdks/generators/python/publishing) (Jul 2025)
