@@ -8,11 +8,20 @@ custom_css_class: portfolio-page
 
 # Portfolio
 
-## Technical documentation for Fern
+## Technical documentation for Fern (selected)
 
-* [TypeScript quickstart](https://fern-v2.docs.buildwithfern.com/learn/v2/sdks/overview/typescript/quickstart) (Jul 2025)
-* [Publishing to NPM](https://fern-v2.docs.buildwithfern.com/learn/v2/sdks/overview/typescript/publishing-to-npm) (Jul 2025)
-* [TypeScript configuration options](https://fern-v2.docs.buildwithfern.com/learn/v2/sdks/overview/typescript/configuration) (Jul 2025)
+
+* [TypeScript quickstart](https://buildwithfern.com/learn/sdks/generators/typescript/quickstart) (Jul 2025)
+* [Publishing to npm](https://buildwithfern.com/learn/sdks/generators/typescript/publishing) (Jul 2025)
+* [Publishing to PyPi](https://buildwithfern.com/learn/sdks/generators/python/publishing) (Jul 2025)
+* [Publishing as a Go module](https://buildwithfern.com/learn/sdks/generators/go/publishing) (Jul 2025)
+* [Publishing to Maven Central](https://buildwithfern.com/learn/sdks/generators/java/publishing) (Jul 2025)
+* [Publishing to Nuget](https://buildwithfern.com/learn/sdks/generators/csharp/publishing) (Jul 2025)
+* [Publishing to Rubygems](https://buildwithfern.com/learn/sdks/generators/ruby/publishing) (Jul 2025)
+* [Publishing to Packagist](https://buildwithfern.com/learn/sdks/generators/php/publishing) (Jul 2025)
+* [Overview of Authentication Options](https://buildwithfern.com/learn/docs/authentication/overview) (Aug 2025)
+* [Single Sign-On](https://buildwithfern.com/learn/docs/authentication/sso) (Jul 2025)
+* [Auto-populate API Keys](https://buildwithfern.com/learn/docs/authentication/api-key-injection) (Jul 2025)
 
 ## Technical articles on my personal blog
 
