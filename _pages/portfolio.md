@@ -18,9 +18,11 @@ custom_css_class: portfolio-page
 * [Publishing to Nuget](https://buildwithfern.com/learn/sdks/generators/csharp/publishing) (Jul 2025)
 * [Publishing to Rubygems](https://buildwithfern.com/learn/sdks/generators/ruby/publishing) (Jul 2025)
 * [Publishing to Packagist](https://buildwithfern.com/learn/sdks/generators/php/publishing) (Jul 2025)
-* [Overview of Authentication Options](https://buildwithfern.com/learn/docs/authentication/overview) (Aug 2025)
+* [Overview of Authentication Options](https://buildwithfern.com/learn/docs/authentication/overview) (Jul 2025)
 * [Single Sign-On](https://buildwithfern.com/learn/docs/authentication/sso) (Jul 2025)
-* [Auto-populate API Keys](https://buildwithfern.com/learn/docs/authentication/api-key-injection) (Jul 2025)
+* [Auto-populate API Keys](https://buildwithfern.com/learn/docs/authentication/api-key-injection) (OAuth section only) (Jul 2025)
+* [Overview of Self-Hosted Documentation](https://buildwithfern.com/learn/docs/self-hosted/overview) (Aug 2025)
+
 
 ## Technical articles on my personal blog
 
