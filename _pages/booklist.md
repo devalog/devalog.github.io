@@ -14,7 +14,97 @@ All the books I've read since January 2020.
     <th>Date completed</th>
     <th>Rating (out of 5)</th>
   </tr>
-
+<tr>
+    <td>The Safekeep</td>
+    <td>Yael van der Wouden</td>
+    <td>Aug 2025</td>
+    <td>3</td>
+    <td>2024</td>
+</tr>
+<tr>
+    <td>Cold Comfort Farm</td>
+    <td>Stella Gibbons</td>
+    <td>Jul 2025</td>
+    <td>5</td>
+    <td>1932</td>
+</tr>
+<tr>
+    <td>Prairie Fires: The American Dreams of Laura Ingalls Wilder</td>
+    <td>Caroline Fraser</td>
+    <td>Jul 2025</td>
+    <td>5</td>
+    <td>2017</td>
+</tr>
+<tr>
+    <td>Riders</td>
+    <td>Jilly Cooper</td>
+    <td>Jul 2025</td>
+    <td>3</td>
+    <td>1985</td>
+</tr>
+<tr>
+    <td>Ex-Wife</td>
+    <td>Ursula Parrott</td>
+    <td>Jul 2025</td>
+    <td>4</td>
+    <td>1929</td>
+</tr>
+<tr>
+    <td>Winesburg, Ohio</td>
+    <td>Sherwood Anderson</td>
+    <td>Jul 2025</td>
+    <td>2</td>
+    <td>1919</td>
+</tr>
+<tr>
+    <td>The Happy Couple</td>
+    <td>Naoise Dolan</td>
+    <td>Jul 2025</td>
+    <td>5</td>
+    <td>2023</td>
+</tr>
+<tr>
+    <td>Lucky Night</td>
+    <td>Eliza Kennedy</td>
+    <td>Jun 2025</td>
+    <td>3</td>
+    <td>2025</td>
+</tr>
+<tr>
+    <td>Pride and Prejudice (reread)</td>
+    <td>Jane Austen</td>
+    <td>Jun 2025</td>
+    <td>5</td>
+    <td>1813</td>
+</tr>
+<tr>
+    <td>Jane and Prudence</td>
+    <td>Barbara Pym</td>
+    <td>Jun 2025</td>
+    <td>5</td>
+    <td>1953</td>
+</tr>
+<tr>
+    <td>Don't Tell Alfred</td>
+    <td>Nancy Mitford</td>
+    <td>Jun 2025</td>
+    <td>3</td>
+    <td>1960</td>
+</tr>
+<tr>
+    <td>Love in a Cold Climate</td>
+    <td>Nancy Mitford</td>
+    <td>Jun 2025</td>
+    <td>5</td>
+    <td>1949</td>
+</tr>
+<tr>
+    <td>The Grapes of Wrath</td>
+    <td>John Steinbeck</td>
+    <td>Jun 2025</td>
+    <td>5</td>
+    <td>1939</td>
+</tr>
   <tr>
     <td>The Snow Child</td>
     <td>Eowyn Ivey</td>
