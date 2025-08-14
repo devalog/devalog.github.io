@@ -22,6 +22,7 @@ custom_css_class: portfolio-page
 * [Single Sign-On](https://buildwithfern.com/learn/docs/authentication/sso) (Jul 2025)
 * [Auto-populate API Keys](https://buildwithfern.com/learn/docs/authentication/api-key-injection) (OAuth section only) (Jul 2025)
 * [Overview of Self-Hosted Documentation](https://buildwithfern.com/learn/docs/self-hosted/overview) (Aug 2025)
+* [API Definitions – Project Structure](https://buildwithfern.com/learn/api-definitions/overview/project-structure) (Aug 2025)
 
 
 ## Technical articles on my personal blog
