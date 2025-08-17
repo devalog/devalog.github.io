@@ -68,3 +68,6 @@ Sites change, content shifts, and restructuring changes are almost always going 
 I estimate this end-to-end task, with Claude Code, took me about an hour. But the bulk of that work was initially figuring out what I wanted to do, and then finetuning the overview page text at the end. The middle part of the project, i.e. all of the file restructuring, took me very little time. I think this entire task would have taken me at least 2-3 hours to do manually, and I'm sure I would have introduced more errors.
 
 And finally, credit where credit is due: thanks to [my husband](https://www.echevarria.io/) who raved about Claude Code a few weeks ago for engineering tasks and inspired me to give it a shot for my own work. Turns out it's pretty great for technical writing workflows too.
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
