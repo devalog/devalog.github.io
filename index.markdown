@@ -10,9 +10,9 @@ layout: home
   <span class="highlight-label">✨ Recent projects</span>
   <h2></h2>
   <p><ul>
-  <li>SDK docs for <a href="https://buildwithfern.com/">Fern</a> (current)</li>
-  <li>Demo videos and docs consulting for Class Constructor Corp</li>
-  <li>Payment processing docs for Dowling Community Garden</li></ul>
+  <li>Open source developer docs for <a href="https://buildwithfern.com/">Fern</a> (current)</li>
+  <li>Demo videos and how-to guides for Class Constructor Corp</li>
+  </ul>
   </p>
 </div>
 
