@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Blog"
-permalink: /blog/
+title: "Books"
+permalink: /books/
 ---
 
 <div class="post-list">
-  <!-- Pinned posts first -->
-  {% assign pinned_posts = site.posts | where: "pinned", true %}
-  {% for post in pinned_posts %}
+  <!-- Pinned book posts first -->
+  {% assign pinned_book_posts = site.posts | where: "pinned", true | where_exp: "post", "post.tags contains 'books'" %}
+  {% for post in pinned_book_posts %}
     <article class="pinned-post">
       <span class="pinned-label">📌</span>
       <small>
@@ -28,9 +28,9 @@ permalink: /blog/
     </article>
   {% endfor %}
 
-  <!-- Regular posts (excluding pinned ones) -->
-  {% assign regular_posts = site.posts | where: "pinned", nil %}
-  {% for post in regular_posts %}
+  <!-- Regular book posts (excluding pinned ones) -->
+  {% assign regular_book_posts = site.posts | where: "pinned", nil | where_exp: "post", "post.tags contains 'books'" %}
+  {% for post in regular_book_posts %}
     <article>
       <small>
         Published: {{ post.date | date_to_string }}
