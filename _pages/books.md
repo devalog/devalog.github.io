@@ -29,8 +29,8 @@ permalink: /books/
   {% endfor %}
 
   <!-- Regular book posts (excluding pinned ones) -->
-  {% assign regular_book_posts = site.posts | where: "pinned", nil | where_exp: "post", "post.tags contains 'books'" %}
-  {% for post in regular_book_posts %}
+{% for post in site.posts %}
+  {% if post.tags contains 'books' and post.pinned != true %}
     <article>
       <small>
         Published: {{ post.date | date_to_string }}
@@ -48,5 +48,6 @@ permalink: /books/
         </div>
       {% endif %}
     </article>
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 </div>
