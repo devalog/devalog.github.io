@@ -27,13 +27,6 @@ permalink: /tech/
       </small>
       <h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
       <p>{{ post.excerpt }}</p>
-      {% if post.tags.size > 0 %}
-        <div class="post-tags">
-          {% for tag in post.tags %}
-            <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}" class="post-tag">#{{ tag }}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
     </article>
   {% endif %}
 {% endfor %}
