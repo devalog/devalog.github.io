@@ -28,9 +28,9 @@ permalink: /tech/
     </article>
   {% endfor %}
 
-  <!-- Regular tech posts (excluding pinned ones) -->
-  {% assign regular_tech_posts = site.posts | where: "pinned", nil | where_exp: "post", "post.tags contains 'tech'" %}
-  {% for post in regular_tech_posts %}
+<!-- Regular tech posts (excluding pinned ones) -->
+{% for post in site.posts %}
+  {% if post.tags contains 'tech' and post.pinned != true %}
     <article>
       <small>
         Published: {{ post.date | date_to_string }}
@@ -48,5 +48,6 @@ permalink: /tech/
         </div>
       {% endif %}
     </article>
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 </div>
