@@ -28,6 +28,8 @@ custom_css_class: portfolio-page
 * [Enabling the serde layer (TypeScript)](https://buildwithfern.com/learn/sdks/generators/typescript/serde-layer) (Aug 2025)
 * [Tooltips (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/tooltips) (Aug 2025)
 * [Sticky tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/sticky-tables) (Aug 2025)
+* [MCP server (Docs)](https://buildwithfern.com/learn/docs/ai-features/mcp-server) (Aug 2025)
+* [What is Ask Fern?](https://buildwithfern.com/learn/ask-fern/getting-started/what-is-ask-fern) (Aug 2025)
 
 
 ## Technical articles on my personal blog
