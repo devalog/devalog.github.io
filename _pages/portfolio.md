@@ -18,13 +18,14 @@ custom_css_class: portfolio-page
 * [Publishing to Nuget](https://buildwithfern.com/learn/sdks/generators/csharp/publishing) (Jul 2025)
 * [Publishing to Rubygems](https://buildwithfern.com/learn/sdks/generators/ruby/publishing) (Jul 2025)
 * [Publishing to Packagist](https://buildwithfern.com/learn/sdks/generators/php/publishing) (Jul 2025)
-* [Overview of authentication aptions](https://buildwithfern.com/learn/docs/authentication/overview) (Jul 2025)
+* [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Jul 2025)
 * [Single sign-on](https://buildwithfern.com/learn/docs/authentication/sso) (Jul 2025)
 * [Auto-populate API Keys](https://buildwithfern.com/learn/docs/authentication/api-key-injection) (OAuth section only) (Jul 2025)
 * [Overview of self-hosted documentation](https://buildwithfern.com/learn/docs/self-hosted/overview) (Aug 2025)
 * [Overview of self-hosted sDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
 * [Project structure (API definitions)](https://buildwithfern.com/learn/api-definitions/overview/project-structure) (Aug 2025)
 * [Project structure (SDKs)](https://buildwithfern.com/learn/sdks/overview/project-structure) (Aug 2025)
+* [Overrides (API Definitions)](https://buildwithfern.com/learn/api-definitions/overview/overrides) (Aug 2025)
 * [Enabling the serde layer (TypeScript)](https://buildwithfern.com/learn/sdks/generators/typescript/serde-layer) (Aug 2025)
 * [Tooltips (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/tooltips) (Aug 2025)
 * [Sticky tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/sticky-tables) (Aug 2025)
@@ -34,9 +35,10 @@ custom_css_class: portfolio-page
 
 ## Technical articles on my personal blog
 
+* [Managing library books on the Kobo Libra H2O](https://devinlogan.org/2025/01/10/librarykobo.html) (Jan 2025)
 * [Using an LLM to revamp my site](https://devinlogan.org//2025/02/09/jekyll.html) (Feb 2025)
 * [Using (and not using) Claude to write book reviews](https://devinlogan.org/2025/03/12/aiproofreader.html) (Mar 2025)
-* [Managing library books on the Kobo Libra H2O](https://devinlogan.org/2025/01/10/librarykobo.html) (Jan 2025)
+* [How I used Claude Code to restructure and redirect files](https://devinlogan.org/2025/08/17/redirects.html) (Aug 2025)
 
 ## Posts and articles about technical writing
 
