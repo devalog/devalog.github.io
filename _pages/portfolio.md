@@ -31,6 +31,8 @@ custom_css_class: portfolio-page
 * [Sticky tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/sticky-tables) (Aug 2025)
 * [MCP server (Docs)](https://buildwithfern.com/learn/docs/ai-features/mcp-server) (Aug 2025)
 * [What is Ask Fern?](https://buildwithfern.com/learn/ask-fern/getting-started/what-is-ask-fern) (Aug 2025)
+* [How it works (Ask Fern)](https://buildwithfern.com/learn/ask-fern/getting-started/how-it-works) (Sept 2025)
+* [How it works (Docs)](https://buildwithfern.com/learn/docs/getting-started/how-it-works) (Sep 2025)
 
 
 ## Technical articles on my personal blog
