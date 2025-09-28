@@ -12,7 +12,7 @@ custom_css_class: portfolio-page
 
 ### Full pages
 
-* [Ask Fern Slack app](https://buildwithfern.com/learn/ask-fern/features/slack-app)(Sep 2025)
+* [Ask Fern Slack app](https://buildwithfern.com/learn/ask-fern/features/slack-app) (Sep 2025)
 * [Testing (SDKs)](https://buildwithfern.com/learn/sdks/deep-dives/testing) (Sep 2025)
 * [Fern Scribe](https://buildwithfern.com/learn/docs/ai-features/fern-scribe-coming-soon) (Sep 2025)
 * [How it works (Docs)](https://buildwithfern.com/learn/docs/getting-started/how-it-works) (Sep 2025)
@@ -25,7 +25,7 @@ custom_css_class: portfolio-page
 * [Overrides (API Definitions)](https://buildwithfern.com/learn/api-definitions/overview/overrides) (Aug 2025)
 * [Project structure (SDKs)](https://buildwithfern.com/learn/sdks/overview/project-structure) (Aug 2025)
 * [Project structure (API definitions)](https://buildwithfern.com/learn/api-definitions/overview/project-structure) (Aug 2025)
-* [Overview of self-hosted sDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
+* [Overview of self-hosted SDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
 * [Overview of self-hosted documentation](https://buildwithfern.com/learn/docs/self-hosted/overview) (Aug 2025)
 * [Single sign-on](https://buildwithfern.com/learn/docs/authentication/sso) (Jul 2025)
 * [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Jul 2025)
