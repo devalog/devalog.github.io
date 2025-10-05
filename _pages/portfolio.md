@@ -43,7 +43,7 @@ The rest of the pages I've authored at Fern.
 
 ### Additional work (sections)
 
-Smaller contributions to pages other folks originally wrote.
+Sections I've contributed to pages that I didn't originally author.
 
 * [Code Blocks – Start line](https://buildwithfern.com/learn/docs/writing-content/components/code-blocks#start-line) (Sep 2025)
 * [Code Blocks – Max height](https://buildwithfern.com/learn/docs/writing-content/components/code-blocks#max-height) (Sep 2025)
