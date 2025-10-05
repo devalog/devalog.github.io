@@ -18,7 +18,6 @@ A few pieces that show the range of what I do at Fern.
 * [Enabling the serde layer (TypeScript)](https://buildwithfern.com/learn/sdks/generators/typescript/serde-layer) (Aug 2025)
 * [Overrides (API Definitions)](https://buildwithfern.com/learn/api-definitions/overview/overrides) (Aug 2025)
 * [Overview of self-hosted SDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
-* [Publishing to npm](https://buildwithfern.com/learn/sdks/generators/typescript/publishing) (Jul 2025)
 * [Publishing as a Swift package](https://buildwithfern.com/learn/sdks/generators/swift/publishing) (Aug 2025)
 
 ### Additional work (full pages)
