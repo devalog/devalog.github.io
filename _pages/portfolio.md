@@ -6,6 +6,10 @@ exclude_from_nav: true
 custom_css_class: portfolio-page
 ---
 
+### Technical blog posts for Fern
+
+* [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
+
 ## Technical documentation for Fern
 
 ### Highlights
@@ -24,6 +28,7 @@ A few pieces that show the range of what I do at Fern.
 
 The rest of the pages I've authored at Fern. 
 
+* [llms.txt](https://buildwithfern.com/learn/docs/seo/llms-txt) (Oct 2025)
 * [Publishing to Postman](https://buildwithfern.com/learn/sdks/generators/postman/publishing) (Sep 2025)
 * [Badges (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/badges) (Sept 2025)
 * [Ask Fern Slack app](https://buildwithfern.com/learn/ask-fern/features/slack-app) (Sep 2025)
