@@ -6,16 +6,15 @@ exclude_from_nav: true
 custom_css_class: portfolio-page
 ---
 
-## Technical blog posts for Fern
+## Fern
 
-* [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
-
-## Technical documentation for Fern
+Mostly developer documentation, some technical marketing content
 
 ### Highlights
 
 A few pieces that show the range of what I do at Fern. 
 
+* [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 * [Testing (SDKs)](https://buildwithfern.com/learn/sdks/deep-dives/testing) (Sep 2025)
 * [How it works (Ask Fern)](https://buildwithfern.com/learn/ask-fern/getting-started/how-it-works) (Sept 2025)
 * [Sticky tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/sticky-tables) (Aug 2025)
