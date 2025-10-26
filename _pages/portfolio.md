@@ -6,7 +6,7 @@ exclude_from_nav: true
 custom_css_class: portfolio-page
 ---
 
-### Technical blog posts for Fern
+## Technical blog posts for Fern
 
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 
