@@ -17,7 +17,7 @@ A few pieces that show the range of what I do at Fern.
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 * [Testing (SDKs)](https://buildwithfern.com/learn/sdks/deep-dives/testing) (Sep 2025)
 * [How it works (Ask Fern)](https://buildwithfern.com/learn/ask-fern/getting-started/how-it-works) (Sept 2025)
-* [Sticky tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/sticky-tables) (Aug 2025)
+* [Tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/tables) (Aug 2025, updated Nov 2025)
 * [Enabling the serde layer (TypeScript)](https://buildwithfern.com/learn/sdks/generators/typescript/serde-layer) (Aug 2025)
 * [Overrides (API Definitions)](https://buildwithfern.com/learn/api-definitions/overview/overrides) (Aug 2025)
 * [Overview of self-hosted SDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
@@ -27,7 +27,12 @@ A few pieces that show the range of what I do at Fern.
 
 The rest of the pages I've authored at Fern. 
 
-* [llms.txt](https://buildwithfern.com/learn/docs/seo/llms-txt) (Oct 2025)
+* [Additional content sources (Ask Fern)](https://buildwithfern.com/learn/ask-fern/configuration/content-sources) (Nov 2025)
+* [Using Vale](https://buildwithfern.com/learn/docs/developer-tools/vale) (Nov 2025)
+* [SDK variables](https://buildwithfern.com/learn/api-definitions/openapi/extensions/sdk-variables) (Nov 2025)
+* [Tabs and tab variants](https://buildwithfern.com/learn/docs/configuration/tabs) (Nov 2025)
+* [Accessibility overview](https://buildwithfern.com/learn/docs/accessibility/overview) (Oct 2025)
+* [llms.txt](https://buildwithfern.com/learn/docs/seo/llms-txt) (Oct 2025, update Nov 2025)
 * [Publishing to Postman](https://buildwithfern.com/learn/sdks/generators/postman/publishing) (Sep 2025)
 * [Badges (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/badges) (Sept 2025)
 * [Ask Fern Slack app](https://buildwithfern.com/learn/ask-fern/features/slack-app) (Sep 2025)
@@ -43,15 +48,6 @@ The rest of the pages I've authored at Fern.
 * [Publishing as a Go module](https://buildwithfern.com/learn/sdks/generators/go/publishing) (Jul 2025)
 * [Publishing to PyPi](https://buildwithfern.com/learn/sdks/generators/python/publishing) (Jul 2025)
 * Quickstarts for [TypeScript](https://buildwithfern.com/learn/sdks/generators/typescript/quickstart), [Python](https://buildwithfern.com/learn/sdks/generators/python/quickstart), [Go](https://buildwithfern.com/learn/sdks/generators/go/quickstart), [Java](https://buildwithfern.com/learn/sdks/generators/java/quickstart), [.NET](https://buildwithfern.com/learn/sdks/generators/csharp/quickstart), [PHP](https://buildwithfern.com/learn/sdks/generators/php/quickstart), [Ruby](https://buildwithfern.com/learn/sdks/generators/ruby/quickstart), [Swift](https://buildwithfern.com/learn/sdks/generators/swift/quickstart), and [Postman](https://buildwithfern.com/learn/sdks/generators/postman/quickstart) (Jul-Sep 2025)
-
-### Additional work (sections)
-
-Sections I've contributed to pages that I didn't originally author.
-
-* [Code Blocks – Start line](https://buildwithfern.com/learn/docs/writing-content/components/code-blocks#start-line) (Sep 2025)
-* [Code Blocks – Max height](https://buildwithfern.com/learn/docs/writing-content/components/code-blocks#max-height) (Sep 2025)
-* [Code Blocks – Language synchronization](https://buildwithfern.com/learn/docs/writing-content/components/code-blocks#language-synchronization) (Aug 2025)
-* [Auto-populate API Keys – How the OAuth flow works](https://buildwithfern.com/learn/docs/authentication/api-key-injection#how-the-oauth-flow-works) (Jul 2025)
 
 ## Technical articles on my personal blog
 
