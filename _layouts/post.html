@@ -13,7 +13,7 @@ layout: default
     {%- comment -%} Add tags {%- endcomment -%}
     {%- if page.tags -%}
     {% for tag in page.tags %}
-        <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+        <a href="{{site.baseurl}}/archive/#{{tag | slugize}}">
             #{{ tag }}
         </a>
     {% endfor %}
