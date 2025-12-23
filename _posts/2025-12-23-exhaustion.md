@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title: "You already have everything you need: modern romance in *The Materialists* and *Writers and Lovers*"
 date: 2025-12-23
 tags: recaps books
 ---
+
 I recently watched the movie *The Materialists* (2025) and read the book *Writers and Lovers* (2020). Both pieces have very similar, and very of-the-moment, takes on money, men, and exhaustion. 
 
 ## The setups
