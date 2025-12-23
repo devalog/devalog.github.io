@@ -36,3 +36,6 @@ Both of these conclusions seem very modern to me. At a time where dating apps (e
 Taken together, these conclusions seem like a very specific take on the current state of the world. When financial stability feels perpetually out of reach and dating apps have turned partnership into a cold optimization problem, there's something appealing about stories that tell you that the answer is not the rich guy or the endless possibility of dating apps. You have already have the right guy, and you already have what it takes to make money. You just need a new perspective. 
 
 This is, of course, very comforting. I liked the movie and I loved the book. I'd recommend both. These conclusions are very comforting. The more I think about it, though, the more it seems like these conclusions are just a convenient fantasy for exhausted women. 
+
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
