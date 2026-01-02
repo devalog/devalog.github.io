@@ -8,13 +8,16 @@ custom_css_class: portfolio-page
 
 ## Fern
 
-Mostly developer documentation, some technical marketing content
+I write developer documentation and technical marketing content for Fern. Here are a few of the pieces I'm most proud of authoring:
 
-### Highlights
-
-A few pieces that show the range of what I do at Fern. 
-
+* [Introducing Fern Autorelease: hands-off SDK releases](https://buildwithfern.com/post/fern-autorelease) (Dec 2025)
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
+
+Developer docs:
+* [AI features overview](https://buildwithfern.com/learn/docs/ai-features/overview) (Dec 2025)
+* [llms.txt and llms-full.txt](https://buildwithfern.com/learn/docs/ai-features/llms-txt) (Oct 2025, updated Nov and Dec 2025)
+* [Additional content sources (Ask Fern)](https://buildwithfern.com/learn/ask-fern/configuration/content-sources) (Nov 2025)
+* [Accessibility overview](https://buildwithfern.com/learn/docs/accessibility/overview) (Oct 2025)
 * [Testing (SDKs)](https://buildwithfern.com/learn/sdks/deep-dives/testing) (Sep 2025)
 * [How it works (Ask Fern)](https://buildwithfern.com/learn/ask-fern/getting-started/how-it-works) (Sept 2025)
 * [Tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/tables) (Aug 2025, updated Nov 2025)
@@ -22,36 +25,13 @@ A few pieces that show the range of what I do at Fern.
 * [Overrides (API Definitions)](https://buildwithfern.com/learn/api-definitions/overview/overrides) (Aug 2025)
 * [Overview of self-hosted SDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
 * [Publishing as a Swift package](https://buildwithfern.com/learn/sdks/generators/swift/publishing) (Aug 2025)
-
-### Additional work (full pages)
-
-The rest of the pages I've authored at Fern. 
-
-* [Additional content sources (Ask Fern)](https://buildwithfern.com/learn/ask-fern/configuration/content-sources) (Nov 2025)
-* [Using Vale](https://buildwithfern.com/learn/docs/developer-tools/vale) (Nov 2025)
-* [SDK variables](https://buildwithfern.com/learn/api-definitions/openapi/extensions/sdk-variables) (Nov 2025)
-* [Tabs and tab variants](https://buildwithfern.com/learn/docs/configuration/tabs) (Nov 2025)
-* [Accessibility overview](https://buildwithfern.com/learn/docs/accessibility/overview) (Oct 2025)
-* [llms.txt](https://buildwithfern.com/learn/docs/seo/llms-txt) (Oct 2025, update Nov 2025)
-* [Publishing to Postman](https://buildwithfern.com/learn/sdks/generators/postman/publishing) (Sep 2025)
-* [Badges (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/badges) (Sept 2025)
-* [Ask Fern Slack app](https://buildwithfern.com/learn/ask-fern/features/slack-app) (Sep 2025)
-* [Fern Scribe](https://buildwithfern.com/learn/docs/ai-features/fern-scribe-coming-soon) (Sep 2025)
-* [How it works (Docs)](https://buildwithfern.com/learn/docs/getting-started/how-it-works) (Sep 2025)
-* [What is Ask Fern?](https://buildwithfern.com/learn/ask-fern/getting-started/what-is-ask-fern) (Aug 2025)
-* [Tooltips (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/tooltips) (Aug 2025)
 * [Project structure (SDKs)](https://buildwithfern.com/learn/sdks/overview/project-structure) (Aug 2025)
 * [Project structure (API definitions)](https://buildwithfern.com/learn/api-definitions/overview/project-structure) (Aug 2025)
-* [Overview of self-hosted documentation](https://buildwithfern.com/learn/docs/self-hosted/overview) (Aug 2025)
-* [Single sign-on](https://buildwithfern.com/learn/docs/authentication/sso) (Jul 2025)
 * [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Jul 2025)
-* [Publishing as a Go module](https://buildwithfern.com/learn/sdks/generators/go/publishing) (Jul 2025)
-* [Publishing to PyPi](https://buildwithfern.com/learn/sdks/generators/python/publishing) (Jul 2025)
-* Quickstarts for [TypeScript](https://buildwithfern.com/learn/sdks/generators/typescript/quickstart), [Python](https://buildwithfern.com/learn/sdks/generators/python/quickstart), [Go](https://buildwithfern.com/learn/sdks/generators/go/quickstart), [Java](https://buildwithfern.com/learn/sdks/generators/java/quickstart), [.NET](https://buildwithfern.com/learn/sdks/generators/csharp/quickstart), [PHP](https://buildwithfern.com/learn/sdks/generators/php/quickstart), [Ruby](https://buildwithfern.com/learn/sdks/generators/ruby/quickstart), [Swift](https://buildwithfern.com/learn/sdks/generators/swift/quickstart), and [Postman](https://buildwithfern.com/learn/sdks/generators/postman/quickstart) (Jul-Sep 2025)
 
 ## Technical articles on my personal blog
 
-Writing about using tech in my actual life.
+I occasionally write about using tech in my actual life.
 
 * [Managing library books on the Kobo Libra H2O](https://devinlogan.org/2025/01/10/librarykobo.html) (Jan 2025)
 * [Using an LLM to revamp my site](https://devinlogan.org//2025/02/09/jekyll.html) (Feb 2025)
@@ -60,7 +40,7 @@ Writing about using tech in my actual life.
 
 ## Posts and articles about technical writing
 
-Writing about technical writing itself.
+Sometimes I write about technical writing itself.
 
 * [So...what does a technical writer actually do?](https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/) – for Google's blog, The Keyword (Apr 2021)
 * [Getting into technical writing: a primer](https://devinlogan.org/2025/05/23/primer.html) – for my personal blog (May 2025)
