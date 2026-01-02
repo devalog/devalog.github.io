@@ -8,8 +8,10 @@ custom_css_class: portfolio-page
 
 ## Fern
 
-I write developer documentation and technical marketing content for Fern. Here are a few of the pieces I'm most proud of authoring:
+I write developer documentation and technical marketing content for Fern. Here are a few of the pieces I'm most proud of authoring.
 
+
+Technical marketing content:
 * [Introducing Fern Autorelease: hands-off SDK releases](https://buildwithfern.com/post/fern-autorelease) (Dec 2025)
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 
