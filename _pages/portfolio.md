@@ -34,6 +34,10 @@ Developer docs:
 * [Project structure (API definitions)](https://buildwithfern.com/learn/api-definitions/overview/project-structure) (Aug 2025)
 * [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Jul 2025)
 
+## Google
+
+I was a technical writer at Google for 6.5 years, writing internal developer documentation for Google Search. Nothing I wrote is public... except for a blog post I wrote for Google's public-facing blog back in 2021: [So...what does a technical writer actually do?](https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/)
+
 ## Technical articles on my personal blog
 
 I occasionally write about using tech in my actual life.
@@ -49,4 +53,3 @@ I occasionally write about using tech in my actual life.
 Sometimes I write about technical writing itself.
 
 * [Getting into technical writing: a primer](https://devinlogan.org/2025/05/23/primer.html) – for my personal blog (May 2025)
-* [So...what does a technical writer actually do?](https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/) – for Google's blog, The Keyword (Apr 2021)
