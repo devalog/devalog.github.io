@@ -12,7 +12,7 @@ I write developer documentation and technical marketing content for Fern. (Fern 
 
 Technical marketing content:
 
-* [why I keep rebuilding the same docs pages](https://buildwithfern.com/post/rebuilding-docs-pages) (Mar 2026)
+* [Why I keep rebuilding the same docs pages](https://buildwithfern.com/post/rebuilding-docs-pages) (Mar 2026)
 * [The AI-assisted solo technical writer](https://buildwithfern.com/post/ai-assisted-technical-writer) (Mar 2026)
 * [Fern's Rust SDK generator](https://buildwithfern.com/post/rust-sdk-generator) (Feb 2026)
 * [Introducing Fern Autorelease: hands-off SDK releases](https://buildwithfern.com/post/fern-autorelease) (Dec 2025)
