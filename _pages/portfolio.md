@@ -12,17 +12,19 @@ I write developer documentation and technical marketing content for Fern. (Fern 
 
 Technical marketing content:
 
+* [why I keep rebuilding the same docs pages](https://buildwithfern.com/post/rebuilding-docs-pages) (Mar 2026)
 * [The AI-assisted solo technical writer](https://buildwithfern.com/post/ai-assisted-technical-writer) (Mar 2026)
 * [Fern's Rust SDK generator](https://buildwithfern.com/post/rust-sdk-generator) (Feb 2026)
 * [Introducing Fern Autorelease: hands-off SDK releases](https://buildwithfern.com/post/fern-autorelease) (Dec 2025)
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 
 Developer docs:
+* [Standalone search widget](https://buildwithfern.com/learn/docs/ai-features/ask-fern/search-widget) + [demo](https://github.com/fern-demo/fern-search-widget-demo) (April 2026) 
 * [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Feb 2026)
 * [Audiences (OpenAPI)](https://buildwithfern.com/learn/api-definitions/openapi/extensions/audiences) (Feb 2026)
 * [Overlays (OpenAPI)](https://buildwithfern.com/learn/api-definitions/openapi/overlays) (Jan 2026)
 * [AI features overview](https://buildwithfern.com/learn/docs/ai-features/overview) (Dec 2025)
-* [llms.txt and llms-full.txt](https://buildwithfern.com/learn/docs/ai-features/llms-txt) (Oct 2025, updated Nov and Dec 2025, Feb 2026)
+* [llms.txt and llms-full.txt](https://buildwithfern.com/learn/docs/ai-features/llms-txt) (Oct 2025, updated Nov and Dec 2025, Feb 2026, Apr 2026)
 * [Additional content sources (Ask Fern)](https://buildwithfern.com/learn/ask-fern/configuration/content-sources) (Nov 2025)
 * [Accessibility overview](https://buildwithfern.com/learn/docs/accessibility/overview) (Oct 2025)
 * [Testing (SDKs)](https://buildwithfern.com/learn/sdks/deep-dives/testing) (Sep 2025)
