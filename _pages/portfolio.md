@@ -8,7 +8,7 @@ custom_css_class: portfolio-page
 
 ## Fern
 
-I write developer documentation and technical marketing content for Fern. (Fern got acquired by Postman in January 2026, and I also write docs on the Fern/Postman integration flow.) Here are a few of the pieces I'm especially proud of authoring.
+I write developer documentation and technical marketing content for Fern. Here's a small selection of my work:
 
 Technical marketing content:
 
@@ -19,7 +19,8 @@ Technical marketing content:
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 
 Developer docs:
-* [Standalone search widget](https://buildwithfern.com/learn/docs/ai-features/ask-fern/search-widget) + [demo](https://github.com/fern-demo/fern-search-widget-demo) (April 2026) 
+* [Agent directives](https://buildwithfern.com/learn/docs/ai-features/agent-directives) (Apr 2026)
+* [Customize LLM output](https://buildwithfern.com/learn/docs/ai-features/customize-llm-output) (Apr 2026)
 * [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Feb 2026)
 * [Audiences (OpenAPI)](https://buildwithfern.com/learn/api-definitions/openapi/extensions/audiences) (Feb 2026)
 * [Overlays (OpenAPI)](https://buildwithfern.com/learn/api-definitions/openapi/overlays) (Jan 2026)
@@ -41,6 +42,11 @@ Developer docs for Postman/Fern integration:
 
 * [Document your APIs with Fern](https://learning.postman.com/docs/fern/overview) (Feb 2026)
 * [Document a collection with Fern](https://learning.postman.com/docs/fern/document-a-collection) (Feb 2026)
+
+Demos:
+
+* [Standalone search widget demo](https://github.com/fern-demo/fern-search-widget-demo), plus [documentation](https://buildwithfern.com/learn/docs/ai-features/ask-fern/search-widget)  (April 2026) 
+
 
 ## Google
 
