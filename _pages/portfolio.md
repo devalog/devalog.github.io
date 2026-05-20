@@ -10,15 +10,26 @@ custom_css_class: portfolio-page
 
 I write developer documentation and technical marketing content for Fern. Here's a small selection of my work:
 
-Technical marketing content:
+### Technical marketing content
 
+* [How I'm making our documentation agent-friendly (and how I'm not)](https://buildwithfern.com/post/agent-friendly-docs) (May 2026)
 * [Why I keep rebuilding the same docs pages](https://buildwithfern.com/post/rebuilding-docs-pages) (Mar 2026)
 * [The AI-assisted solo technical writer](https://buildwithfern.com/post/ai-assisted-technical-writer) (Mar 2026)
 * [Fern's Rust SDK generator](https://buildwithfern.com/post/rust-sdk-generator) (Feb 2026)
 * [Introducing Fern Autorelease: hands-off SDK releases](https://buildwithfern.com/post/fern-autorelease) (Dec 2025)
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 
-Developer docs:
+### Customer case studies
+
+* [Frame.io](https://buildwithfern.com/customers/frame) (May 2026)
+* [ElevenLabs](https://buildwithfern.com/customers/elevenlabs) (Apr 2026)
+* [OpenRouter](https://buildwithfern.com/customers/openrouter) (Apr 2026)
+* [Unleash](https://buildwithfern.com/customers/unleash) (Mar 2026)
+* [Deepgram](https://buildwithfern.com/customers/deepgram) (Feb 2026)
+
+### Developer documentation
+
+* [Localization overview and setup](https://buildwithfern.com/learn/docs/localization/overview) (May 2026)
 * [Agent directives](https://buildwithfern.com/learn/docs/ai-features/agent-directives) (Apr 2026)
 * [Customize LLM output](https://buildwithfern.com/learn/docs/ai-features/customize-llm-output) (Apr 2026)
 * [Overview of authentication options](https://buildwithfern.com/learn/docs/authentication/overview) (Feb 2026)
@@ -32,7 +43,6 @@ Developer docs:
 * [How it works (Ask Fern)](https://buildwithfern.com/learn/ask-fern/getting-started/how-it-works) (Sept 2025)
 * [Tables (Docs component)](https://buildwithfern.com/learn/docs/writing-content/components/tables) (Aug 2025, updated Nov 2025)
 * [Enabling the serde layer (TypeScript)](https://buildwithfern.com/learn/sdks/generators/typescript/serde-layer) (Aug 2025)
-* [Overrides (API Definitions)](https://buildwithfern.com/learn/api-definitions/overview/overrides) (Aug 2025)
 * [Overview of self-hosted SDKs](https://buildwithfern.com/learn/sdks/deep-dives/self-hosted) (Aug 2025)
 * [Publishing as a Swift package](https://buildwithfern.com/learn/sdks/generators/swift/publishing) (Aug 2025)
 * [Project structure (SDKs)](https://buildwithfern.com/learn/sdks/overview/project-structure) (Aug 2025)
@@ -43,7 +53,7 @@ Developer docs for Postman/Fern integration:
 * [Document your APIs with Fern](https://learning.postman.com/docs/fern/overview) (Feb 2026)
 * [Document a collection with Fern](https://learning.postman.com/docs/fern/document-a-collection) (Feb 2026)
 
-Demos:
+### Demos
 
 * [Standalone search widget demo](https://github.com/fern-demo/fern-search-widget-demo), plus [documentation](https://buildwithfern.com/learn/docs/ai-features/ask-fern/search-widget)  (April 2026) 
 
