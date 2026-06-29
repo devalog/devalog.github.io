@@ -21,9 +21,9 @@ I write developer documentation and technical marketing content for Fern. Here's
 
 ### Customer case studies
 
-* [Frame.io](https://buildwithfern.com/customers/frame) (May 2026)
+* [Auth0 (Okta)](https://buildwithfern.com/customers/auth0) (Jun 2026)
+* [Frame.io (Adobe)](https://buildwithfern.com/customers/frame) (May 2026)
 * [ElevenLabs](https://buildwithfern.com/customers/elevenlabs) (Apr 2026)
-* [OpenRouter](https://buildwithfern.com/customers/openrouter) (Apr 2026)
 * [Unleash](https://buildwithfern.com/customers/unleash) (Mar 2026)
 * [Deepgram](https://buildwithfern.com/customers/deepgram) (Feb 2026)
 
