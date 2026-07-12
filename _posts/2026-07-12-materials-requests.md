@@ -43,3 +43,6 @@ I also think it’s cool that the only reason they don’t purchase my recommend
 
 It’s so interesting to me that in this global world you still have to import a recently-published UK book to the US via Amazon; and that because of that my local library cannot buy it. 
 
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
