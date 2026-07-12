@@ -8,7 +8,9 @@ layout: home
 
 ## About me
 
-I'm currently a technical writer at [Fern](https://buildwithfern.com/). I write developer documentation and technical marketing content for all of Fern's products (Docs, SDKs, AI search). Previously, I was a technical writer at Google for 6.5 years. Before that, I was a technical writer intern at MapR Technologies (acquired by HP). I went to the College of William and Mary, where I double-majored in English and Accounting and minored in Computer Science. 
+I'm currently a writer-of-all-words at [Fern](https://buildwithfern.com/) (a [Postman](http://postman.com/) company). I write developer documentation and technical marketing content for Fern's Docs and SDKs. 
+
+Previously, I was a technical writer at Google for 6.5 years. Before that, I was a technical writer intern at [MapR Technologies](http://community.hpe.com/t5/ai-unlocked/where-is-mapr-today/ba-p/7091891) (acquired by HP). I graduated from the College of William and Mary with a double major in English and Accounting and a minor in Computer Science. 
 
 ### Portfolio and resume
 
