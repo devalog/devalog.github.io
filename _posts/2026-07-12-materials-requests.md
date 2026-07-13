@@ -12,20 +12,19 @@ In the past 1.5 years, I’ve requested 14 books. 9 were purchases; 5 were rejec
 
 | Book | Author | Decision | Date of Request |
 |------|--------|----------|-----------------|
-| A Room Above a Shop | Anthony Shapland | Not Available in Requested Format | Aug 5, 2025 |
-| A Room Above a Shop | Anthony Shapland | Not Available to Purchase | Aug 10, 2025 |
-| Births, Deaths and Marriages | Laura Barnett | Not Available to Purchase | Jan 16, 2026 |
-| Crisis | Karin Boye | Purchased | Aug 5, 2025 |
-| It Had To Be Him | Adib Khorram | Overdrive Purchase | Jan 18, 2026 |
+| Two Hours | Alba Arikha | Purchased | Dec 18, 2024 |
+| The Country Girls | Edna O'Brien | Purchased | Jan 2, 2025 |
 | Jill | Amy Dillwyn | Purchased | Jan 7, 2025 |
 | Riders | Jilly Cooper | Overdrive Purchase | May 27, 2025 |
-| The Best of Everything | Kit de Waal | Not Available to Purchase | Apr 20, 2026 |
-| The Country Girls | Edna O'Brien | Purchased | Jan 2, 2025 |
-| The Glass Lake | Maeve Binchy | Purchased | Feb 4, 2026 |
+| A Room Above a Shop | Anthony Shapland | Not Available in Requested Format | Aug 5, 2025 |
+| Crisis | Karin Boye | Purchased | Aug 5, 2025 |
 | The Jump-Off Creek | Molly Gloss | Purchased | Nov 17, 2025 |
-| The Mercy Step | Marcia Hutchinson | Not Available to Purchase | Apr 20, 2026 |
 | The Quarry Wood | Nan Shepherd | Not Available to Purchase | Dec 26, 2025 |
-| Two Hours | Alba Arikha | Purchased | Dec 18, 2024 |
+| Births, Deaths and Marriages | Laura Barnett | Not Available to Purchase | Jan 16, 2026 |
+| It Had To Be Him | Adib Khorram | Overdrive Purchase | Jan 18, 2026 |
+| The Glass Lake | Maeve Binchy | Purchased | Feb 4, 2026 |
+| The Best of Everything | Kit de Waal | Not Available to Purchase | Apr 20, 2026 |
+| The Mercy Step | Marcia Hutchinson | Not Available to Purchase | Apr 20, 2026 |
 | Waist Deep | Linea Maja Ernst | Purchased | Jun 4, 2026 |
 
 In the past years I’ve taken pains to generally restrict my book buying habit to books I’ve already read and liked, and use my library to read books (especially new releases) and vet them before I buy. I mostly adhere to this rule unless I really want to read something and it’s either 1. Not available at the library, or 2. There’s a really long waitlist at the library (see: Whistler by Ann Patchett). It’s very gratifying to check out a book that wouldn’t b able to be checked out except for me. 
