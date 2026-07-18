@@ -5,9 +5,9 @@ date: 2026-07-12
 tags: books
 ---
 
-I started submitting material requests to my local public library in late 2024 after hearing about it on a [podcast episode about queer romance books](https://culturestudypod.substack.com/p/the-expansive-world-of-queer-romance); the podcast guest Adib Khorram mentioned it offhand. I’d never even known this was a possibility, and I immediately started requesting books. 
+I started submitting materials requests to my local public library in late 2024 after hearing about it on a [podcast episode about queer romance books](https://culturestudypod.substack.com/p/the-expansive-world-of-queer-romance); the podcast guest Adib Khorram mentioned it offhand. I’d never even known this was a possibility, and I immediately started requesting books. 
 
-In the past 1.5 years, I’ve requested 14 books. 9 were purchases; 5 were rejected because they were unable to purchase them. I submit a material request online, and I always get a response within a few days. To me this feels super quick for such a large system! (I live in a dense, highly educated metropolitan area. My local library system is composed of 9 libraries and serves 200,000+ residents.) 
+In the past 1.5 years, I’ve requested 14 books. 9 were purchases; 5 were rejected because they were unable to purchase them. I submit a materials request online, and I always get a response within a few days. To me this feels super quick for such a large system! (I live in a dense, highly educated metropolitan area. My local library system is composed of 9 libraries and serves 200,000+ residents.) 
 
 
 | Book | Author | Decision | Date of Request |
@@ -38,7 +38,7 @@ I also think it’s cool that the only reason they don’t purchase my recommend
 * *Births, Deaths and Marriages* (2025, UK). No US release. 
 * *The Room Above the Shop* (2025, UK). Same as above, no US release.
 
-![Screenshot of a library material request](/assets/materials-request.png)
+![Screenshot of a library materials request](/assets/materials-request.png)
 
 It’s so interesting to me that in this global world you still have to import a recently-published UK book to the US via Amazon; and that because of that my local library cannot buy it. 
 
