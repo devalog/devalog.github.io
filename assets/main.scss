@@ -26,6 +26,17 @@ img {
     height: auto;
 }
 
+.post-video {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin: 20px auto;
+}
+
 
 /* New styles for side-by-side images */
 .image-container {
