@@ -32,3 +32,5 @@ When you let your books pile up like I did.... this is a very long and frustrati
 
 Feels ironic how much I have to fight with tech to just… read a book. 
 
+<script data-goatcounter="https://dlog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
