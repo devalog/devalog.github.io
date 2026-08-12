@@ -2,7 +2,7 @@
 layout: post
 title: "Organizing books on my Kobo e-reader"
 date: 2026-08-12
-tags: books, tech
+tags: books tech
 ---
 
 I used my Kobo e-reader for two things: reading library books (synced from OverDrive); and downloading free public domain classics from [Standard Ebooks](https://standardebooks.org/ebooks). 
@@ -25,7 +25,7 @@ While I was doing this annoying task, I figured I should clean out my books arch
 
 When you let your books pile up like I did.... this is a very long and frustrating process. Even after you’ve executed the three clicks necessary to relegate a book to the annals of the archive, page snaps back to the top so you always have to scroll. 
 
-<video class="post-video" controls preload="metadata" playsinline>
+<video class="post-video" autoplay loop muted preload="auto" playsinline>
   <source src="/assets/kobo-library.mp4" type="video/mp4">
   Your browser doesn’t support embedded video. <a href="/assets/kobo-library.mp4">Download the video</a> instead.
 </video>
