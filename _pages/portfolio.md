@@ -10,8 +10,9 @@ custom_css_class: portfolio-page
 
 I write developer documentation and technical marketing content for Fern. Here's a small selection of my work:
 
-### Technical marketing content
+### Technical marketing content (bylined)
 
+* [How I ship Fern's marketing content using skills](https://buildwithfern.com/post/content-marketing-agents) (Aug 2026)
 * [How I'm making our documentation agent-friendly (and how I'm not)](https://buildwithfern.com/post/agent-friendly-docs) (May 2026)
 * [Why I keep rebuilding the same docs pages](https://buildwithfern.com/post/rebuilding-docs-pages) (Mar 2026)
 * [The AI-assisted solo technical writer](https://buildwithfern.com/post/ai-assisted-technical-writer) (Mar 2026)
@@ -19,16 +20,36 @@ I write developer documentation and technical marketing content for Fern. Here's
 * [Introducing Fern Autorelease: hands-off SDK releases](https://buildwithfern.com/post/fern-autorelease) (Dec 2025)
 * [Improving developer docs for agents](https://buildwithfern.com/post/llms-txt-improvements) (Oct 2025)
 
+### Technical marketing content (ghostwritten or extensively edited by me)
+
+* [One agent for your documentation](https://buildwithfern.com/post/fern-agent) (Aug 2026)
+* [Our largest docs sites now render ~6.4x faster](https://buildwithfern.com/post/faster-docs) (Jul 2026)
+* [From Fern customer to Fern engineer](https://buildwithfern.com/post/fernie-adi) (Jul 2026)
+* [Introducing Fern Replay](https://buildwithfern.com/post/fern-replay) (May 2026)
+
 ### Customer case studies
 
+* [Solvimon](https://buildwithfern.com/customers/solvimon) (Jul 2026)
 * [Auth0 (Okta)](https://buildwithfern.com/customers/auth0) (Jun 2026)
 * [Frame.io (Adobe)](https://buildwithfern.com/customers/frame) (May 2026)
 * [ElevenLabs](https://buildwithfern.com/customers/elevenlabs) (Apr 2026)
 * [Unleash](https://buildwithfern.com/customers/unleash) (Mar 2026)
 * [Deepgram](https://buildwithfern.com/customers/deepgram) (Feb 2026)
 
+### Technical social media content
+
+* [Fern Agent launch](https://www.linkedin.com/posts/buildwithfern_introducing-fern-agent-use-it-to-complete-activity-7498086597192581120-KUMp?utm_source=share&utm_medium=member_desktop&rcm=ACoAABnr_fABLai5qdGTkeX4vkUQ8vK0IudMsCw) (Aug 2026)
+* [Payabli case study](https://www.linkedin.com/posts/buildwithfern_great-docs-faster-integrations-activity-7490468485773373440-RZ50?utm_source=share&utm_medium=member_desktop&rcm=ACoAABnr_fABLai5qdGTkeX4vkUQ8vK0IudMsCw) (Aug 2026)
+* [How I write Fern's marketing content](https://lnkd.in/p/ezW57Kdb) (Aug 2026)
+* [Unleash case study](https://www.linkedin.com/feed/update/urn:li:activity:7475931776423636993) (Jun 2026)
+* [CLI generator launch](https://www.linkedin.com/feed/update/urn:li:activity:7458236422798454786) (May 2026)
+* [How I write Fern's developer documentation](https://lnkd.in/p/er9BRQNU) (Mar 2026)
+
 ### Developer documentation
 
+* [Fern Agent](https://buildwithfern.com/learn/docs/ai-features/fern-agent) (Aug 2026)
+* [Fern's MCP servers](https://buildwithfern.com/learn/docs/ai-features/fern-mcp-servers) (Aug 2026)
+* [Navigation overview](https://buildwithfern.com/learn/docs/configuration/navigation-overview) (Jul 2026)
 * [Localization overview and setup](https://buildwithfern.com/learn/docs/localization/overview) (May 2026)
 * [Agent directives](https://buildwithfern.com/learn/docs/ai-features/agent-directives) (Apr 2026)
 * [Customize LLM output](https://buildwithfern.com/learn/docs/ai-features/customize-llm-output) (Apr 2026)
