@@ -48,7 +48,7 @@ I write developer documentation and technical marketing content for Fern. Here's
 ### Developer documentation
 
 * [Fern Agent](https://buildwithfern.com/learn/docs/ai-features/fern-agent) (Aug 2026)
-* [Fern's MCP servers](https://buildwithfern.com/learn/docs/ai-features/fern-mcp-servers) (Aug 2026)
+* [Fern's MCP server](https://buildwithfern.com/learn/docs/ai-features/fern-mcp-servers) (Aug 2026)
 * [Navigation overview](https://buildwithfern.com/learn/docs/configuration/navigation-overview) (Jul 2026)
 * [Localization overview and setup](https://buildwithfern.com/learn/docs/localization/overview) (May 2026)
 * [Agent directives](https://buildwithfern.com/learn/docs/ai-features/agent-directives) (Apr 2026)
