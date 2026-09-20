@@ -9,7 +9,7 @@ permalink: /books/
   {% assign pinned_book_posts = site.posts | where: "pinned", true | where_exp: "post", "post.tags contains 'books'" %}
   {% for post in pinned_book_posts %}
     <article class="pinned-post">
-      <span class="pinned-label">📌</span>
+      <span class="pinned-label">📖</span>
       <h2><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></h2>
       <p>{{ post.excerpt }}</p>
     </article>
