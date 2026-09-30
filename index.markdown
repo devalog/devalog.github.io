@@ -8,7 +8,9 @@ layout: home
 
 ## About me
 
-I currently write technical marketing content (case studies, blog posts, etc) at [Extend](https://www.extend.ai/) (YC W23). Previously, I wrote developer documentation and technical marketing content for [Fern](https://buildwithfern.com/) (W23, acquired by Postman); before that, I wrote internal developer documentation for Google. 
+I write high quality technical content, including documentation, longform blog posts, and case studies, for early-stage B2B devtool startups. Good content helps companies win developers' trust and retain customers.
+
+I currently write technical marketing content (case studies and blog posts) at [Extend](https://www.extend.ai/) (YC W23). Previously, I wrote developer documentation and technical marketing content for [Fern](https://buildwithfern.com/) (W23). Before that, I wrote internal developer documentation for Google. 
 
 I graduated from the College of William and Mary with a double major in English and Accounting and a minor in Computer Science (yep I was indecisive). Here's my [resume](https://github.com/devalog/resume/blob/main/resume.pdf).
 
