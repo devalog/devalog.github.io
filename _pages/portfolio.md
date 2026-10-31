@@ -6,6 +6,9 @@ exclude_from_nav: true
 custom_css_class: portfolio-page
 ---
 
+## Extend
+I write technical marketing content, including architectural deep dives and case studies, for Extend. Bylines coming soon:)
+
 ## Fern
 
 I wrote developer documentation and technical marketing content for Fern. Here's a small selection of my work:
