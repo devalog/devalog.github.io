@@ -8,9 +8,11 @@ custom_css_class: portfolio-page
 
 ## Fern
 
-I write developer documentation and technical marketing content for Fern. Here's a small selection of my work:
+I wrote developer documentation and technical marketing content for Fern. Here's a small selection of my work:
 
 ### Technical marketing content (bylined)
+
+I wrote thought leadership-esque posts on being a technical writer (a core part of Fern's customer base) and collaborated with engineers to write blogs on new features. 
 
 * [How I ship Fern's marketing content using skills](https://buildwithfern.com/post/content-marketing-agents) (Aug 2026)
 * [How I'm making our documentation agent-friendly (and how I'm not)](https://buildwithfern.com/post/agent-friendly-docs) (May 2026)
@@ -22,12 +24,16 @@ I write developer documentation and technical marketing content for Fern. Here's
 
 ### Technical marketing content (ghostwritten or extensively edited by me)
 
+I collaborated with engineers and designers to write and/or extensively edit new feature posts and employee highlights. 
+
 * [One agent for your documentation](https://buildwithfern.com/post/fern-agent) (Aug 2026)
 * [Our largest docs sites now render ~6.4x faster](https://buildwithfern.com/post/faster-docs) (Jul 2026)
 * [From Fern customer to Fern engineer](https://buildwithfern.com/post/fernie-adi) (Jul 2026)
 * [Introducing Fern Replay](https://buildwithfern.com/post/fern-replay) (May 2026)
 
 ### Customer case studies
+
+I talked to AEs about the customer relationship and use case, interviewed the customer about how they use Fern,  used PostHog/DevinAI/Fern dashboard to gather appropriate metrics, wrote the case study, and got everything approved and published.
 
 * [Solvimon](https://buildwithfern.com/customers/solvimon) (Jul 2026)
 * [Auth0 (Okta)](https://buildwithfern.com/customers/auth0) (Jun 2026)
@@ -38,6 +44,8 @@ I write developer documentation and technical marketing content for Fern. Here's
 
 ### Technical social media content
 
+I collaborated with designers, SMEs, and execs to write concise, punchy copy to launch new features.
+
 * [Fern Agent launch](https://www.linkedin.com/posts/buildwithfern_introducing-fern-agent-use-it-to-complete-activity-7498086597192581120-KUMp?utm_source=share&utm_medium=member_desktop&rcm=ACoAABnr_fABLai5qdGTkeX4vkUQ8vK0IudMsCw) (Aug 2026)
 * [Payabli case study](https://www.linkedin.com/posts/buildwithfern_great-docs-faster-integrations-activity-7490468485773373440-RZ50?utm_source=share&utm_medium=member_desktop&rcm=ACoAABnr_fABLai5qdGTkeX4vkUQ8vK0IudMsCw) (Aug 2026)
 * [How I write Fern's marketing content](https://lnkd.in/p/ezW57Kdb) (Aug 2026)
@@ -46,6 +54,8 @@ I write developer documentation and technical marketing content for Fern. Here's
 * [How I write Fern's developer documentation](https://lnkd.in/p/er9BRQNU) (Mar 2026)
 
 ### Developer documentation
+
+Around 75% of these documentation updates originated from an AI automation that I built myself. They came through as PRs, and I edited for verbosity and structure, and made sure they're properly integrated with the existing information architecture. The rest of the documentation came from me talking to engineers and prompting DevinAI (often at the same time!) for info about a new feature. 
 
 * [Fern Agent](https://buildwithfern.com/learn/docs/ai-features/fern-agent) (Aug 2026)
 * [Fern's MCP server](https://buildwithfern.com/learn/docs/ai-features/fern-mcp-servers) (Aug 2026)
