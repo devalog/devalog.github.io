@@ -7,11 +7,11 @@ custom_css_class: portfolio-page
 ---
 
 ## Extend
-I write technical marketing content, including architectural deep dives and case studies, for Extend. Bylines coming soon:)
+I currently write technical marketing content, including architectural deep dives and case studies, for Extend. Bylines coming soon:)
 
 ## Fern
 
-I wrote developer documentation and technical marketing content for Fern. Here's a small selection of my work:
+I wrote developer documentation and technical marketing content for Fern from June 2025 through September 2026. Here's a small selection of my work:
 
 ### Technical marketing content (bylined)
 
@@ -94,7 +94,7 @@ Developer docs for Postman/Fern integration:
 
 ## Google
 
-I was a technical writer at Google for 6.5 years, writing internal developer documentation for Google Search. Nothing I wrote is public... except for a blog post I wrote for Google's public-facing blog back in 2021: [So...what does a technical writer actually do?](https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/)
+I wrote internal developer documentation for Google Search from July 2018 to January 2025. Nothing I wrote is public... except for a blog post I wrote back in 2021: [So...what does a technical writer actually do?](https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/)
 
 ## Technical articles on my personal blog
 
