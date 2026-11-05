@@ -7,7 +7,10 @@ custom_css_class: portfolio-page
 ---
 
 ## Extend
-I currently write technical marketing content, including architectural deep dives and case studies, for Extend. Bylines coming soon:)
+
+I currently write technical marketing content for Extend.
+
+* [The history of OCR](https://www.extend.ai/resources/history-of-ocr) (Nov 2026)
 
 ## Fern
 
