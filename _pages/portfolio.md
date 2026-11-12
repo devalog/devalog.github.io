@@ -8,9 +8,11 @@ custom_css_class: portfolio-page
 
 ## Extend
 
-I currently write technical marketing content for Extend.
+I currently write technical marketing content for Extend. This is a mix of sole authorship and collaborative writing. I make all of my own graphics (animations + still images). 
 
-* [The history of OCR](https://www.extend.ai/resources/history-of-ocr) (Nov 2026)
+* [How we built Extend's internal GTM system](https://www.extend.ai/resources/how-we-built-extends-gtm-system) (Nov 2026)
+* [How we made table parsing 4x faster with DFlash](https://www.extend.ai/resources/table-parsing-with-dflash) (Nov 2026)
+* [The history of OCR: from reading characters to understanding documents](https://www.extend.ai/resources/history-of-ocr) (Oct 2026)
 
 ## Fern
 
