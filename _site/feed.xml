@@ -1,6 +1,344 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-08-24T20:56:45-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan, Technical Writer and Editor</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Books I’ve read</title><link href="http://localhost:4000/2025/08/19/booklist.html" rel="alternate" type="text/html" title="Books I’ve read" /><published>2025-08-19T00:00:00-04:00</published><updated>2025-08-19T00:00:00-04:00</updated><id>http://localhost:4000/2025/08/19/booklist</id><content type="html" xml:base="http://localhost:4000/2025/08/19/booklist.html"><![CDATA[<p>All the books I’ve read since January 2020.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-11-14T15:16:45-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Devin Logan</title><subtitle></subtitle><author><name> </name></author><entry><title type="html">Networking my way into a new job</title><link href="http://localhost:4000/2026/09/30/new-job.html" rel="alternate" type="text/html" title="Networking my way into a new job" /><published>2026-09-30T00:00:00-04:00</published><updated>2026-09-30T00:00:00-04:00</updated><id>http://localhost:4000/2026/09/30/new-job</id><content type="html" xml:base="http://localhost:4000/2026/09/30/new-job.html"><![CDATA[<p>I left Fern and started a new job a few days ago, a job I got solely from networking.</p>
+
+<h2 id="my-first-experience-with-finding-a-new-job">My first experience with finding a new job</h2>
+
+<p>Back in 2018, I got a job with Google right out of college and stayed there (same team, even) for 6.5 years. I thought I’d “made it” and would be set for life in terms of my network. When I left Google in January 2025, I realized that although I’d met a lot of people there, the vast majority of them were still at Google with no plans to leave. (That’s still true today!) Having Google on my resume is still a huge help in terms of credibility, but the network stuff just didn’t pan out the way I assumed it would.</p>
+
+<p>When I left Google in January 2025, it took me 6 months to find something suitable. I’ll admit, I was in a position to be picky; but also I had to be picky because I didn’t have a backup option in terms of full-time childcare. It was part time or bust! I eventually got a good gig that disintegrated (political reasons, apparently) a few weeks in; and then I got a cold DM from someone at Fern. <a href="/2026/07/08/one-year.html">The rest is history</a>!</p>
+
+<h2 id="looking-to-leave">Looking to leave</h2>
+
+<p>I started casually looking to leave Fern in June 2026. Even though Fern was acquired in January, the actual integration didn’t start happening until June; that’s when a lot of people started leaving. I realized that I really wanted to keep working with a small startup, not a bigger, more process-driven company. I started to mention to a few people in my (existent!) network that I was looking. This network was almost all people I’d met while working at Fern (former and current employees, vendors, etc).</p>
+
+<p>Within a few weeks I got three warm intros to interesting startups (plus 2 reach-outs on my behalf that didn’t go anywhere because the companies weren’t interested). Again, I was specifically looking for a part-time contract role.</p>
+
+<ul>
+  <li><strong>Company 1</strong> is a YC-backed Series B startup based in SF, five days a week in person for FTEs. A friend of mine (okay ironically I met this friend through another friend while we were all working at Google, but I hesitate to count this as part of a “Google network” because we never worked together. A gray area, perhaps!) connected me to someone in marketing that she’d gone to college with. We had a casual video chat, then I did a take-home writing assignment; I got an offer that I declined because I’d already decided to accept the offer with <strong>Company 3</strong>.</li>
+  <li><strong>Company 2</strong> is a YC-backed Series A startup based in SF, five days a week in person for FTEs. Someone I worked with at Fern connected me to the CEO, who connected me to the head of growth. We had one casual chat, then I completed a take-home casual writing assignment; I dropped out of the process before hearing back because I’d already decided to accept the offer with <strong>Company 3</strong>.</li>
+  <li><strong>Company 3</strong> is a YC-backed Series A startup based in NYC, five days a week in person for FTEs. Two different people connected me to this company, actually; both were people I’d crossed paths with while working at Fern. This company is also a Fern customer so were pretty familiar with my work already. I had two casual chats with someone in marketing, then got an offer that I accepted.</li>
+</ul>
+
+<p>I started my new role at <a href="https://www.extend.ai/">Extend</a> a few days. My last job search took 6 months: many interviews, a lot of no-replies, and it was very difficult finding anyone willing to consider part-time at a decent rate (imo, &gt;$60/hour). This one took 6 weeks, with zero applications and three intros that all actually went somewhere — two good offers, and nobody batted an eye at me wanting part-time.</p>
+
+<h2 id="part-time-no-problem">Part time, no problem!</h2>
+
+<p>A lot of the ease with this job hunt came down to my experience with Fern (vs. Google). I already had a job, so I wasn’t searching from a position of pressure. I had a full public portfolio to point to (had nothing public post-Google!). One of the intros was a Fern customer, already familiar with my work. And having someone vouch for me made the whole interview process casual and friendly — none of these companies even had a posting for what I was looking for, so it was easy to just dictate my own terms.</p>
+
+<p>But it also worked because I knew exactly what I wanted this time, instead of considering jobs that, realistically, weren’t a good fit. I want part-time. I want a specific (high) hourly rate. I don’t want to be an employee, though I want to move fast. And I want an easy out if it’s not a fit. That ask turned out to be smaller than I expected, especially with startups that are post-Series A, have money and visibility, and are flexible enough to bring someone on without a formal recruiting process (Fern was in that exact spot when I joined). Someone vouching for me meant they could skip that process; going in as a contractor meant it’d be easy to undo if it didn’t work out. Low-risk for them, exactly what I wanted for me. Win-win.</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[I left Fern and started a new job a few days ago, a job I got solely from networking.]]></summary></entry><entry><title type="html">A pretty good summer of reading</title><link href="http://localhost:4000/2026/09/16/summer-reading.html" rel="alternate" type="text/html" title="A pretty good summer of reading" /><published>2026-09-16T00:00:00-04:00</published><updated>2026-09-16T00:00:00-04:00</updated><id>http://localhost:4000/2026/09/16/summer-reading</id><content type="html" xml:base="http://localhost:4000/2026/09/16/summer-reading.html"><![CDATA[<p>I read <a href="/2025/08/19/booklist.html">19 books</a> this summer (which I’m defining as June through August), and the publication dates ranged from 1858 to 2026. Five of the 19 were nonfiction (more than my typical annual total of nonfiction books); two were translated. Summer is usually my biggest reading time, but I’m not exactly sure why? Maybe it’s a mindset, leftover from my school days when I actually did have more time and freedom in the summer. Now my summers are indistinguishable from the rest of the year, except for the heat and mosquitos of Northern Virginia and, of course, the increased reading.</p>
+
+<h2 id="more-nonfiction-than-usual">More nonfiction than usual</h2>
+
+<p>Of the five nonfiction books I read, four were parenting-related books that I read in an attempt to cope with my anxiety over <a href="/2024/06/17/newparent.html">my toddler</a> starting preschool (part-time, his first exposure to non-family care) in the fall (three weeks in, it’s going great!). One was a reread of <em>Hunt, Gather, Parent</em> (5/5), another was the same author’s new book, <em>Dopamine Kids</em> (3/5, disappointing). Another was a very lackluster book called <em>Montessori for Every Family</em>. I’ve read much better books on the same topic.</p>
+
+<h2 id="a-summer-of-series">A summer of series</h2>
+
+<p>I’m continuing to gut my way through <a href="/2025/01/27/trollope.html">Trollope’s</a> <em>The Chronicles of Barsetshire</em> series, a whopping 6-book series published between 1855 and 1867. All of the books originally serialized, so you know they’re all overlong! I read <em>The Warden</em> last summer, considered it a huge achievement to have finished it, and figured I wouldn’t continue with the rest of the series. But I actually read the following four this summer, almost one after another. I’m currently (September, so not counting this one toward my summer total) about a third of the way through the final book of the series, <em>The Last Chronicle of Barset</em>. (And I still only have a hazy idea of the difference between Barset, Barsetshire, and Barchester!) I’m normally pretty anti-series, as I find it hard to stay interested with the same characters over the course of many (even two) books. Of course, there have been some notable exceptions, and I’m liking <em>The Chronicles of Barsetshire</em> because each book has a different protagonist, but the protagonist of one book will be a minor character in the subsequent book; you get little updates on their lives. It’s fun! Trollope’s narrators (or is it just him?) are rather opinionated, which is mostly fun and sometimes tiresome. I do tend to skim over the country politics sections because I just find it so mind-numbing, and of course the plots really do drag on because of all that serialization, but overall they are engaging reads.  I’ve found I like reading these as secondary books that I almost exclusively read in the middle of the night when I can’t sleep, or the early morning when I’m up before my toddler but don’t want to make any noise. They’re perfect for that: just dense enough to eventually make me sleepy, but engaging enough that I’ll actually read more than a page before going back to sleep. Usually when I get to the last 25% of the book I upgrade it to my primary book and finish it quickly.</p>
+
+<p>Summer must be for series, because I also read all three books of Kent Haruf’s <em>Plainsong</em> trilogy. Loved the first two, found the third unbearably tiresome. You win some, you lose some, I guess.</p>
+
+<h2 id="other-books-of-note">Other books of note</h2>
+
+<p>Some other notable books of the summer: I finally, after multiple false starts over the years, finished García Márquez’s <em>One Hundred Years of Solitude</em> (July). I probably wouldn’t have finished it again, but this time I was reading it with a friend (I almost never do this) and that was motivating. Still, I found the book almost unreadable. I know García Márquez is a giant of Latin American lit and magical realism and all that. I enjoyed parts of the book, but overall, I could not keep the characters straight (surely this is part of the point but I found it unendingly frustrating) and everything was just violent and pointless and I’m writing it off as a “man’s book” (derogatory). Right before I’d read Allende’s <em>House of the Spirits</em> (June), which I loved. I can totally see García Márquez’s influence, and <em>House of the Spirits</em> was violent and the characters odd and unlikeable too, but just so much better and easier to read, I thought. The miniseries, which I watched immediately after, was pretty good too.</p>
+
+<p>What else? <em>Main Characters</em> by Bobby Palmer was structurally fun (rom-com through the perspectives of different people in their lives; one chapter is from the POV of a bus driver, another from the best friend of the guy, another from the woman’s roommate, etc). And I just love a British rom-com. <em><a href="/2025/06/08/patchett.html">Whistler</a></em> by Ann Patchett was predictably great. I bought this new because I forgot to get on <a href="/2026/07/12/materials-requests.html">the library waitlist</a> until it was hundreds of people long. <em>Country People</em> by Daniel Mason was excellent too, got it from the library after being on the waitlist for months, and read it in just a few days. (I raved about it so much that my neighbor is now reading it before it’s due back at the library.)</p>
+
+<h2 id="books-on-deck">Books on deck</h2>
+
+<p>This fall, I’m looking forward to Min Jin Lee’s <em>American Hagwon</em>, coming out in a couple of weeks. I preordered this. (The only time I’ve preordered a book was for Sally Rooney’s <em><a href="/2022/09/21/beautifulworld.html">Beautiful World, Where Are You?</a></em> which was a total flop, and I donated it after reading. Hoping for better luck this time around!) I’m reading <em>Possession</em> by Byatt right now as my primary book (secondary is <em>The Last Chronicle of Barset</em>, of course) and it’s overall good but the amount of multi-page poems is a bit of a slog. After that, want to read <em>Parallel Lives: Five Victorian Marriages</em>, another nonfiction book that I’ve been meaning to read for years. Feels like right after <em>Possession</em> (about Victorian authors) and <em>Chronicles of Barchester</em> would be a good time to read this!</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[I read 19 books this summer (which I’m defining as June through August), and the publication dates ranged from 1858 to 2026. Five of the 19 were nonfiction (more than my typical annual total of nonfiction books); two were translated. Summer is usually my biggest reading time, but I’m not exactly sure why? Maybe it’s a mindset, leftover from my school days when I actually did have more time and freedom in the summer. Now my summers are indistinguishable from the rest of the year, except for the heat and mosquitos of Northern Virginia and, of course, the increased reading.]]></summary></entry><entry><title type="html">Organizing books on my Kobo e-reader</title><link href="http://localhost:4000/2026/08/12/ereader-battles.html" rel="alternate" type="text/html" title="Organizing books on my Kobo e-reader" /><published>2026-08-12T00:00:00-04:00</published><updated>2026-08-12T00:00:00-04:00</updated><id>http://localhost:4000/2026/08/12/ereader-battles</id><content type="html" xml:base="http://localhost:4000/2026/08/12/ereader-battles.html"><![CDATA[<p>I used my Kobo e-reader for two things: reading library books (synced from OverDrive); and downloading free public domain classics from <a href="https://standardebooks.org/ebooks">Standard Ebooks</a>.</p>
+
+<p>The library sync feature works fine. I actually bought the Kobo vs. other e-readers because of its supposedly superior library sync functionality. (It’s hard for me to comprehend that I’m currently experiencing the best of the best, but perhaps that’s beside the point.)</p>
+
+<h2 id="downloading-new-ebooks">Downloading new ebooks</h2>
+
+<p>I used to download Standard Ebooks via an annoying but predictable hack. Kobo has a beta feature that allows you to search the web. I’d literally search for “standard ebooks tess of the d’ubervilles” or whatever book I wanted to download; click the search result page, and download the book directly to the device. Yes, the search was painfully slow to both type in the text and load, but whatever. Predictable. Sometime in the last year this just stopped working. I could still type in a query but the search just hung and never loaded the search results page. Is my device too old? Did the feature just stop being supported? Unclear from my non-extensive sleuthing.</p>
+
+<p>After procrastinating on this issue for months, unable to download any new ebooks via my old method, I finally went for the nuclear option: plugging my e-reader into my computer.</p>
+
+<p>This preliminary step itself was an ordeal. I had to plug-and-unplug a few times for my laptop to even pick up the Kobo connection. I went to the Standard Ebooks site, downloaded my desired books (<em><a href="https://standardebooks.org/ebooks/elizabeth-von-arnim/the-enchanted-april">The Enchanted April</a></em> and <em><a href="https://standardebooks.org/ebooks/charlotte-m-yonge/the-clever-woman-of-the-family">The Clever Woman of the Family</a></em>) to my computer, then dragged and dropped them to Kobo Drive.</p>
+
+<p>Initially I turned off the Kobo completely and then unplugged, as instructed to do by the initial popup. I turned it back on, no books. Synced, no books. I plugged it into my computer again. Plugged in again; the two books were still there sitting in the kobo reader drive, but somehow could not make it onto my actual device. I did plug-and-unplug dance again and literally just let it stay connected for a bit, then right-clicked to eject .(The initial “you’re connected” popup gave turning out and formally ejecting as equivalent options, when in practice they do not seem like equivalent options at all.)</p>
+
+<h2 id="cleaning-up-my-books-archive">Cleaning up my books archive</h2>
+
+<p>While I was doing this annoying task, I figured I should clean out my books archive. Re: my two uses cases, I download a lot of library books on my device. When I return the book, the entire book is now longer accessible, but a preview of the book (useless, I’m never going to read a preview of a book I already read in its entirety) remains on my device. I can remove the preview from My Books, but it inevitably comes back every time I sync the device.  The only way to actually archive the expired library books in such a way so that they wouldn’t come back and pollute my finely-curated library is to log into my Kobo account in my browser (actually and perhaps surprisingly it doesn’t even matter if the device is plugged in; sync handles it) and manually, one by one (three clicks per book, in fact) archive them.</p>
+
+<p>When you let your books pile up like I did…. this is a very long and frustrating process. Even after you’ve executed the three clicks necessary to relegate a book to the annals of the archive, page snaps back to the top so you always have to scroll.</p>
+
+<video class="post-video" autoplay="" loop="" muted="" preload="auto" playsinline="">
+  <source src="/assets/kobo-library.mp4" type="video/mp4" />
+  Your browser doesn’t support embedded video. <a href="/assets/kobo-library.mp4">Download the video</a> instead.
+</video>
+
+<p>Feels ironic how much I have to fight with tech to just… read a book.</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><category term="tech" /><summary type="html"><![CDATA[I used my Kobo e-reader for two things: reading library books (synced from OverDrive); and downloading free public domain classics from Standard Ebooks.]]></summary></entry><entry><title type="html">The books I’ve gotten my library to buy me</title><link href="http://localhost:4000/2026/07/12/materials-requests.html" rel="alternate" type="text/html" title="The books I’ve gotten my library to buy me" /><published>2026-07-12T00:00:00-04:00</published><updated>2026-07-12T00:00:00-04:00</updated><id>http://localhost:4000/2026/07/12/materials-requests</id><content type="html" xml:base="http://localhost:4000/2026/07/12/materials-requests.html"><![CDATA[<p>I started submitting materials requests to my local public library in late 2024 after hearing about it on a <a href="https://culturestudypod.substack.com/p/the-expansive-world-of-queer-romance">podcast episode about queer romance books</a>; the podcast guest Adib Khorram mentioned it offhand. I’d never even known this was a possibility, and I immediately started requesting books.</p>
+
+<p>In the past 1.5 years, I’ve requested 14 books. 9 were purchases; 5 were rejected because they were unable to purchase them. I submit a materials request online, and I always get a response within a few days. To me this feels super quick for such a large system! (I live in a dense, highly educated metropolitan area. My local library system is composed of 9 libraries and serves 200,000+ residents.)</p>
 
 <table>
+  <thead>
+    <tr>
+      <th>Book</th>
+      <th>Author</th>
+      <th>Decision</th>
+      <th>Date of Request</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Two Hours</td>
+      <td>Alba Arikha</td>
+      <td>Purchased</td>
+      <td>Dec 18, 2024</td>
+    </tr>
+    <tr>
+      <td>The Country Girls</td>
+      <td>Edna O’Brien</td>
+      <td>Purchased</td>
+      <td>Jan 2, 2025</td>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Amy Dillwyn</td>
+      <td>Purchased</td>
+      <td>Jan 7, 2025</td>
+    </tr>
+    <tr>
+      <td>Riders</td>
+      <td>Jilly Cooper</td>
+      <td>Overdrive Purchase</td>
+      <td>May 27, 2025</td>
+    </tr>
+    <tr>
+      <td>A Room Above a Shop</td>
+      <td>Anthony Shapland</td>
+      <td>Not Available in Requested Format</td>
+      <td>Aug 5, 2025</td>
+    </tr>
+    <tr>
+      <td>Crisis</td>
+      <td>Karin Boye</td>
+      <td>Purchased</td>
+      <td>Aug 5, 2025</td>
+    </tr>
+    <tr>
+      <td>The Jump-Off Creek</td>
+      <td>Molly Gloss</td>
+      <td>Purchased</td>
+      <td>Nov 17, 2025</td>
+    </tr>
+    <tr>
+      <td>The Quarry Wood</td>
+      <td>Nan Shepherd</td>
+      <td>Not Available to Purchase</td>
+      <td>Dec 26, 2025</td>
+    </tr>
+    <tr>
+      <td>Births, Deaths and Marriages</td>
+      <td>Laura Barnett</td>
+      <td>Not Available to Purchase</td>
+      <td>Jan 16, 2026</td>
+    </tr>
+    <tr>
+      <td>It Had To Be Him</td>
+      <td>Adib Khorram</td>
+      <td>Overdrive Purchase</td>
+      <td>Jan 18, 2026</td>
+    </tr>
+    <tr>
+      <td>The Glass Lake</td>
+      <td>Maeve Binchy</td>
+      <td>Purchased</td>
+      <td>Feb 4, 2026</td>
+    </tr>
+    <tr>
+      <td>The Best of Everything</td>
+      <td>Kit de Waal</td>
+      <td>Not Available to Purchase</td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td>The Mercy Step</td>
+      <td>Marcia Hutchinson</td>
+      <td>Not Available to Purchase</td>
+      <td>Apr 20, 2026</td>
+    </tr>
+    <tr>
+      <td>Waist Deep</td>
+      <td>Linea Maja Ernst</td>
+      <td>Purchased</td>
+      <td>Jun 4, 2026</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In the past years I’ve taken pains to generally restrict my book buying habit to books I’ve already read and liked, and use my library to read books (especially new releases) and vet them before I buy. I mostly adhere to this rule unless I really want to read something and it’s either 1. Not available at the library, or 2. There’s a really long waitlist at the library (see: Whistler by Ann Patchett). It’s very gratifying to check out a book that wouldn’t b able to be checked out except for me.</p>
+
+<p>The books I request are often written by British or otherwise non-US authors (or not initially published in the US) that I heard about via <a href="https://pandorasykes.substack.com/">Pandora Sykes’ newsletter</a>. Sometimes it’s new books published in the past year that didn’t get a wide release outside of the UK. Other than that, it’s mostly LGBT fiction.</p>
+
+<p>I also think it’s cool that the only reason they don’t purchase my recommendations is because the book isn’t available from the library’s vendors. (…or at least that’s what they say! Are there other reasons?) It does seem to track, though:</p>
+<ul>
+  <li><em>The Quarry Wood</em> (1928, UK), I bought this myself but admittedly it was hard to find. I bought it on Amazon after literally being unable to find a decent copy anywhere else.</li>
+  <li><em>The Mercy Step</em> (1962, UK) is also like this. I didn’t buy it, but can’t find it available anywhere other than Amazon. Is it out of print or something? Can’t really tell.)</li>
+  <li><em>The Best of Everything</em> (2025, US). Feels like this should be available?</li>
+  <li><em>Births, Deaths and Marriages</em> (2025, UK). No US release.</li>
+  <li><em>The Room Above the Shop</em> (2025, UK). Same as above, no US release.</li>
+</ul>
+
+<p><img src="/assets/materials-request.png" alt="Screenshot of a library materials request" /></p>
+
+<p>It’s so interesting to me that in this global world you still have to import a recently-published UK book to the US via Amazon; and that because of that my local library cannot buy it.</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[I started submitting materials requests to my local public library in late 2024 after hearing about it on a podcast episode about queer romance books; the podcast guest Adib Khorram mentioned it offhand. I’d never even known this was a possibility, and I immediately started requesting books.]]></summary></entry><entry><title type="html">One year at Fern, a reflection</title><link href="http://localhost:4000/2026/07/08/one-year.html" rel="alternate" type="text/html" title="One year at Fern, a reflection" /><published>2026-07-08T00:00:00-04:00</published><updated>2026-07-08T00:00:00-04:00</updated><id>http://localhost:4000/2026/07/08/one-year</id><content type="html" xml:base="http://localhost:4000/2026/07/08/one-year.html"><![CDATA[<p>I left Google in January 2025 at the end of my maternity leave. That had never been my plan, but when my relocation request got unexpectedly denied (to another Google office my organization already had a presence in, not remote, yep I’m still bitter), I quit.</p>
+
+<h2 id="figuring-out-what-i-wanted">Figuring out what I wanted</h2>
+
+<p>I spent the next few months on a job search that was alternately rewarding and frustrating. I <a href="/2025/02/09/jekyll.html">rebuilt my website</a> and <a href="https://github.com/devalog/resume/blob/main/resume.pdf">built an autogenerated resume</a> as proof-of-competency projects, all while caring for my baby full time. (I had support, though: my in-laws watched him a few hours a week while I applied for jobs and did interview prep, and my husband took the rest of his paternity leave, a few weeks, in February. It was still the most isolating period I’ve experienced.) I spent a lot of that time trying to figure out what I actually wanted. At first I thought I could make it work with a flexible full-time job, but I just couldn’t bring myself to accept any of the full-time offers I got. So I regrouped and focused on part-time work instead, so I could still spend a good portion of the working week with my baby.</p>
+
+<p>What I found is that it’s incredibly hard to land a part-time job, much less one outside of your network. And while I’d assumed working at Google would give me a built-in network for the rest of my life… almost all of the people I considered my network were still at Google, and therefore not in a position to offer me another job. And I had no interest in trying to get re-hired at Google.</p>
+
+<h2 id="taking-a-risk">Taking a risk</h2>
+
+<p>Throughout my search, I received and declined various offers that just weren’t the right fit for various reasons. (One company’s founder explicitly asked if I had kids during the interview process, for example.) The hardest part was choosing between two very good offers. One was a part-time freelance gig that seemed like truly the ideal gig. At the same time, I was wrapping up a long interview process for a full-time job at a midsize company that seemed about as good as full-time could get: interesting work, a great team, and a real focus on work-life balance. The part-time role was also interesting, but it was so different from anything I’d done before that it felt like more of a risk. I decided on the freelance gig, and declined to continue the midsize company’s interview process.</p>
+
+<p>That contract abruptly ended after only two months, when political infighting I didn’t have much visibility into stopped work on the product I was hired to document. But I barely had time to be upset about it, or to regret taking it in the first place: a week after I heard it was ending, I got a cold LinkedIn DM from one of <a href="(https://buildwithfern.com/)">Fern</a>’s founders, who was looking for a technical writer contractor.</p>
+
+<h2 id="starting-at-fern">Starting at Fern</h2>
+
+<p>Fern is a developer tools company that generates SDKs and docs sites from API specs. I replied to the DM promptly, we chatted for 30 minutes, and I started a week later, in June 2025. They were cool with part-time, and I’ve operated on pretty much exactly the schedule we discussed in that initial chat. Fern accepted my hourly rate with no negotiation. (And I raised my rate a few months later; everyone was okay with that.)</p>
+
+<p>Fern had never had any kind of technical writer before, and the documentation was incomplete and outdated. That was a particularly bad look for a company whose product is literally a documentation platform. I inherited an enormous document of pasted-in Slack threads and links to customer-reported bugs, and beyond that, I was added to a few threads a day of customers complaining about documentation-related problems. Three weeks in, I was in New York with the team relaunching a fully revamped documentation site.</p>
+
+<p>A year later, I still get tagged on documentation-related customer Slack threads, but it’s more like 2-3 a week now versus 5-6 a day when I first started, even as Fern’s customer base has expanded (more enterprise customers too, with more complicated needs). The documentation works.</p>
+
+<h2 id="expanding-my-scope">Expanding my scope</h2>
+
+<p>For my first 4 months at Fern, I did the technical writing and documentation workflow optimization work that I was hired for. Then, in October, there was a lull in product launch content: the person covering it also owned all of business operations, and he no longer had time to write. On October 22, midday, I was asked if I could write a draft. (I had zero marketing experience at this point, and certainly none at Fern.) <a href="https://buildwithfern.com/post/llms-txt-improvements">My first blog post</a> went live the following day.</p>
+
+<p>From then on, I owned product launch content, and my ownership kept growing from there. Today, it covers all of Fern’s documentation and technical marketing content: case studies, blog posts, product launches, SEO content, social media (<a href="https://www.linkedin.com/posts/buildwithfern_ai-mcp-rust-activity-7458236422798454786-dILk">LinkedIn</a>/X) copy, Slack blast copy, and the occasional email. I do a lot of writing, but just as much editing, nitpicking, and <a href="https://buildwithfern.com/post/faster-docs">collaborating with engineers</a>.</p>
+
+<p>Unsurprisingly, a big part of my job now involves AI. I’ve been making our docs agent-friendly: tagging content that only AI agents should see, structuring page metadata so agents can decide what’s worth fetching, and constantly iterating on the agent configuration for our own docs repo. I recently built an internal automation that scans our code repos every 24 hours, evaluates which merged PRs need a docs update, and posts a draft docs PR to Slack. I built a public repo of docs skills our customers can drop into their own projects, and I help configure Fern Writer, our AI writing agent. For my own work, I have an arsenal of Claude skills covering everything from factchecking SEO blogs to drafting case studies from interview notes. And I blog about technical writing and <a href="https://buildwithfern.com/post/ai-assisted-technical-writer">my own AI-assisted workflow</a> for Fern, which means my workflow has itself become content (it’s all very meta).</p>
+
+<p>Owning content at Fern has been the most fun I’ve ever had with a job. It’s very satisfying to write the documentation, then use that documentation as a starting point for a longform blog post, then figure out how to pull out the key point for a LinkedIn post or Slack blast. And all of those assets link to each other: you click it, I wrote it.</p>
+
+<p>Postman acquired Fern in January, but my role has stayed pretty much the same.</p>
+
+<h2 id="a-year-in">A year in</h2>
+
+<p>I’m still a contractor by choice, and I work part time, around 25 hours a week with some work travel. I spend every morning and all day Friday with my 2-year-old.</p>
+
+<p>I thought I was leaving the best job I’d ever had when I left Google; I can now say that isn’t true. I had a great time at Google and it was a great fit for me until it suddenly wasn’t a fit at all. At Fern, I’m doing work I would never have been able to do at Google or any other big company. It moves at the pace of a startup, and yet it fits with my life. I’m many times more focused and efficient than I ever was pre-kid.</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[I left Google in January 2025 at the end of my maternity leave. That had never been my plan, but when my relocation request got unexpectedly denied (to another Google office my organization already had a presence in, not remote, yep I’m still bitter), I quit.]]></summary></entry><entry><title type="html">The case of the disappearing SME meeting</title><link href="http://localhost:4000/2026/02/08/smes.html" rel="alternate" type="text/html" title="The case of the disappearing SME meeting" /><published>2026-02-08T00:00:00-05:00</published><updated>2026-02-08T00:00:00-05:00</updated><id>http://localhost:4000/2026/02/08/smes</id><content type="html" xml:base="http://localhost:4000/2026/02/08/smes.html"><![CDATA[<p>I documented internal <a href="https://developers.google.com/search/docs/fundamentals/how-search-works">Search</a> infrastructure at Google for about five years, from 2018 to early 2023. (From 2023 until my resignation in December 2024, I worked on content strategy and operations for <a href="https://blog.google/products-and-platforms/products/search/new-ways-to-connect-to-the-web-with-ai-overviews/">AI Overviews</a>. Similar skillset, but very different output.)</p>
+
+<p>For a few of those years, my primary focus was Local Search, the system behind what happens when you search for “coffee shops near me” and get a map with pins and business listings. It’s one of those features that seems simple from the outside but is genuinely complex underneath, pulling from both Google Maps and Google Search infrastructure.</p>
+
+<p>Documenting Local Search was hard. A single page could require three or four SME meetings—the classic technical writer ritual where you interview an engineer, take notes, draft something, and iterate until it’s accurate. Committing to a page, learning the system, writing it up, and getting approval took a minimum of one week and often way longer.</p>
+
+<p>I’ve been at <a href="https://buildwithfern.com/">Fern</a> for nine months now, and I’ve had maybe five or six SME meetings. Total! It’s hard to come up with a neat explanation like “and that’s all because of AI!” though AI certainly has a lot to do with it.</p>
+
+<h2 id="the-documentation-bottleneck-at-google">The documentation bottleneck at Google</h2>
+
+<p>Local Search straddled two large organizations: Geo (Maps) and Search. They coordinated to some extent but had largely separate infrastructure and workflows (at the time, that is. It was started to coordinate and merge in my last year or so and I can only imagine that this process continues today). No AI assistance at the time (pre 2023), so documenting anything in Local Search meant three or four SME interviews just to write a single page.</p>
+
+<p>I could never just produce something close to publishable on my own. For almost everything I wrote, I did a lot of initial legwork myself—digging through code, piecing things together from old design docs. I’d produce a draft that was maybe 60% right, and then iterate with engineers asynchronously in a Google Doc or on a CL (googlespeak for PR). That iteration was slow. Reviews sat for days because people were busy, and internal documentation was never a priority (I could write many pages on why this was, for another time!)</p>
+
+<p>This was a legacy codebase where everything affected everything else, and the knowledge lived in people’s heads. You couldn’t just read the code and understand the system—you needed context that wasn’t written down anywhere. The SME meetings weren’t optional overhead; they were the work. And at the time, I actually thought this was all pretty efficient.</p>
+
+<h2 id="what-changed">What changed</h2>
+
+<p>I left Google in 2024 and didn’t really start using AI tools until 2025, when I was doing some freelance work and rebuilding my personal website. I started at Fern in June 2025 and walked into a massive backlog of documentation issues.</p>
+
+<p>On the surface Fern is obviously extremely different from Google, and as a result my writing process looks entirely different now.</p>
+
+<p>The first difference is organizational. Fern is small—around 25 people, pretty flat structure. (My tech writing team at Google was 25 people!) Everyone’s on Slack, online often, and there’s a culture of saying almost everything in public channels. It’s easy to start a thread about a new feature, ask for clarification, or request a review. Or search Slack! Searching Slack, including customer support threads, is a legitimate goldmine of information.</p>
+
+<p>Documentation also matters here in a direct way: Fern’s product is external, and good docs are how customers actually implement things. It’s easier for a sales engineer to send someone a docs page than to explain the same thing over chat for the tenth time in a week. People get that and they don’t have time to waste on repetitive handholding. Plus, Fern’s product IS documentation sites, so their audience cares about good documentation perhaps more than a typical dev tools engineer.</p>
+
+<p>At Google, even with documentation, a lot of customer handholding was still necessary. Internal teams serving internal customers meant money wasn’t directly on the line during those interactions. The customer didn’t have other options—there’s one way to implement X in Google Search, and one team to do it. You can’t go to a competitor. That dynamic made some people complacent, sometimes. (Not everyone. I worked with a lot of amazing people at Google. I learned to be a technical writer there and have a lot of respect for most of the teams I worked with.)</p>
+
+<p>Another big thing, of course, is AI. Now, I use Claude (Claude Code and in my browser depending) extensively to draft content and explain technical concepts. Fern started using <a href="https://en.wikipedia.org/wiki/Devin_AI">Devin AI</a> internally for coding tasks, and I started using it for documentation drafts Its writing can be verbose, but the codebase integration is a game-changer. I can ask “can you explain how this option works?” and get an answer within minutes, with a drafted PR if I want one. Fern recently launched <a href="https://buildwithfern.com/learn/docs/ai-features/fern-writer">Fern Writer</a>, which is essentially Devin with a wrapper to understand Fern-specific components, and I use it extensively. I can throw it a code PR that I have no context on, and it produces a decent PR draft in the documentation repository that I can iterate on.</p>
+
+<p>I don’t often merge these PRs without changes. I’ll iterate over Slack-“be less verbose,” “fix those broken links,” “describe how this option relates to that other option on a different page”—and often push a commit or two myself. The flexibility is the point.</p>
+
+<h2 id="teasing-apart-the-variables">Teasing apart the variables</h2>
+<p>It’s tempting to say “AI killed the SME meeting,” but that’s not quite right. The organizational stuff matters too. Fern’s size, flat structure, Slack-native culture, external product where docs directly affect revenue—all of that creates an environment where information flows more freely and people are motivated to help documentation happen.</p>
+
+<p>But AI is the multiplier. The “can you explain how this option works?” → instant answer → drafted PR pipeline is genuinely new. At Google, I couldn’t spin up a test environment easily. I couldn’t get a codebase-aware explanation in minutes. The information existed, but extracting it required scheduling meetings, waiting for async responses, synthesizing across multiple partial explanations.</p>
+
+<p>Now I can do a lot of that extraction myself or have AI do it for me, so the documentation bottleneck has absolutely shifted.</p>
+
+<h2 id="sme-meetings-are-dead-long-live-the-sme-meeting">SME meetings are dead, long live the SME meeting</h2>
+
+<p>I don’t think SME meetings are dead. For genuinely complex, cross-cutting features—the kind of thing Local Search was full of—you probably still need humans in a room (or on a call) working through the edges together. AI can explain what code does, but it can’t always explain why the code is that way, or what tradeoffs were considered, or what’s likely to change next quarter. For an internal audience, especially, this can be relevant.</p>
+
+<p>But the default has shifted. The question used to be “who do I need to talk to?” Now it’s “can I figure this out myself first?” And increasingly, the answer is yes.</p>
+
+<p>I’m curious how this plays out across the industry, whether other technical writers are experiencing something similar, and what it means for the craft longer term. For now, I’m just enjoying the velocity!</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[I documented internal Search infrastructure at Google for about five years, from 2018 to early 2023. (From 2023 until my resignation in December 2024, I worked on content strategy and operations for AI Overviews. Similar skillset, but very different output.)]]></summary></entry><entry><title type="html">2025 reading recap</title><link href="http://localhost:4000/2025/12/31/recap.html" rel="alternate" type="text/html" title="2025 reading recap" /><published>2025-12-31T00:00:00-05:00</published><updated>2025-12-31T00:00:00-05:00</updated><id>http://localhost:4000/2025/12/31/recap</id><content type="html" xml:base="http://localhost:4000/2025/12/31/recap.html"><![CDATA[<p>I finished <strong>76 books</strong> this year, my highest year since I started tracking back in 2020. (And by a substantial amount––my second-highest year was in 2021 when I read 56 books.) I wasn’t working Jan-June, but my reading was actually consistent the entire year (no spike for those months). I have a toddler and a slightly-more-than-half-time job, so I’m really proud I was able to carve out time for reading despite more non-negotiable obligations than I’ve ever had.</p>
+
+<p>Now for some stats:</p>
+<ul>
+  <li>8 books from the 1800s. Last year it was 9. It’s usually around this amount, but less percentage-wise this year.</li>
+  <li>31 books published in the 1900s (up from 15 last year). Of those 31, 15 were published before 1950.</li>
+  <li>3 nonfiction books. That’s typical for me, as I really have to gear up for a nonfiction book. I finally read <em>Lakota America: A New History of Indigenous Power</em> and loved it. It sat on my shelf for almost five years.</li>
+  <li>The oldest book I read this year was <em>Pride and Prejudice</em> (1813), a reread. Close behind that was <em>Ivanhoe</em> (1819).</li>
+  <li>The newest book I read this year was <em>Palaver</em>, published in November 2025. I read 4 other books published in 2025.</li>
+  <li>4 rereads this year (compared to 6 last year): <em>The Jump-Off Creek</em>, <em>Pride and Prejudice</em>, <em>Tom Lake</em>, and <em>Behind the Scenes at the Museum</em>.</li>
+  <li>March, May, and November are a three-way tie for most books read in a month (8)</li>
+  <li>No 1-star books, three 2-star books: <em>Wineburg, Ohio</em>, <em>The Turmoil</em>, and <em>City of Night Birds</em>.</li>
+</ul>
+
+<p>26 5-star (not counting rereads). It was a good year for good books! Of those 26, the five I loved the most were:</p>
+<ul>
+  <li><em>Cold Comfort Farm</em> (1932)––girl moves in with cousins she’s never met after her parents die. She proceeds to meddle in everyone’s lives. Written in 1932 but set around a decade in the future, a future where there is no WWII (wild to read now). Tone and characters remind me somewhat of <em>I Capture the Castle</em>, one of my favorite books of all time (I’m due for a reread).</li>
+  <li><em>Heart the Lover</em> (2025)/<em>Writers and Lovers</em> (2020)––impossible not to discuss these together. I read <em>Writers and Lovers</em> first, an excellent love triangle set in 1990s Boston. <em>Heart the Lover</em> is fascinatingly both a prequel and a sequel to <em>Writers and Lovers</em>. The titles are bad. The books are great.</li>
+  <li><em>Prairie Fires: The American Dreams of Laura Ingalls Wilder</em> (2017)––I was full-on obsessed with the Laura Ingalls Wilder books as a kid. As an adult, I’ve read a lot of Western and indigenous fiction. This book pulled together those things, providing the historical and family context behind the novels.</li>
+</ul>
+
+<p>Looking ahead to 2026. I don’t like to set number goals because it makes reading less enjoyable for me. But next year I’d like to read at least a couple of books from my backlog shelf. Maybe 2026 is the year for <em>Comanche Empire</em>?</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="recaps" /><category term="books" /><summary type="html"><![CDATA[I finished 76 books this year, my highest year since I started tracking back in 2020. (And by a substantial amount––my second-highest year was in 2021 when I read 56 books.) I wasn’t working Jan-June, but my reading was actually consistent the entire year (no spike for those months). I have a toddler and a slightly-more-than-half-time job, so I’m really proud I was able to carve out time for reading despite more non-negotiable obligations than I’ve ever had.]]></summary></entry><entry><title type="html">You already have everything you need: modern romance in *The Materialists* and *Writers and Lovers*</title><link href="http://localhost:4000/2025/12/23/exhaustion.html" rel="alternate" type="text/html" title="You already have everything you need: modern romance in *The Materialists* and *Writers and Lovers*" /><published>2025-12-23T00:00:00-05:00</published><updated>2025-12-23T00:00:00-05:00</updated><id>http://localhost:4000/2025/12/23/exhaustion</id><content type="html" xml:base="http://localhost:4000/2025/12/23/exhaustion.html"><![CDATA[<p>I recently watched the movie <em>The Materialists</em> (2025) and read the book <em>Writers and Lovers</em> (2020). Both pieces have very similar, and very of-the-moment, takes on money, men, and exhaustion.</p>
+
+<h2 id="the-setups">The setups</h2>
+
+<p>In <em>Writers and Lovers</em>, protagonist Casey has been working on a novel for years. She lives in a garden shed on the property of her brother’s friend and works as a server at a high-end restaurant in Boston. She’s in debt and recovering from her mom’s sudden death.</p>
+
+<p>She meets fellow writer Silas through a mutual friend, and there’s an immediate spark. He’s grieving the death of his sister. They understand each other. He asks her out and they set a date, but he spontaneously leaves on a monthslong roadtrip right before the date. Casey is rather put out, but soon after meets Oscar, an older widower with two young sons. She dates him for a while, wondering what it would be like to live with wealth and ease, but ultimately leaves him to pursue a relationship with Silas.</p>
+
+<p>In <em>The Materialists</em>, Lucy (Dakota Johnson) is a successful matchmaker for rich clients in New York City. She meets Harry (Pablo Pascal), an older, wealthy finance guy, at the wedding of her client. Harry is the ideal man in many ways, and like Casey, Lucy finds her new life of wealth and ease alluring. But in the end, it’s not enough. She returns to John (Chris Evans), her struggling-actor ex-boyfriend who is decidedly not wealthy.</p>
+
+<h2 id="someone-elses-money">Someone else’s money</h2>
+
+<p>Both Lucy and Casey are defined in the initial stages of the book/movie by their exhaustion. They are not financially secure, despite working incredibly hard, and don’t really see a path forward to the kind of lives they want. The ideal older man, for both protagonists, represents a new kind of relationship, an aspirational one in which they can relax and enjoy the fruits of someone else’s money. They go on dates in nice restaurants and someone else pays the bill. Lucy goes on expensive vacations and wakes up in an over-the-top Manhattan apartment. Casey dates a man who owns a house, is an established author, and has two sweet children. She’s able to exhale from her frenetic existence as server and aspiring author and relax in an environment of stability.</p>
+
+<p>For both women, this padded stability has its costs. The relationships take the edge off of their relentless striving. For a while, this is welcome relief. Soon, though, Lucy and Casey both realize that something is missing, that the striving is perhaps part of them. It seems like both of them decide that actually, they want to achieve happiness/financial independence on their own, that they don’t want to skip steps. They go back to the men they initially rejected, the men who are striving just like them. Lucy goes back to her ex of five years, a struggling theater actor who is still broke. Casey goes back to Silas, still an aspiring writer.</p>
+
+<h2 id="a-fantasy-for-the-exhausted">A fantasy for the exhausted</h2>
+
+<p><em>The Materialists</em> and <em>Writers and Lovers</em> draw the same two conclusions. First, both pieces posit that ending up with a man you initially rejected is romantic. Lucy originally leaves John because he wasn’t going to give her the lifestyle she wanted. John’s lack of money is not resolved at all, and Lucy’s mindset hasn’t changed very much either so them ending up together is pretty baffling.</p>
+
+<p>Casey originally leaves Silas (left is sort of strong, though––decided not to proceed with?) because she thought he was flaky. Silas’s flakiness is justified in the end. (“I couldn’t go out with you until I felt more normal,” he says, more normal being something he would achieve on a roadtrip. Casey is satisfied with this explanation, though I can’t say I am.)</p>
+
+<p>Either way, the premise holds: both women end up with someone they already know, exchanging an ideal older man for an age-appropriate man whose flaws are known and whose financial circumstances roughly match their own.</p>
+
+<p>The second conclusion is financial––both pieces say that financial independence you didn’t earn yourself is hollow; but also that if you work hard enough, you can be self-sufficient. Lucy gets a promotion at the end of the movie. By her own work, she surmounts her precarity. Same with Casey––she sells the book she’s been writing and gets a job as a teacher. They both do it themselves, without the rich men, and are therefore happier.</p>
+
+<p>Both of these conclusions seem very modern to me. At a time where dating apps (endless choice! Endless exhaustion!) are basically requisite for finding a partner, a known, non-new man feels uniquely fulfilling. At a time where financial precarity and debt is basically a given for many people, the allure of “making it yourself” is a strong pull. Taken together</p>
+
+<p>Taken together, these conclusions seem like a very specific take on the current state of the world. When financial stability feels perpetually out of reach and dating apps have turned partnership into a cold optimization problem, there’s something appealing about stories that tell you that the answer is not the rich guy or the endless possibility of dating apps. You have already have the right guy, and you already have what it takes to make money. You just need a new perspective.</p>
+
+<p>This is, of course, very comforting. I liked the movie and I loved the book. I’d recommend both. These conclusions are very comforting. The more I think about it, though, the more it seems like these conclusions are just a convenient fantasy for exhausted women.</p>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="recaps" /><category term="books" /><summary type="html"><![CDATA[I recently watched the movie The Materialists (2025) and read the book Writers and Lovers (2020). Both pieces have very similar, and very of-the-moment, takes on money, men, and exhaustion.]]></summary></entry><entry><title type="html">Books I’ve read</title><link href="http://localhost:4000/2025/08/19/booklist.html" rel="alternate" type="text/html" title="Books I’ve read" /><published>2025-08-19T00:00:00-04:00</published><updated>2025-08-19T00:00:00-04:00</updated><id>http://localhost:4000/2025/08/19/booklist</id><content type="html" xml:base="http://localhost:4000/2025/08/19/booklist.html"><![CDATA[<p>All the books I’ve read since January 2020. Click a column header to sort; type in the boxes below the headers to filter.</p>
+
+<div class="booklist-wrap">
+<table id="booklist">
 <tr>
     <th>Book title</th>
     <th>Author</th>
@@ -8,6 +346,643 @@
     <th>Date completed</th>
     <th>Rating (out of 5)</th>
   </tr>
+<tr>
+    <td>Buddenbrooks</td>
+    <td>Thomas Mann</td>
+    <td>1901</td>
+    <td>Oct 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>A Bride of a Summer's Day</td>
+    <td>Catherine Louisa Pirkis</td>
+    <td>1891</td>
+    <td>Oct 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>The Last Chronicle of Barset</td>
+    <td>Anthony Trollope</td>
+    <td>1867</td>
+    <td>Oct 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>American Hagwon</td>
+    <td>Min Jin Lee</td>
+    <td>2026</td>
+    <td>Oct 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Live Laugh Love: The Secret History of White Christian Women and the World They Made</td>
+    <td>Kristin Kobes Du Mez</td>
+    <td>2026</td>
+    <td>Sep 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Parallel Lives: Five Victorian Marriages</td>
+    <td>Phyllis Rose</td>
+    <td>1983</td>
+    <td>Sep 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Possession</td>
+    <td>A. S. Byatt</td>
+    <td>1990</td>
+    <td>Sep 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Pearl</td>
+    <td>John Steinbeck</td>
+    <td>1947</td>
+    <td>Sep 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Country People</td>
+    <td>Daniel Mason</td>
+    <td>2026</td>
+    <td>Sep 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Best of Everything</td>
+    <td>Rona Jaffe</td>
+    <td>1958</td>
+    <td>Sep 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Enchanted April</td>
+    <td>Elizabeth von Arnim</td>
+    <td>1922</td>
+    <td>Aug 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Small House at Allington</td>
+    <td>Anthony Trollope</td>
+    <td>1862</td>
+    <td>Aug 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Siblings Without Rivalry</td>
+    <td>Adele Faber and Elaine Mazlish</td>
+    <td>1987</td>
+    <td>Aug 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Benediction</td>
+    <td>Kent Haruf</td>
+    <td>2013</td>
+    <td>Aug 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Eventide</td>
+    <td>Kent Haruf</td>
+    <td>2005</td>
+    <td>Aug 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Dopamine Kids</td>
+    <td>Michaeleen Doucleff</td>
+    <td>2026</td>
+    <td>Aug 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Broken Country</td>
+    <td>Clare Leslie Hall</td>
+    <td>2025</td>
+    <td>Aug 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Main Characters</td>
+    <td>Bobby Palmer</td>
+    <td>2026</td>
+    <td>Jul 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>100 Years of Solitude</td>
+    <td>Gabriel García Márquez</td>
+    <td>1967</td>
+    <td>Jul 2026</td>
+    <td>1</td>
+</tr>
+<tr>
+    <td>Plainsong</td>
+    <td>Kent Haruf</td>
+    <td>1999</td>
+    <td>Jul 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Audition</td>
+    <td>Katie Kitamura</td>
+    <td>2025</td>
+    <td>Jul 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Framley Parsonage</td>
+    <td>Anthony Trollope</td>
+    <td>1861</td>
+    <td>Jul 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation</td>
+    <td>Kristin Kobes Du Mez</td>
+    <td>2020</td>
+    <td>Jul 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The House of the Spirits</td>
+    <td>Isabel Allende</td>
+    <td>1982</td>
+    <td>Jun 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Montessori for Every Family</td>
+    <td>Tim Seldin and Lorna McGrath</td>
+    <td>2021</td>
+    <td>Jun 2026</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>Hunt, Gather, Parent</td>
+    <td>Michaeleen Doucleff</td>
+    <td>2021</td>
+    <td>Jun 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Doctor Thorne</td>
+    <td>Anthony Trollope</td>
+    <td>1858</td>
+    <td>Jun 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Whistler</td>
+    <td>Ann Patchett</td>
+    <td>2026</td>
+    <td>Jun 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Barchester Towers</td>
+    <td>Anthony Trollope</td>
+    <td>1857</td>
+    <td>Jun 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Return of the Native</td>
+    <td>Thomas Hardy</td>
+    <td>1878</td>
+    <td>May 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Winds of the Morning</td>
+    <td>H.L. Davis</td>
+    <td>1952</td>
+    <td>May 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Strangers: A Memoir of Marriage</td>
+    <td>Belle Burden</td>
+    <td>2026</td>
+    <td>May 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The English Understand Wool</td>
+    <td>Helen DeWitt</td>
+    <td>2022</td>
+    <td>May 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Henry, Henry</td>
+    <td>Allen Bratton</td>
+    <td>2024</td>
+    <td>May 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Long Way to a Small, Angry Planet</td>
+    <td>Becky Chambers</td>
+    <td>2014</td>
+    <td>May 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Truth and Beauty: A Friendship</td>
+    <td>Ann Patchett</td>
+    <td>2004</td>
+    <td>Apr 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Lucien</td>
+    <td>J. R. Thornton</td>
+    <td>2025</td>
+    <td>Apr 2026</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>Arabella</td>
+    <td>Georgette Heyer</td>
+    <td>1949</td>
+    <td>Apr 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Kingfisher</td>
+    <td>Rozie Kelly</td>
+    <td>2025</td>
+    <td>Apr 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Romance of a Shop</td>
+    <td>Amy Levy</td>
+    <td>1888</td>
+    <td>Apr 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Correspondent</td>
+    <td>Virginia Evans</td>
+    <td>2025</td>
+    <td>Apr 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Kala</td>
+    <td>Colin Walsh</td>
+    <td>2023</td>
+    <td>Apr 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Shadow of the Wind</td>
+    <td>Carlos Ruiz Zafón</td>
+    <td>2001</td>
+    <td>Apr 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Writers and Lovers</td>
+    <td>Lily King</td>
+    <td>2020</td>
+    <td>Apr 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Snow Country</td>
+    <td>Yasunari Kawabata</td>
+    <td>1948</td>
+    <td>Mar 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck</td>
+    <td>Sophie Elmhirst</td>
+    <td>2024</td>
+    <td>Mar 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Heart the Lover</td>
+    <td>Lily King</td>
+    <td>2025</td>
+    <td>Mar 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Growing Up in the Middle Ages</td>
+    <td>Paul B. Newman</td>
+    <td>2007</td>
+    <td>Mar 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Washington Square</td>
+    <td>Henry James</td>
+    <td>1880</td>
+    <td>Mar 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Northanger Abbey</td>
+    <td>Jane Austen</td>
+    <td>1817</td>
+    <td>Mar 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Loneliness of Sonia and Sunny</td>
+    <td>Kiran Desai</td>
+    <td>2025</td>
+    <td>Mar 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Ten-Year Affair</td>
+    <td>Erin Somers</td>
+    <td>2025</td>
+    <td>Feb 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Good Morning, Midnight</td>
+    <td>Jean Rhys</td>
+    <td>1939</td>
+    <td>Feb 2026</td>
+    <td>2</td>
+</tr>
+<tr>
+    <td>Sense and Sensibility</td>
+    <td>Jane Austen</td>
+    <td>1813</td>
+    <td>Feb 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Independent People</td>
+    <td>Halldór Laxness</td>
+    <td>1934</td>
+    <td>Jan 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>I'll Have What He's Having</td>
+    <td>Adib Khorram</td>
+    <td>2024</td>
+    <td>Jan 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Babel, or the Necessity of Violence</td>
+    <td>R.F. Kuang</td>
+    <td>2022</td>
+    <td>Jan 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Pride and Prejudice</td>
+    <td>Jane Austen</td>
+    <td>1813</td>
+    <td>Jan 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Weathering the Storm: Working Class Families from the Industrial Revolution to the Fertility Decline</td>
+    <td>Wally Seccombe</td>
+    <td>1993</td>
+    <td>Jan 2026</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Heated Rivalry</td>
+    <td>Rachel Reid</td>
+    <td>2019</td>
+    <td>Jan 2026</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Montessori: A Modern Approach</td>
+    <td>Paula Polk Lillard</td>
+    <td>1972</td>
+    <td>Jan 2026</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>North Woods</td>
+    <td>Daniel Mason</td>
+    <td>2023</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Yellowface</td>
+    <td>R.F. Kuang</td>
+    <td>2023</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Lie With Me</td>
+    <td>Phillipe Besson</td>
+    <td>2017</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Good Morning, Midnight</td>
+    <td>Lily Brooks-Dalton</td>
+    <td>2016</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Swimming in the Dark</td>
+    <td>Tomasz Jedrowski</td>
+    <td>2020</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Euphoria</td>
+    <td>Lily King</td>
+    <td>2014</td>
+    <td>Dec 2025</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>To Let</td>
+    <td>John Galsworthy</td>
+    <td>1921</td>
+    <td>Dec 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>In Chancery</td>
+    <td>John Galsworthy</td>
+    <td>1920</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Montessori Toddler</td>
+    <td>Simone Davies</td>
+    <td>2019</td>
+    <td>Dec 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Pleasing Hour</td>
+    <td>Lily King</td>
+    <td>1999</td>
+    <td>Dec 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Man of Property</td>
+    <td>John Galsworthy</td>
+    <td>1906</td>
+    <td>Nov 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Go-Between</td>
+    <td>L. P. Hartley</td>
+    <td>1953</td>
+    <td>Nov 2025</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Heart the Lover</td>
+    <td>Lily King</td>
+    <td>2025</td>
+    <td>Nov 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Jump-Off Creek</td>
+    <td>Molly Gloss</td>
+    <td>1989</td>
+    <td>Nov 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Palaver</td>
+    <td>Bryan Washington</td>
+    <td>2025</td>
+    <td>Nov 2025</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>Stoner</td>
+    <td>John Williams</td>
+    <td>1965</td>
+    <td>Nov 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>A Pair of Blue Eyes</td>
+    <td>Thomas Hardy</td>
+    <td>1873</td>
+    <td>Nov 2025</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>The Old Wives' Tales</td>
+    <td>Arnold Bennett</td>
+    <td>1908</td>
+    <td>Nov 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Daniel Deronda</td>
+    <td>George Eliot</td>
+    <td>1876</td>
+    <td>Oct 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Writers and Lovers</td>
+    <td>Lily King</td>
+    <td>2020</td>
+    <td>Oct 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Family Meal</td>
+    <td>Bryan Washington</td>
+    <td>2023</td>
+    <td>Oct 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>So Good to See You</td>
+    <td>Francesca Hornak</td>
+    <td>2025</td>
+    <td>Sep 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Girls in Their Married Bliss</td>
+    <td>Edna O'Brien</td>
+    <td>1964</td>
+    <td>Sep 2025</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>The Lonely Girl</td>
+    <td>Edna O'Brien</td>
+    <td>1962</td>
+    <td>Sep 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>The Country Girls</td>
+    <td>Edna O'Brien</td>
+    <td>1960</td>
+    <td>Sep 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>Lakota America: A New History of Indigenous Power</td>
+    <td>Pekka Hämäläinen</td>
+    <td>2019</td>
+    <td>Sep 2025</td>
+    <td>5</td>
+</tr>
+<tr>
+    <td>The Alice Network</td>
+    <td>Kate Quinn</td>
+    <td>2017</td>
+    <td>Sep 2025</td>
+    <td>3</td>
+</tr>
+<tr>
+    <td>The Wedding People</td>
+    <td>Alison Espach</td>
+    <td>2024</td>
+    <td>Aug 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Flashlight</td>
+    <td>Susan Choi</td>
+    <td>2025</td>
+    <td>Aug 2025</td>
+    <td>4</td>
+</tr>
+<tr>
+    <td>Ivanhoe</td>
+    <td>Walter Scott</td>
+    <td>1819</td>
+    <td>Aug 2025</td>
+    <td>4</td>
+</tr>
 <tr>
     <td>The Safekeep</td>
     <td>Yael van der Wouden</td>
@@ -2061,8 +3036,11 @@
    <td>4</td>
   </tr>
 </table>
+</div>
 
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[All the books I’ve read since January 2020.]]></summary></entry><entry><title type="html">How I used Claude Code to restructure and redirect files</title><link href="http://localhost:4000/2025/08/17/redirects.html" rel="alternate" type="text/html" title="How I used Claude Code to restructure and redirect files" /><published>2025-08-17T00:00:00-04:00</published><updated>2025-08-17T00:00:00-04:00</updated><id>http://localhost:4000/2025/08/17/redirects</id><content type="html" xml:base="http://localhost:4000/2025/08/17/redirects.html"><![CDATA[<p>Any technical writer working on a large documentation site with legacy docs knows the pain of site reorganization projects.</p>
+<script src="/assets/booklist.js"></script>
+
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[All the books I’ve read since January 2020. Click a column header to sort; type in the boxes below the headers to filter.]]></summary></entry><entry><title type="html">How I used Claude Code to restructure and redirect files</title><link href="http://localhost:4000/2025/08/17/redirects.html" rel="alternate" type="text/html" title="How I used Claude Code to restructure and redirect files" /><published>2025-08-17T00:00:00-04:00</published><updated>2025-08-17T00:00:00-04:00</updated><id>http://localhost:4000/2025/08/17/redirects</id><content type="html" xml:base="http://localhost:4000/2025/08/17/redirects.html"><![CDATA[<p>Any technical writer working on a large documentation site with legacy docs knows the pain of site reorganization projects.</p>
 
 <p>When you have a documentation site that needs structural changes, making these changes involves a lot of small steps. There are old docs that need to be revamped or even deleted. Sometimes the file name needs to be changed even if some of the page content can be salvaged. You might end up breaking up big files into smaller ones or merging smaller files into big ones. When you make these types of file changes, you need to redirect users from old URLs to new ones so your changes don’t introduce a bunch of broken links. You probably also need to update your navigation or sitemap file so it’s clear how to navigate everything. In my previous position at Google, I had to do this kind of work as part of basically every project I worked on – it was always a long, arduous task that didn’t seem worth my time.</p>
 
@@ -2126,776 +3104,4 @@
 
 <p>And finally, credit where credit is due: thanks to <a href="https://www.echevarria.io/">my husband</a> who raved about Claude Code a few weeks ago for engineering tasks and inspired me to give it a shot for my own work. Turns out it’s pretty great for technical writing workflows too.</p>
 
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[Any technical writer working on a large documentation site with legacy docs knows the pain of site reorganization projects.]]></summary></entry><entry><title type="html">Reading Ann Patchett’s nine novels</title><link href="http://localhost:4000/2025/06/08/patchett.html" rel="alternate" type="text/html" title="Reading Ann Patchett’s nine novels" /><published>2025-06-08T00:00:00-04:00</published><updated>2025-06-08T00:00:00-04:00</updated><id>http://localhost:4000/2025/06/08/patchett</id><content type="html" xml:base="http://localhost:4000/2025/06/08/patchett.html"><![CDATA[<p>Over the past 33 years, Ann Patchett has published nine novels at a fairly regular cadence (2-4 years in between books). I can trace my interest in Patchett’s books to a <a href="https://cupofjo.com/2019/10/17/best-fall-books-2019/">2019 post on the blog Cup of Jo</a> about the book <em>The Dutch House</em>. After reading that post, I promptly got on the library waitlist (it was very long), got off of it, and then never read the book. In fact, five years went by before I read a book by Ann Patchett.</p>
-
-<p>In September 2024, I randomly read <em>Bel Canto</em> and was completely enthralled. I considered reading her other books but none sounded as amazing as <em>Bel Canto</em>, so I took a few months off. In January 2025, I read <em>Tom Lake</em> and was once again enthralled. Over the subsequent three months, I read the rest of her novels.</p>
-
-<p>I think one reason I took so long to pick up one of her books was because all of her plots sound pretty cliché. “Woman tells her daughters about her past relationship with a famous movie star, right before he became famous.” Eh. That sounds kind of annoying. But that’s <em>Tom Lake</em>, which though slightly cloying at times, is amazing and one of the only books set explicitly during the Covid pandemic that I haven’t found horribly cringe. Okay, here’s another – “Leftist revolutionaries take a house party hostage.” That sounds terrible, and thrillers aren’t my thing. But that’s <em>Bel Canto</em>, not a thriller but a magnificent book about creating your own realities. The plots are rather cliché on their faces. But Patchett’s writing and the characters go deep, and when I start a book, the plot quickly ceases to feel cliché to me.</p>
-
-<h2 id="diving-into-the-books">Diving into the books</h2>
-
-<p>At the beginning of a Patchett book, there is one character. You get that one character’s backstory and life history up until a point, and at that point the character meets another character and stuff happens in the present, and but then you get the second character’s backstory and that changes how you perceive the second character’s present actions, and their relationship with the first character. And so on and so forth, more characters, more connections, more backstories, more present actions until it’s all wound together and you don’t know how it could possibly be sorted out satisfactorily and then bang! it is! All of her books have surprising twists, but the twists are about someone’s relationship to another character or someone’s identify or motive. They are twists that don’t always change the trajectory of the plot, but more change how you as a reader view the events of the book.</p>
-
-<p>I love this type of book. I always want to hear about how some character’s father stole something and lied about it in Ireland fifty years before the main action of the book, and how that event continues to affect present-day characters. I love a good flashback. I’d compare Patchett’s books to Min Jin Lee’s books <em>Free Food for Millionaires</em> and <em>Pachinko</em>. Patchett and Lee both write richly compelling portraits of how a family lives and changes over time, usually over generations.</p>
-
-<p>Below are all of Patchett’s novels, ranked according to my own personal preference.</p>
-
-<h3 id="1-bel-canto-2001">1: <em>Bel Canto</em> (2001)</h3>
-
-<p>Japanese business man Katsumi Hosokawa agrees to attend a party in an unnamed South American country only because the opera singer he’s obsessed with will be there. During the birthday party, leftist revolutionaries take everyone hostage.</p>
-
-<p>This book has the plot of a thriller, but it’s not a thriller at all. This is one of my favorite books of all time.</p>
-
-<h3 id="2-tom-lake-2023">2: <em>Tom Lake</em> (2023)</h3>
-
-<p>Lara lives and works on a cherry farm with her husband. It’s 2020, and her three adult daughters are back home at the farm. Lara tells her daughters the summer when she acted in the play <em>Our Town</em> alongside a famous movie star, right before he became famous.</p>
-
-<p>This is perhaps the only book set during the 2020 pandemic that I like. One of the only multiple timeline books I like. Though, I reread <em>Tom Lake</em> and found the pandemic bits just a little bit cloying. Overall, I still really like this book.</p>
-
-<h3 id="3-state-of-wonder-2011">3: <em>State of Wonder</em> (2011)</h3>
-
-<p>A pharmacologist is sent to the Amazon to recover the dead body of her former labmate and report on the status of a fertility drug another researcher is developing. Parts of this could be classified as magical realism or even science fiction.</p>
-
-<p>I loved this book, especially the main character Marina. There were decisions that certain characters made that I didn’t like, but it was because I cared so much about the characters. Even the parts I didn’t like, I can admit that they really made the book a winner.</p>
-
-<h3 id="4-run-2007">4: <em>Run</em> (2007)</h3>
-
-<p>Former mayor of Boston Bernard Doyle (white) has two adopted boys, Tip and Teddy (Black), and a long-dead wife Bernadette. (Bernard and Bernardette?? Really?!) A woman the Doyles don’t know saves Teddy from getting hit by a car and ends up in the hospital. Her young daughter Kenya stays with the Doyles.</p>
-
-<p>This was a solid book. All of the strands and character tie together in the end in a very satisfying way. Shout out to the red-haired statue of the Virgin Mary that changes hands many times over the course of the book!</p>
-
-<h3 id="5-the-magicians-assistant-1997">5: <em>The Magician’s Assistant</em> (1997)</h3>
-
-<p>Sabine is the widow and former assistant of gay magician Parsifal. When he dies, she meets the family she never knew he had and learns about his childhood in Alliance, Nebraska.</p>
-
-<p>The first third of the book takes place in Los Angeles as Parsifal’s mother and sister visit Sabine. That part really dragged and felt overlong. I actually put the book down for a month before picking it back up. The second two thirds take place in Nebraska – Sabine visits Parsifal’s family and unravels his childhood and how he came to be a magician. That part was marvelous.</p>
-
-<h3 id="6-the-patron-saint-of-liars-1992">6: <em>The Patron Saint of Liars</em> (1992)</h3>
-
-<p>Rose, three months pregnant, leaves her husband in Southern California and takes up residence in a home for unmarried mothers in Kentucky.</p>
-
-<p>The first part of the book is told from Rose’s perspective, and the second part of the book is told from her daughter Sissy’s perspective. There are also perspectives from the home’s handyman and from the original owners of the home. I liked this book overall, but found parts and characters frustrating. The ending wasn’t as satisfying as Patchett’s other books.</p>
-
-<h3 id="7-commonwealth-2016">7: <em>Commonwealth</em> (2016)</h3>
-
-<p>Beverly Keating and Bert Cousins have an affair and divorce their respective partners. The book follows their blended family over the course of many decades.</p>
-
-<p>I found it hard to root for any of the characters, and there’s a key plot point involving Benadryl that I found extremely unconvincing. Overall, I didn’t love this book.</p>
-
-<h3 id="8-taft-1994">8: <em>Taft</em> (1994)</h3>
-
-<p>Former drummer John Nickel manages a bar in Memphis and hires Fay Taft, who is definitely over eighteen, as a waitress. John balances his relationship with his former girlfriend and their son, as well his evolving relationships with Fay and her brother Carl. Parts of the story are flashbacks in the perspective of Fay and Carl’s dead father (“Taft”).</p>
-
-<p>The pace was painstakingly slow for most of the book, then switched to a breakneck pace in the last few chapters. I liked parts of the book, but it just felt off overall. There were some far-fetched plot twists and some minor characters seemed like setup for a payoff that never happened. The book alternated perspectives – one third-person perspective, one first-person. That felt uneven. Overall, things didn’t quite hang together for me.</p>
-
-<h3 id="9-the-dutch-house-2019">9: <em>The Dutch House</em> (2019)</h3>
-
-<p>Siblings Danny and Maeve grow up in an ostentatious mansion in Pennsylvania. The house (“The Dutch House”) is a source of pride, inspiration, and embarrassment to them over the course of their lives. Maeve dreams of Danny becoming a doctor, but Danny would follow in his (distasteful) father’s footsteps and become a landlord.</p>
-
-<p>Danny is, confusingly, the obvious protagonist of the book, but I just couldn’t root for him or find him compelling. His unlikeability doesn’t seem intentional. Maeve is an infinitely more interesting character but is frustratingly only a supporting character to the mediocre Danny. Other interesting characters include Celeste (Danny’s long-suffering wife) and Andrea (Danny and Maeve’s evil stepmother). Like Maeve, these characters are flat and one-dimensional and don’t get the “backstory” treatment that Patchett gives secondary characters in many of her other books.</p>
-
-<h2 id="charting-the-books">Charting the books</h2>
-
-<p>Ann Patchett’s books are all family sagas of some sort, and share certain similarities. Los Angeles is a recurring location (usually a secondary one); complex sibling relationships feature in almost all of the books. Below is a table charting some of the recurring motifs of the books, mostly because I just love a table.</p>
-
-<div class="wide-table">
-	<table>
-	    <thead>
-	        <tr>
-	            <th>Book Title</th>
-	            <th>Los Angeles</th>
-	            <th>Sibling Relationships</th>
-	            <th>Mother-Daughter Relationships</th>
-	            <th>Father-Son Relationships</th>
-	            <th>Interconnectedness of Strangers</th>
-	            <th>Unexpected Romantic Relationship</th>
-	        </tr>
-	    </thead>
-	    <tbody>
-	        <tr>
-	            <td><em>Bel Canto</em></td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	        </tr>
-	        <tr>
-	            <td><em>Tom Lake</em></td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	        </tr>
-	        <tr>
-	            <td><em>State of Wonder</em></td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>—</td>
-	        </tr>
-	        <tr>
-	            <td><em>Run</em></td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>—</td>
-	        </tr>
-	        <tr>
-	            <td><em>The Magician's Assistant</em></td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>—</td>
-	        </tr>
-	        <tr>
-	            <td><em>The Patron Saint of Liars</em></td>
-	            <td>—</td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	        </tr>
-	        <tr>
-	            <td><em>Commonwealth</em></td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>—</td>
-	        </tr>
-	        <tr>
-	            <td><em>Taft</em></td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	            <td>✓</td>
-	        </tr>
-	        <tr>
-	            <td><em>The Dutch House</em></td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>—</td>
-	            <td>✓</td>
-	            <td>—</td>
-	            <td>—</td>
-	        </tr>
-	    </tbody>
-	</table>
-</div>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[Over the past 33 years, Ann Patchett has published nine novels at a fairly regular cadence (2-4 years in between books). I can trace my interest in Patchett’s books to a 2019 post on the blog Cup of Jo about the book The Dutch House. After reading that post, I promptly got on the library waitlist (it was very long), got off of it, and then never read the book. In fact, five years went by before I read a book by Ann Patchett.]]></summary></entry><entry><title type="html">Getting into technical writing: a primer</title><link href="http://localhost:4000/2025/05/23/primer.html" rel="alternate" type="text/html" title="Getting into technical writing: a primer" /><published>2025-05-23T00:00:00-04:00</published><updated>2025-05-23T00:00:00-04:00</updated><id>http://localhost:4000/2025/05/23/primer</id><content type="html" xml:base="http://localhost:4000/2025/05/23/primer.html"><![CDATA[<p>Over the past few years I’ve talked to a number of people who are interested in getting into the technical writing field. After years of meaning to do this, I finally took some time to write up the thoughts and resources I typically share with people looking to get into the field. This is far from a comprehensive guide and notably doesn’t include much specific resume or cover letter advice.</p>
-
-<p>I worked as a technical writer at Google for almost 7 years. (And wrote <a href="https://blog.google/inside-google/life-at-google/sowhat-does-technical-writer-actually-do/">this blog post</a> for Google’s The Keyword back in 2021, which captured my own journey into technical writing.) During that time, I interviewed a lot of candidates, including some people who were switching careers. Now, I’m a freelance technical writer and have spent a lot of time refining my resume and applying to jobs.</p>
-
-<h2 id="what-even-is-technical-writing">What even is technical writing?</h2>
-
-<p>At a very basic level, technical writing is writing instructions for users. Those users might be software developers trying to build something or regular people trying to log into their email account.</p>
-
-<p>My experience is working for tech companies making software products. But technical writers write for and often specialize in other fields: biotech, financial tech, edtech, nonprofit, hardware…and a bunch of others, including ones I’ve probably never even heard of. I’m most familiar with software, and within this field there are further divisions: do you write for internal or external audiences? Do you write for technical (like software developers) or nontechnical users? Endless divisions, but also endless ways of specializing. There are also lots of opportunities for people getting into technical writing from a wide array of different fields.</p>
-
-<p>Technical writers have a big range of technical abilities. Some are literally ex-engineers. Others have very little experience writing code, but write for nontechnical users so that works.</p>
-
-<h3 id="resources">Resources</h3>
-
-<p>Here are some general resources on the technical writing field:</p>
-<ul>
-  <li><a href="https://www.writethedocs.org/">Write the Docs community</a>. The site has some good resources on the field (including salary information and a hiring guide). The Slack group is super prolific and contains a ton of channels on topics like AI, jobs, resume review, etc.</li>
-  <li><a href="https://idratherbewriting.com/">I’d Rather Be Writing</a> blog, written by technical writer Tom Johnson. Pretty much every technical writer I’ve ever met knows about this blog. There’s lots of information on the field of technical writing. There’s also a free API documentation course. While I haven’t taken this course myself, I’ve heard it can be good for producing writing samples or just learning about API docs (a popular speciality within technical writing).I read this blog religiously when I was a technical writer intern almost a decade ago. I still check in now and then to keep up with trends.</li>
-</ul>
-
-<h2 id="framing-your-experience">Framing your experience</h2>
-
-<p>A lot of technical writers are on their second, third, or fourth careers. I know technical writers who used to be journalists, professors, teachers, and engineers. To successfully switch into technical writing, you need to have (and, perhaps more importantly, prove you have) two main things:</p>
-<ul>
-  <li>Writing skills – can you write?</li>
-  <li>Technical skills – can you do things with technology?</li>
-</ul>
-
-<p>These definitions are intentionally vague because you can demonstrate these skills in so many different ways. One job might require Python; another might require Java; another might be okay with any common language because it demonstrates that you can learn new technologies.</p>
-
-<p>Web development (Markdown, HTML, CSS, GitHub/version control) skills are broadly applicable to many technical writing jobs because many technical writing jobs use these technologies to publish and update their docs. (Not all, though! I interviewed with a company that used Microsoft Word to write all of their docs.) I think the best way to approach technical writing as a field is to figure out what you’re good at, what skills you already have, and what skills you can refine or add. Then, look for jobs that align.</p>
-
-<p>You will probably be able to frame some of your past work as relevant technical writing experience. Of course, it’s not all about framing. You also might just not have the background. You might decide you need to go back to school, or do a certificate program, or teach yourself some new skills. But if you have some kind of experience doing something technical and some kind of experience writing, I’d think you’d probably be able to make a go of it:</p>
-<ul>
-  <li>If you’re a software engineer looking to break into technical writing, you’ve probably written documentation in previous roles. This is technical writing experience, and you can emphasize it in your resume. Lots of tech writing roles are specifically looking for people with engineering experience.</li>
-  <li>If you’re an English teacher who took one Python class in college, you could start by brushing up on your Python skills and maybe making a simple app. Maybe you could look for opportunities in the edtech space. You could focus on curriculum developer or instructional designer jobs, which typically fall under the technical writing umbrella but require more extensive learning design and teaching experience.</li>
-</ul>
-
-<p>…and there’s a lot more examples. I’m going to leave it at that because technical writing is a huge field, and I only consider myself really familiar with technical writing for software developers. Also, framing your experience is really personal and I don’t consider myself a resume expert by any means.</p>
-
-<p>Besides thinking about your background and what skills you bring to the table, I don’t think there’s any way to get better at learning about what kind of jobs you should focus on than literally just looking at a ton of job postings. Technical editor, technical writer, science writer, curriculum developer, content strategist, technical content writer – and there are so many more variations. Search a lot on job sites. Look at people’s LinkedIn profiles who have job titles you think are cool. What kind of skills do they have? Figure out what kind of companies you think are interesting. Even as an experienced technical writer, I did all of these things to figure out what kind of position I wanted next.</p>
-
-<h2 id="getting-writing-samples-together">Getting writing samples together</h2>
-
-<p>After you have a rough understanding of the kinds of jobs you’re looking for but before you start actually applying to jobs, it’s crucial to have writing samples. Many (most?) technical writing jobs require writing samples, typically alongside the initial application. (Though some companies ask for them later in the process.) Especially if you’re new to technical writing, writing samples are the number one way you can demonstrate your skills. Yes, there’s interviews and often take-home assignments, but you need to prove your skills before you even are able to get to those stages.</p>
-
-<p>If you’re just getting into the field, you might not have a relevant writing sample. When I was going through the application process for Google back in 2017, I literally submitted an academic paper I wrote as one of my writing samples, though I had a couple more relevant samples from my tech writing internship the prior summer. When I left Google in December 2024, I once again found myself in need of writing samples. The tutorials I wrote for my internship in 2017 were too old (in my own opinion). Plus, I’d grown so much as a writer since then. However, almost all of my work at Google was for internal engineers and thus wasn’t shareable.</p>
-
-<h3 id="my-own-writing-samples">My own writing samples</h3>
-
-<p>After a bit of trial and error (error = getting a lot of rejections!), I wrote a few samples that I’ve had pretty good success with. (Success to me is getting to the initial interview for a job that requires writing samples upfront.) Here they are:</p>
-<ul>
-  <li><a href="/2025/02/09/jekyll.html">Using an LLM to revamp my site</a></li>
-  <li><a href="/2025/01/10/librarykobo.html">Managing library books on the Kobo Libra H2O</a></li>
-</ul>
-
-<p>These aren’t really traditional “technical documentation” and I didn’t write them for a company, but they show a couple of critical things:</p>
-
-<ul>
-  <li><strong>The Kobo library books sample</strong> shows that I can write a tutorial about something (sort of) technical. I wrote about managing library books on my e-reader because I constantly struggle with its slow interface and various quirks. When people ask me where to start with writing samples, I recommend writing about some kind of technical problem they faced, their process, and ultimate solution.</li>
-  <li><strong>The LLM sample</strong> shows that I can effectively teach myself a new technology, implement something real with it, and then write about it. Sometimes, people I talk to about technical writing can’t think of a technology or product they know well enough to write a tutorial on. Or, maybe the things they can think of are already thoroughly documented. In that case, I advise people to teach themselves how to do something technical and then write about it. I personally used Claude to teach myself something because I wanted to demonstrate technical ability AND the ability to use AI (an important, of-the-moment skill for technical writers) as a tool.</li>
-</ul>
-
-<p>Even better, I published these samples on this site, showing my experience with GitHub, web development, and version control.</p>
-
-<h2 id="looking-for-jobs">Looking for jobs</h2>
-
-<p>To actually find jobs:</p>
-
-<ul>
-  <li>Join <a href="https://www.writethedocs.org/slack/">Write the Docs Slack group</a>, and the job-posts-only channel specifically. You just have to be interested in technical writing to join. The job-posts-only channel is really active and I’ve gotten a number of interviews from it.</li>
-  <li>I saw <a href="https://www.linkedin.com/feed/update/urn:li:activity:7325536240924061696?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7325536240924061696%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">this post on LinkedIn</a> recently about contract job boards at some of the big tech companies.</li>
-  <li>Indeed and Dice are good for contract jobs, perhaps better than LinkedIn although most things are cross-posted against all channels.</li>
-</ul>
-
-<p>I’m not a huge LinkedIn user, but <a href="https://www.linkedin.com/in/sarahgoose/">Sarah Goose</a> and <a href="https://www.linkedin.com/in/brennalasky/">Brenna Lasky</a> are two people I follow on LinkedIn. They have direct experience with tech recruiting, and provide good insight on the job market, who is hiring, and how to frame your experience in interviews. Like me, their backgrounds are in Big Tech.</p>
-
-<h2 id="takeaways">Takeaways</h2>
-
-<ul>
-  <li><strong>Technical writing is broader than you might think.</strong> You don’t need to be an ex-engineer writing API docs. Many careers that involve some amount of writing and working with technology can translate well to technical writing, which brings me to the second takeaway…</li>
-  <li><strong>Your experience is more relevant than you realize.</strong> Whether you’re a teacher, marketer, or engineer, you likely have transferable skills. The key is learning to frame documentation you’ve written, teaching experience, or technical problem-solving as relevant technical writing experience.</li>
-</ul>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[Over the past few years I’ve talked to a number of people who are interested in getting into the technical writing field. After years of meaning to do this, I finally took some time to write up the thoughts and resources I typically share with people looking to get into the field. This is far from a comprehensive guide and notably doesn’t include much specific resume or cover letter advice.]]></summary></entry><entry><title type="html">Using (and not using) Claude to write book reviews</title><link href="http://localhost:4000/2025/03/12/aiproofreader.html" rel="alternate" type="text/html" title="Using (and not using) Claude to write book reviews" /><published>2025-03-12T00:00:00-04:00</published><updated>2025-03-12T00:00:00-04:00</updated><id>http://localhost:4000/2025/03/12/aiproofreader</id><content type="html" xml:base="http://localhost:4000/2025/03/12/aiproofreader.html"><![CDATA[<p>I write a lot about books on this site. I write about books because I love reading and I love writing about the books I read. Recently, I’ve been experimenting with using AI as part of my writing process, most notably for my two recent writeups on <em>The Count of Monte Cristo</em> and <em>The True Deceiver</em>.</p>
-
-<p>I initially wrote these posts with no AI input whatsoever. I got about 90% done with the page, to the point where I was basically happy with the content and structure, but knew there were some repetitive bits and sentences that weren’t quite right but that for whatever reason was having a hard time fixing while maintaining my point.</p>
-
-<p>Then, I fed the whole piece into Claude and asked Claude to give me “light proofreading and minor suggestions.” I think this point is key. Since writing book reviews is a creative, personal pursuit that isn’t tied to a job or income, I didn’t want Claude to make the reviews perfect or overly polished; I didn’t want Claude to actually draw additional literary conclusions or even suggest ways to expand. My book reviews are a creative endeavor, and I am the main (and sometimes only!) audience. I want my thoughts to be my thoughts.</p>
-
-<h2 id="editing-my-piece-on-the-count-of-monte-cristo">Editing my piece on <em>The Count of Monte Cristo</em></h2>
-
-<p>I wrote a <a href="https://devinlogan.org/2025/02/17/montecristo.html">piece on The Count of Monte Cristo</a> and asked Claude to give me “light proofreading and minor suggestions.”</p>
-
-<p><img src="/assets/aiproofreader/montecristo.png" alt="Claude's suggestions for Monte Cristo piece" /></p>
-
-<p>This list was very useful – most of the suggestions were errors I made simply from writing fast and not editing particularly closely (#1, #2, #3, #5, #6), from rearranging sentences into a different order (#4). Knowing I was going to have Claude edit my piece actually sped up my writing process. If I was the only editor on a piece, I’d spend a lot more time going through the piece, sentence by sentence, and proofreading. But because I knew I was going to feed it through Claude, I focused more on getting my points across and the structure. Sometimes I even intentionally wrote a clumsy sentence that captured my thoughts accurately because I knew Claude would be there to rework it.</p>
-
-<p>But Claude isn’t perfect. #7 is actually not a good suggestion. Originally, the sentence in question read: “In chapter 88 (The Insult), a minor character wonders whether the Count of Monte Cristo ‘is an arrogant braggadocio or a supernatural being.’” Claude interpreted the entire sentence as a parenthetical for some reason. However, I took a second look at the sentence and decided I probably didn’t need the chapter name. I just removed the actual parenthetical “(The Insult)”. So Claude flagging this sentence actually helped!</p>
-
-<p>I also asked Claude to help me come up with a title for the piece. I didn’t end up taking any of Claude’s suggestions (though some were funny and quite melodramatic!) but even the process of reading Claude’s suggested titles and thinking “hmm, that’s not quite right” helped me pick a title that seemed more fitting.</p>
-
-<p><img src="/assets/aiproofreader/mctitle.png" alt="Claude's suggestions for True Deceiver piece" /></p>
-
-<h2 id="editing-my-piece-on-the-true-deceiver">Editing my piece on <em>The True Deceiver</em></h2>
-
-<p>I was so pleased with the experience that I asked Claude to do the same thing for <a href="https://devinlogan.org/2025/02/21/truedeceiver.html">my article on The True Deceiver</a>.</p>
-
-<p><img src="/assets/aiproofreader/truedeceiver.png" alt="Claude's suggestions for True Deceiver piece" /></p>
-
-<p>Claude provided exactly 7 suggestions again. I wonder if providing exactly 7 suggestions is Claude’s way of defining ‘light proofreading and minor suggestions’ as opposed to more comprehensive editing. I think this might actually be the case, because for both pieces when I prompted Claude again after fixing the initial seven, it provided me with a couple more suggestions.</p>
-
-<p>Similarly to the Monte Cristo piece, Claude’s suggestions helped me clarify and correct issues that were mainly due to me writing fast and rearranging sentences. Though Claude didn’t catch everything; I found a quite obvious sentence fragment in my True Deceiver article that it hadn’t caught.</p>
-
-<h2 id="concluding-thoughts">Concluding thoughts</h2>
-
-<p>When I was in high school, I’d print out drafts of English class essays and give it to my best friend to proofread. She’d return it to me later that day with it all marked up and a note on the back, and I’d do the same for her essays. Using Claude to edit my work felt like a surprisingly similar experience, except I got the edits back in a few seconds rather than a few hours. Claude wasn’t as thorough, harsh, or personal as my friend, but for this kind of personal writing that isn’t for a job (or a grade!) that works just fine for me.</p>
-
-<p>For this kind of personal writing, I don’t think I’ll ever use AI to write a first draft. That takes the fun out of writing. Also, for me writing is a way to get my thoughts in order and work out my opinion. Having Claude write a first draft would take away this processing stage, and I know my writing and my thoughts would suffer without it. But it’s great at clarifying my thoughts and firming up my points.</p>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[I write a lot about books on this site. I write about books because I love reading and I love writing about the books I read. Recently, I’ve been experimenting with using AI as part of my writing process, most notably for my two recent writeups on The Count of Monte Cristo and The True Deceiver.]]></summary></entry><entry><title type="html">Truth, lies, and life in *The True Deceiver*</title><link href="http://localhost:4000/2025/02/21/truedeceiver.html" rel="alternate" type="text/html" title="Truth, lies, and life in *The True Deceiver*" /><published>2025-02-21T00:00:00-05:00</published><updated>2025-02-21T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/21/truedeceiver</id><content type="html" xml:base="http://localhost:4000/2025/02/21/truedeceiver.html"><![CDATA[<p>My favorite book is <em>The True Deceiver</em> by Tove Jansson, famed creator of the Moomin comics. It was published in 1982 (late in Jansson’s life; she started creating the Moomin comics in the 1940s) and released in English in 2009.</p>
-
-<p>In <em>The True Deceiver</em>, Katri Kling and her brother Mats live in an isolated town in Sweden. That is, I assume it’s Sweden; the book contains no dates, no references to current events, no clue about the exact location or references to big cities. The book’s insularity makes it all the more compelling.</p>
-
-<p>Katri is unlikeable and has odd yellow eyes, and her brother Mats is “simple.” They’re the kids of a mother who died and a foreigner father (“he’d not been a local man”). They live in an apartment above a store where Katri used to do the books, until she rejected the advances of the storekeeper (“his lust was ludicrous”). Even though the townspeople hold her at a distance, Katri is known to be honest and provides legal advice to pretty much the whole town, teaching them how to look out for their own self-interests. Katri loves nobody in the world except for her brother (she only tolerates her nameless dog). Mats works at a shipbuilding operation owned by Edvard Liljeberg and his brothers, doing “small jobs that were not too important” (7). He dreams of designing boats. Katri dreams of commissioning a boat for Mats based on his designs. To achieve this goal, Katri sets her sights on Anna Aemelin.</p>
-
-<p>Anna Aemelin is a shut-in children’s book illustrator who lives in a large, beautiful house at the edge of town. The villagers call it “the rabbit house,” both because “it actually resembled a large, crouched rabbit” and because Anna Aemelin is a successful children’s book illustrator who draws cartoons of rabbits with flowery fur. Like Katri, Anna is also isolated from the town due to her parentage (but in her case, because of her parents’ wealth and general snootiness) and personality (Anna is timid and standoffish, and prefers to be alone). Katri has no connection to Anna, but nevertheless embarks on a scheme to get Mats his boat by moving into the rabbit house and streamlining Anna’s life and money:</p>
-
-<blockquote>
-  <p>“That’s where she lives. Mats and I will live there too. But I have to wait. I need to think carefully before I give this Anna Aemelin an important place in my life” (11).</p>
-</blockquote>
-
-<p>A dozen pages into the book, this scene reveals the true conceit of the book. While Katri succeeds in her mission quite early on in the book, subsequent events don’t unfold the way Katri expects. Katri initially holds the initiative, the honesty, and the drive to get what she wants. Anna appears initially as an indecisive pushover. But Katri is not all-powerful, and Anna is not helpless.</p>
-
-<p>Everybody has an opinion in the book. Katri views the world and her town in a certain way. So does Anna. So does Mats, the shopkeeper. Nobody is necessarily right, but nobody is necessarily wrong. The pack of kids who chant “witch” as Katri walks past – they aren’t necessarily wrong. Every event that happens in the book is ordinary and might just be something that happens. Is there a moral of the story? Is it reducible to allegory? It’s not. You can unpick the events and try to draw a conclusion but in the end it’s just a story about being honest and lying to yourself and others at the same time.</p>
-
-<p>For example, early on in the book, the (unnamed) storekeeper sends liver to Anna Aemelin in her grocery order. Even though Anna protests that liver is hard to prepare and spoils quickly, the shopkeeper insists – “I’ve set some aside for you specially,” he says. Liljeberg usually delivers the mail and groceries to Anna. Katri convinces Liljeberg to make the delivery instead. He’s suspicious of the request, and asks Katri if she’s trying to help. Benevolence isn’t something Katri is known for, after all. “‘You know I’m not,’” Katri says in response. She continues, “‘I’m doing it entirely for my own sake. Do you trust me or don’t you?’” Edvard lets her take the mail. At Anna’s house, Anna opens the package of liver and is disgusted. When Katri asks her why she orders liver if she hates it, Anna dithers – the storekeeper is so nice to put it aside for her. Katri tells Anna that the storekeeper is “a very malicious man” who put in the liver specifically because he knows Anna hates it.</p>
-
-<p>This scene about grocery delivery is so ordinary, but it’s indicative of the twisting honesty of the book overall. It’s hard to say what the shopkeeper’s motives are when he sends Anna the liver. Is he malicious? He might be. Is he actually being nice despite his generally malicious instincts? Maybe. Is he not malicious but instead sad and insecure? It’s possible. Does Katri actually think he’s malicious, or does she only tell Anna so? It’s hard to say. Does she tell Anna he is malicious to be nice as well as for her own self-interest? Maybe. Every motive is plausible, and it’s hard to say exactly which actions are honest or dishonest. Does being honest mean acting with benevolence, or does it mean acting with transparency? Again, it’s hard to say.</p>
-
-<p>The book is mostly written in third person, but it occasionally switches to first person, revealing the inner thoughts and resolutions of Katri:</p>
-
-<blockquote>
-  <p>“Mats spent his days in the boat shed and every evening after dinner he went up to his room. Katri asked no questions.</p>
-
-  <p>He’s probably sitting and drawing, some detail or other that he wants to work on. He doesn’t read any more, it’s only the boat. Soon I’ll need the down payment for Liljeberg, a third of the price. Next payment when it’s planked and sided, and the final when it’s finished. When I’m sure of the down payment, I can tell Mats it’s his boat he’s building. But not yet” (135).</p>
-</blockquote>
-
-<p>It’s a fascinating combination. Third person narration is ostensibly so objective, and so too does Katri strive to be so objective. She is not objective, though, and even the third person narration is not objective. The book slips into first person; Katri slips from objectivity to subjectivity. She bounces from logic to emotion and back until it’s no longer clear which one drives her more. Nobody is objective, the book seems to be saying. We tell ourselves we are logical and objective, when indeed we are irrational and self-interested and we deceive others and ourselves.</p>
-
-<p>Nobody in the book is married or in a relationship, and nobody wants to be married or in a relationship except possibly the storekeeper. The absence of romantic relationships, and really, friendships, only accentuates the value of acquaintances, of the people who live near and maybe you’ve known your entire life, who aren’t intimate friends or romantic partners but who still form an integral part of the social fabric of your life. In <em>The True Deceiver</em>, these relationships are marked by both trust and wariness, both self-interest and compassion:</p>
-
-<blockquote>
-  <p>“The move was made in Liljeberg’s van, and was very simple: a few cardboard boxes, two suitcases, a small table, and a bookcase.</p>
-
-  <p>‘No problem,’ said Liljeberg. ‘It’s practically next door. Not every village has its own transport!’ It was nice to hear him laugh. […]</p>
-
-  <p>‘Jump in, little witch,’ he said. ‘Cinderella on her way to the castle!’ When he started the engine, the storekeeper shouted, ‘Give my best regards to Miss Aemelin! Tell her I’m getting in some rabbit! Fresh, just killed! Just for her…’ The village children ran after the van a little way, shrieking and throwing snowballs.</p>
-
-  <p>‘This feels right,’ Liljeberg said and smiled at Katri. ‘There ought to be a big fuss when people move up in the world’” (71-72).</p>
-</blockquote>
-
-<p>Beyond its exploration of honesty, dishonesty, objectivity, and emotion, <em>The True Deceiver</em> is also just a fun book. The dialogue is amazing – perfectly ordinary, quietly hilarious, and exceedingly true to life:</p>
-
-<blockquote>
-  <p>“Mats read Katri’s books to make her happy, but he didn’t talk about them. In the beginning, she would ask, and he would say only, ‘Yes, that was extremely fine.’ So she stopped asking” (25).</p>
-</blockquote>
-
-<p>I first read <em>The True Deceiver</em> in August 2022. Since then, I’ve reread it fully twice, and I often pick it up to read a passage or two. Every time I read it, I realize something new about a character or truly appreciate a line I’d previously just glossed over. It’s tense and comforting and beautiful, and I think I’ll reread it every year for the rest of my life.</p>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[My favorite book is The True Deceiver by Tove Jansson, famed creator of the Moomin comics. It was published in 1982 (late in Jansson’s life; she started creating the Moomin comics in the 1940s) and released in English in 2009.]]></summary></entry><entry><title type="html">Finally reading *The Count of Monte Cristo*</title><link href="http://localhost:4000/2025/02/17/montecristo.html" rel="alternate" type="text/html" title="Finally reading *The Count of Monte Cristo*" /><published>2025-02-17T00:00:00-05:00</published><updated>2025-02-17T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/17/montecristo</id><content type="html" xml:base="http://localhost:4000/2025/02/17/montecristo.html"><![CDATA[<p>I bought a copy of <em>The Count of Monte Cristo</em> from my local Half Price Books when I was in high school. It remained on my shelf for all of high school, and I donated it (probably back to Half Price Books) when I went to college. Last month, over 15 years after I first bought the book, I finally read <em>The Count of Monte Cristo</em>. My first impression of the book was that it was boring. I thought it would be a lot more swashbuckling than it was – a tale of revenge! Perhaps I was also mixing up <em>The Count of Monte Cristo</em> with the author’s other famous work, <em>The Three Musketeers</em>. Even though I had a hard time getting into the book, once I was in it, I loved it. It’s a slow burn revenge plot – scenarios take years (and many chapters) for the Count of Monte Cristo to set up, but the final reveal is always incredible.</p>
-
-<p><em>The Count of Monte Cristo</em> was originally serialized in eighteen parts over the course of a year and a half (1844-1846), and it reads like it was serialized – lots of recaps and subtle reminders to the reader. There are so many characters, many with aliases or names that have changed (Fernand becomes the Count of Morcerf; Benedetto is known for a time as Prince Andrea Cavalcant).</p>
-
-<p>When the book opens, it’s 1815. Edmond Dantès arrives in Marseilles, France after completing his voyage. He’s about to be made captain of his ship and marry his true love, Mercédès. His jealous crewmate Danglers and Mercédès’s cousin (and thwarted lover) Fernand falsely accuse Dantès of being a Bonapartist conspirator. The magistrate Villefort, himself a fervent royalist who wants to distance himself as much as he can from his Bonapartist father. After being accused, Dantès visits Villefort to plead his case. Because of an inadvertent connection with Vilalfort’s father, Dantès has information on Villefort that could, if not ruin his career, at least call into question his loyalties. Villefort realizes that Dantès is innocent but imprisons him nonetheless and takes steps to ensure he will never be released.</p>
-
-<p>After multiple years in prison, Dantès meets Abbé Faria, an Italian priest imprisoned in a neighboring cell. Faria becomes a teacher and father figure to Edmond and they plan to escape together. Before Faria dies, he reveals the location of an immense fortune on the island of Monte Cristo. In the most tense, thrilling scene of the book, Edmond escapes from prison after the death of Faria. He finds the treasure and spends years traveling the world. The story picks back up years later in 1839, as the Count begins to slowly put into motion his revenge plots on Villefort, Danglers, and Fernand. He arrives in Paris and gains the trust and friendship of his targets. He saves Madame Villefort and her son from a runaway horse. (He also arranged for the runaway horse.) He banks with Danglers. He saves Albert, son of Fernand and Mercédès, after he’s kidnapped by bandits (and in fact, arranged the kidnapping).</p>
-
-<p>The plots that the Count engineers are ingenious and very fun to read about. Evil people lose money; there are poisonings, thwarted poisonings, disguises, and courtroom revelations. Multiple people are buried alive. In chapter 88, a minor character wonders whether the Count of Monte Cristo “is an arrogant braggadocio or a supernatural being.” Monte Cristo’s whole revenge venture is by definition selfish and self-interested, but it’s also in pursuit of what he sees as divine justice. He feels sanctioned by God and justified by his own suffering. It’s hard to refute his moral justification, but not all of his actions are guided strictly by morality. Beneath the godlike exterior, there is certainly a flawed man who makes some questionable decisions and prioritizes his own self-interest in the name of morality. His actions often start morally justified and descend into questionable self-interest:</p>
-
-<ul>
-  <li>Monte Cristo saves his servant Ali from execution, but waits to save him until his tongue is already cut out because a mute servant is very useful to the Count.</li>
-  <li>He alters his revenge plans and spends months saving Valentine Villefort, daughter of his sworn enemy, from poisoning because Morrel is in love with her. But then Monte Cristo misleads Morrel, letting him think Valentine is dead for over a month, for no particular reason other than dramatic effect.</li>
-  <li>A child dies as the result of a scenario that Monte Cristo overengineers.</li>
-</ul>
-
-<p>Monte Cristo plays god, but he isn’t god. His morality is hard and brutal and not always actually moral. This moral ambiguity and the Count’s subtle back and forth between a righteous god and a megalomaniac makes the book incredibly gripping.</p>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[I bought a copy of The Count of Monte Cristo from my local Half Price Books when I was in high school. It remained on my shelf for all of high school, and I donated it (probably back to Half Price Books) when I went to college. Last month, over 15 years after I first bought the book, I finally read The Count of Monte Cristo. My first impression of the book was that it was boring. I thought it would be a lot more swashbuckling than it was – a tale of revenge! Perhaps I was also mixing up The Count of Monte Cristo with the author’s other famous work, The Three Musketeers. Even though I had a hard time getting into the book, once I was in it, I loved it. It’s a slow burn revenge plot – scenarios take years (and many chapters) for the Count of Monte Cristo to set up, but the final reveal is always incredible.]]></summary></entry><entry><title type="html">Using an LLM to revamp my site</title><link href="http://localhost:4000/2025/02/09/jekyll.html" rel="alternate" type="text/html" title="Using an LLM to revamp my site" /><published>2025-02-09T00:00:00-05:00</published><updated>2025-02-09T00:00:00-05:00</updated><id>http://localhost:4000/2025/02/09/jekyll</id><content type="html" xml:base="http://localhost:4000/2025/02/09/jekyll.html"><![CDATA[<p>Recently, I revamped this site to use Jekyll and Markdown instead of handwritten HTML. I used Claude to do it. Overall, I found that Claude is good for troubleshooting when you already have some domain experience.</p>
-
-<p>The rest of this page is a meandering post about my personal experience using Claude to redesign my site and my broader takeaways on using LLMs for technical projects like this. Note that Claude is just the LLM I happen to be casually using already – I have no affiliation and I also didn’t spend any amount of time trying to pick the “best” LLM for my project.</p>
-
-<p>This isn’t a tutorial on how to install Jekyll or design a site. There are plenty of resources for that, so I’m going to skip a lot of steps and gloss over some details.</p>
-
-<h2 id="it-seemed-the-better-way">It seemed the better way</h2>
-
-<p><img src="/assets/jekyll_site/old_site.png" alt="Old homepage of my site" /></p>
-
-<p>This site used to be raw HTML. I wanted to change it to Jekyll and Markdown for a few reasons:</p>
-
-<ul>
-  <li>I was tired of writing raw HTML every time I added a page.</li>
-  <li>I wanted to write Markdown. Markdown is easier than HTML (except for tables) and I’m really familiar with it.</li>
-  <li>I wanted to have a site that was a little more professional/technical than just plain HTML. I also wanted to partition the site into two sections: information about me as a professional writer, and blog posts. But didn’t want to design a new look totally from scratch.</li>
-  <li>I wanted to do a non-work-related technical project.</li>
-</ul>
-
-<p>My site is hosted on GitHub pages and I own my domain (devinlogan.org) through Domain.com. I wanted to keep this setup, but just build the site with Jekyll instead of with just handwritten HTML.</p>
-
-<h2 id="installing-jekyll">Installing Jekyll</h2>
-
-<ol>
-  <li>
-    <p>I actually didn’t know if I needed to do anything before installing Jekyll, so I explained my situation to Claude.</p>
-
-    <p><img src="/assets/jekyll_site/initial_prompt.png" alt="Initial prompt to Claude" /></p>
-  </li>
-  <li>
-    <p>Sure enough, installing Jekyll was the first step. Claude instructed me how to do that:</p>
-
-    <p><img src="/assets/jekyll_site/install.png" alt="Installation instructions" /></p>
-  </li>
-  <li>
-    <p>After trying out the first step, I got an error:</p>
-
-    <p><code class="language-plaintext highlighter-rouge">(ERROR:  While executing gem ... (Gem::FilePermissionError) You don't have write permissions for the /Library/Ruby/Gems/2.6.0 directory.)</code></p>
-
-    <p>Claude recommended two different ways I could do it instead (I chose the second).</p>
-
-    <p><img src="/assets/jekyll_site/alt_install.png" alt="Enter image alt description" /></p>
-  </li>
-</ol>
-
-<p>Now I had a basic Jekyll site up and running.</p>
-
-<p>Looking back at the Jekyll documentation, the instructions are all there. I could have just used the docs. The issue was though, the Jekyll docs have a ton of prerequisites and I found myself getting really bogged down in them, especially as someone who has never used Ruby before. The docs are better and more thorough than Claude. But Claude was more approachable.</p>
-
-<p>I also didn’t know whether installing Jekyll was the first thing I needed to do. I thought there might be some other step I needed to complete. I could have certainly clarified that through internet searching. But it was a lot more straightforward to just explain my situation to Claude and ask what I needed to do first.</p>
-
-<h2 id="working-through-some-issues">Working through some issues</h2>
-
-<p>I had a Jekyll site running. Now, as instructed by Claude, I wanted to convert some of my HTML pages to Markdown, put them on the site, and see how things looked. Claude converted my raw HTML files into Markdown, even putting in front matter. I had to edit the formatting a bit, but it was a pretty seamless process.</p>
-
-<p>Next, I spent some time on the design. I wanted the site index to be a page about me and my freelance work. I wanted my blog to be on a separate page linked from the index. I started to execute the design and ran into some issues along the way.</p>
-
-<h3 id="taking-posts-off-of-the-homepage">Taking posts off of the homepage.</h3>
-
-<p>The Minima style by default has the <a href="https://jekyll.github.io/minima/">posts inline on the site index</a>. I didn’t want this – I wanted the blog to be linked from the index, but I wanted the index to be relatively sparse. I set up the separate blog part relatively easily and got the posts to show up on a non-index page, but I had a harder time figuring out how to remove the posts from the index.</p>
-
-<p><img src="/assets/jekyll_site/minima.png" alt="Default minima index" /></p>
-
-<ol>
-  <li>
-    <p>First, I thought I’d just change the theme and find one that suited me better. I found a few that looked good and got one up and running, but then I realized I’d have to make additional changes to get the look I wanted. That seemed annoying so I just went back to the basic theme.</p>
-  </li>
-  <li>
-    <p>Next, I tried to get Claude to help me. First, Claude told me to remove the for loops from the index, but I didn’t have any. My index was literally just text, no special formatting.</p>
-  </li>
-  <li>
-    <p>I reworded my question, and Claude told me to override the home layout. This technically did what I wanted – it removed the posts, but also all other styling on the page. Other than the removing posts, I wanted the Minima layout and styling preserved.</p>
-
-    <p><img src="/assets/jekyll_site/nuclear_posts.png" alt="Claude suggesting to remove everything" /></p>
-  </li>
-  <li>
-    <p>I tried again. Claude wanted me to implement a bunch of JavaScript. This seemed like a hack, and I wanted a better solution.</p>
-  </li>
-  <li>
-    <p>So I went to the internet. I read some stuff and tried some stuff and nothing was quite right. For example, a common issue people have is wanting to <a href="https://tamrazyan.com/how-to-hide-a-post-on-jekyll">hide some posts</a>. But I wanted to hide all posts, not filter some out.</p>
-  </li>
-  <li>
-    <p>I finally went back to Claude and asked how to override the Minima theme. This turned out to be the correct wording! I got a simple solution that worked right away.</p>
-
-    <p><img src="/assets/jekyll_site/posts_solution.png" alt="Solution: posts removed from index" />
- <img src="/assets/jekyll_site/post_with_proper_italics.png" alt="Site with post titles italicized" /></p>
-  </li>
-</ol>
-
-<h3 id="italicizing-words-in-the-title-of-a-post">Italicizing words in the title of a post</h3>
-
-<p>As I continued converting more pages from HTML to Markdown, I ran into another issue. Many of my blog posts are about books, and many of my post titles contain book titles. I wanted to italicize these. I figured this would be an easy fix that a lot of people wanted to do, so I went to the internet first instead of Claude. I found a lot of resources.</p>
-
-<ol>
-  <li>
-    <p>First I tried <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tags around the title. This correctly italicized the title on the excerpt page, but when I clicked into the post the <code class="language-plaintext highlighter-rouge">&lt;i&gt;</code> tags weren’t properly rendered.</p>
-  </li>
-  <li>
-    <p>I had some things commented out in the yml file that I thought were unrelated to the italics issues, but when I did a dive into the Minima documentation, I cleaned that up and it fixed it.</p>
-  </li>
-  <li>
-    <p>This worked for a while, but when I went to connect the local instance of my site to GitHub and my domain name, the italics broke again.</p>
-  </li>
-  <li>
-    <p>I went to Claude. Claude recommended I take out the HTML tags and replace it with Markdown formatting. I’d already tried this, but I gave it a shot again. It didn’t work.</p>
-  </li>
-  <li>
-    <p>I tried again, this time specifying that I was using the Minima theme. Once again, this was the key. Claude instructed me to override the <code class="language-plaintext highlighter-rouge">post.html</code> layout file so that it handled Markdown formatting in post titles. This worked!
- <img src="/assets/jekyll_site/italics_solution.png" alt="Claude's solution for italics in post titles" class="small-image" /></p>
-  </li>
-</ol>
-
-<h3 id="adding-a-favicon">Adding a favicon</h3>
-
-<p>I thought this would be super easy and just a single line of code somewhere, but I struggled finding the right solution. I found a number of help threads and a couple of blog posts about this topic, but their solutions were overly complicated or just gave plain text descriptions of the solutions with no code. I’ve added favicons to sites before and I was convinced that this should be easy. I just wanted someone to give me the code.</p>
-
-<ol>
-  <li>
-    <p>First, Claude told me to convert my <code class="language-plaintext highlighter-rouge">.jpg</code> to <code class="language-plaintext highlighter-rouge">.png</code>. Easy enough. I used <a href="https://www.adobe.com/express/feature/image/convert/jpg-to-png">Adobe’s free converter</a>.</p>
-  </li>
-  <li>
-    <p>Then, Claude told me to put the file in the root directory or  /assets folder. I already had an assets folder so I put it there.</p>
-  </li>
-  <li>
-    <p>Next, Claude told me to add the favicon to my site by overriding Minima’s default head.html file. I did this by creating a new <code class="language-plaintext highlighter-rouge">head.html</code> file in the <code class="language-plaintext highlighter-rouge">_includes</code> folder. I added the code Claude told me to and this subsequently broke all of the formatting for the site. Once again, Claude provided a solution that both worked and broke a bunch of other things.</p>
-  </li>
-  <li>
-    <p>Next, Claude took a more nuanced, Minima-specific approach. I copied Minima’s <code class="language-plaintext highlighter-rouge">head.html</code> file over to my own, and then adjusted some of the code to account for the favicon. This worked.</p>
-
-    <p><img src="/assets/jekyll_site/favicon_solution.png" alt="Claude's favicon solution" /></p>
-  </li>
-</ol>
-
-<h3 id="adding-a-linkedin-icon">Adding a LinkedIn icon</h3>
-
-<p>I looked online first and found a lot of solutions that looked complicated and required editing multiple files. Surely there was a better way?! Yes. According to Claude, there was indeed a one-line solution. This worked right away.</p>
-
-<p><img src="/assets/jekyll_site/linkedin.png" alt="Claude's LinkedIn solution" /></p>
-
-<h3 id="added-02-27-2025-implementing-tags"><strong><em>Added 02-27-2025</em></strong> Implementing tags</h3>
-
-<p>I wanted to implement tags on my site, so readers (and myself!) could sort my blog posts by topic. I found <a href="https://emmatheeng.github.io/projects/blog_setup/blog-tags.html">this tutorial</a> right away. This was pretty much what I wanted, so I implemented it.</p>
-
-<p>It looked good, except that this implementation had an archive page anchored to the header. I was fine with having an archive page but I didn’t want it so prominently featured on my site, .as sorting by tag is likely an edge case for users of my site. I wanted to maintain the archive page, but remove it from the header. Easier said than done! I went to Claude to get this done.</p>
-
-<ol>
-  <li>
-    <p>Claude gave me two suggestions. I tried the simplest-looking one first and added <code class="language-plaintext highlighter-rouge">exclude:true</code> to the archive page’s front matter. I tried this, but nothing changed.</p>
-
-    <p><img src="/assets/jekyll_site/exclude-true.png" alt="Claude's initial solution for excluding the archive page from nav" /></p>
-  </li>
-  <li>
-    <p>I tried Claude’s other suggestion, which involved editing the yaml file. This did remove the archive page from the navigation, but affected the site in a few other undesirable ways. When I clicked into individual posts, the header navigation disappeared entirely. I wasn’t really sure why this was happening.</p>
-  </li>
-  <li>
-    <p>Claude gave the same suggestion to use exclude syntax on the archive page’s front matter, but this time the actual syntax was different. I tried it. This fixed the navigation problem for posts, but when I clicked into the Books I’ve Read page, the header navigation once again disappeared.</p>
-  </li>
-  <li>
-    <p>Claude gave me some things to check in my code, including making sure the layout was designated as <code class="language-plaintext highlighter-rouge">page</code>. I actually had all three of my pages (booklist, blog, archive) designated as <code class="language-plaintext highlighter-rouge">default</code> so I changed them all to <code class="language-plaintext highlighter-rouge">page</code>. This fixed the navigation issue.</p>
-
-    <p><img src="/assets/jekyll_site/page-layout.png" alt="Changing the layout" /></p>
-  </li>
-  <li>
-    <p>Of course, this change introduced some additional issues. Titles now appeared on each page before all of the posts (“Blog,” “Books I’ve Read”) . I didn’t like this – it felt unnecessary and repetitive. I wanted to remove the title from all pages but keep it on the header. Claude suggested creating a custom layout file to fix this. However, since I wanted this style for all of my pages and not just one, I instead override the default Minima page layout.</p>
-
-    <p><img src="/assets/jekyll_site/remove-title-override.png" alt="Claude's solution for excluding the archive page from nav" /></p>
-  </li>
-</ol>
-
-<p>I noticed a few other issues with my implementation.</p>
-
-<ol>
-  <li>
-    <p>I wanted the tags to appear in the excerpt part of the post on the blog homepage. In my current implementation, the tags only appeared when you actually clicked into a post. At Claude’s suggestion, I added code to the main blog page that checked to see if the post had tags and if so, displayed them as a link to the corresponding section of the archive page.</p>
-
-    <p><img src="/assets/jekyll_site/tags-in-excerpt.png" alt="Tags in excerpt on site" /></p>
-  </li>
-  <li>
-    <p>Finally, I noticed that the archive page didn’t handle Markdown in some of my blog post titles correctly. This was a familiar problem! At Claude’s recommendation, I added one additional line of code directly to the archive page to handle this formatting.</p>
-
-    <p><img src="/assets/jekyll_site/archive-markdown-titles.png" alt="Claude's solution for handling Markdown in titles on archive page" /></p>
-  </li>
-</ol>
-
-<h3 id="added-06-06-2025-adding-a-table-of-contents"><strong><em>Added 06-06-2025</em></strong> Adding a table of contents</h3>
-
-<p>When I initially started writing on this site, I wrote short articles with few to no headings within a post. In the past year or so, though, I’ve been writing some longer pieces with more headings. I thought it would be nice if these posts had tables of contents.</p>
-
-<p>I went back to Claude, of course, to add this to my site.</p>
-
-<ol>
-  <li>
-    <p>Claude started by giving me three different ways to add it:</p>
-
-    <p><img src="/assets/jekyll_site/toc/intro_prompt.png" alt="Claude's initial solution options" /></p>
-  </li>
-  <li>
-    <p>I chose the first solution, using the ‘jekyll-toc’ plugin, because it was “recommended” by Claude and at a glance seemed like the least amount of code. However, I couldn’t get anything to appear on the page.</p>
-
-    <p><img src="/assets/jekyll_site/toc/method1.png" alt="Jekyll-toc option" /></p>
-  </li>
-  <li>
-    <p>After an embarassing amount of troubleshooting with Claude, I realized the plugin wasn’t compatible with GitHub Pages, which I use to host the site. So, I switched to trying the Liquid implmentation and it worked right away.</p>
-
-    <p>(Actually, Claude told in the beginning that the Liquid solution (second option) was compatible with GitHub Pages. To justify myself, though – Claude didn’t say the ‘jekyll-toc’ plugin <em>wasn’t</em> compatible with GitHub Pages!)</p>
-
-    <p><img src="/assets/jekyll_site/toc/liquid_explanation.png" alt="Liquid option" /></p>
-  </li>
-  <li>
-    <p>The implementation was working but was super basic – just a bulleted list.</p>
-
-    <p><img src="/assets/jekyll_site/toc/no_css.png" alt="TOC with no CSS" /></p>
-  </li>
-  <li>
-    <p>I had Claude run me up some CSS to create a box around the table of contents:</p>
-
-    <p><img src="/assets/jekyll_site/toc/css_prompts.png" alt="TOC with CSS" /></p>
-
-    <p>Then, I played with the styling and eventually ended with a grey and italicized Page Contents header.</p>
-
-    <p><img src="/assets/jekyll_site/toc/with_css.png" alt="TOC with CSS" /></p>
-  </li>
-  <li>
-    <p>That looked a lot better, but there were still a few functional issues. First, all of the headings were on the same level in the table of contents – an <code class="language-plaintext highlighter-rouge">h2</code> was indistinguishable from an <code class="language-plaintext highlighter-rouge">h3</code>:
- <img src="/assets/jekyll_site/toc/only_one_level.png" alt="TOC with levels" /></p>
-
-    <p>I had Claude add some additional CSS to fix this:</p>
-
-    <p><img src="/assets/jekyll_site/toc/level_prompts.png" alt="TOC with levels" /></p>
-
-    <p>And it worked:</p>
-
-    <p><img src="/assets/jekyll_site/toc/correct_levels.png" alt="TOC with levels" /></p>
-  </li>
-  <li>
-    <p>Also, my current implementation wasn’t handling italics (and other styling) in headings:</p>
-
-    <p><img src="/assets/jekyll_site/toc/no_italics.png" alt="Italics issue" /></p>
-
-    <p>I had to prompt Claude a few different times to fix this:</p>
-
-    <p><img src="/assets/jekyll_site/toc/claude_italics_attempts.png" alt="Claude's attempts at fixing the italics issue" /></p>
-
-    <p>…and I got some interesting-looking tables of contents in the meantime, but ultimately got it working.</p>
-
-    <p><img src="/assets/jekyll_site/toc/no_italics_again.png" alt="Yet another italics issue" />
- <img src="/assets/jekyll_site/toc/italics_fixed.png" alt="TOC with CSS" /></p>
-  </li>
-  <li>
-    <p>Now every post on my site that has headings also has a table of contents!</p>
-  </li>
-</ol>
-
-<h2 id="takeaways">Takeaways</h2>
-
-<ol>
-  <li>
-    <p><strong>Claude works well for troubleshooting.</strong> While building a Jekyll site certainly wasn’t painless, it was easier than I expected. Claude often gave me solutions that weren’t quite right for what I wanted. But Claude is pretty decent for troubleshooting for a specific problem and refining wrong solutions until they were correct. It beats looking at forum threads written by people who have related but different problems, and then trying to modify the solution to fit your own purposes.</p>
-  </li>
-  <li>
-    <p><strong>Using Claude to complete a technical task requires some level of domain experience.</strong> I don’t consider myself a web development expert by any means. However, I’ve worked with HTML, CSS, Markdown, and GitHub enough that I have a baseline familiarity with web development concepts. This experience helped me question some of Claude’s suggestions and know when to ask a follow-up question. I didn’t want to put a bunch of inline CSS anywhere. I didn’t want to add JavaScript in most situations. If something required changing code in three or four different places, I wondered if there’s a simpler solution. Without this background, this process would have been a whole lot harder.</p>
-  </li>
-  <li>
-    <p><strong>You can word things badly.</strong> When you’re asking an LLM (versus a person) questions, you can word them badly or in the dumbest way possible, and you still get a nice answer. I could switch between asking Claude really technical questions and asking Claude to clarify a trivial point that most engineers would already know. It’s a really great way to accomplish a complex task while also quickly filling in gaps in your knowledge. However, this kind of thing works best when you have some baseline level of domain knowledge (see above point).</p>
-  </li>
-</ol>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[Recently, I revamped this site to use Jekyll and Markdown instead of handwritten HTML. I used Claude to do it. Overall, I found that Claude is good for troubleshooting when you already have some domain experience.]]></summary></entry><entry><title type="html">Reading Trollope for the first time</title><link href="http://localhost:4000/2025/01/27/trollope.html" rel="alternate" type="text/html" title="Reading Trollope for the first time" /><published>2025-01-27T00:00:00-05:00</published><updated>2025-01-27T00:00:00-05:00</updated><id>http://localhost:4000/2025/01/27/trollope</id><content type="html" xml:base="http://localhost:4000/2025/01/27/trollope.html"><![CDATA[<p>After years and years of seeing Trollope books in used bookstores and thinking “I should read those someday,” I finally read <em>The Claverings</em> in October 2024. I chose this specific book to be my foray into Trollope because it was a standalone book (not part of a larger series like the Chronicles of Barsetshire) and the plot seemed similar to the kind of stuff I already like in Victorian literature (basically, marriage plot with a twist). While I’m glad I read the book and enjoyed parts of it, I found it overlong and depressingly patriarchal. I’m honestly surprised by the <a href="https://www.goodreads.com/book/show/469232.The_Claverings">rave reviews on Goodreads</a>.</p>
-
-<p><em>The Claverings</em> was initially serialized in Cornhill magazine from 1866-1867. I’ve read a lot of books that were originally serialized, but this one felt especially overlong. It contained lots of plot recaps and unnecessary plot filler.</p>
-
-<p>In the book, Henry (called Harry – why is Harry a nickname for Henry? The name and nickname are the same length!) Clavering is the son of a well-off clergyman, whose parish abuts Clavering Park. Clavering Park is owned by Harry’s cousin Hugh Clavering, a baronet.</p>
-
-<p>In the first few pages of the book, Harry is jilted by his fiancee Julia Brabazon. Julia instead marries the very rich Lord Ongar. Harry moons about for a while (“I will never love again!”) and then starts a sort of apprenticeship at a civil engineering firm in Stratton. Interestingly, he’s considered too good for this type of work, and many characters remark that Harry should be a clergyman or academic instead. Harry lives with his employer Mr. Burton and eventually becomes engaged to his daughter Florence Burton, a Very Good Woman. He’s over his heartbreak and everything is moving along nicely! Of course, that’s when the book really begins – Lord Ongar dies and Julia is once again unattached, but now she’s a tragic (and rich) figure as her husband was a Bad Man. But really, she suffers because she was so gauche as to marry for money instead of love. Contemporary readers apparently loved this moral lesson, and felt if anything, Julia should suffer more. Reading <em>The Claverings</em> today, Julia’s punishment feels overwrought and unnecessary.</p>
-
-<p>After the death of her husband, Julia arrives back in England and, of course, desperately needs Harry’s assistance. Harry is conveniently in London at this point, working for Burton’s London branch. Harry falls back in love with Julia (and her wealth) and is on the verge of breaking off his engagement to Florence, but he’s terribly indecisive about the whole thing. At this point, Florence’s sister-in-law Cecilia Burton takes things into her own hands. (“No one liked success better than Cecilia Burton, and to her success would consist in rescuing Harry from Lady Ongar and securing him for Florence”) She’s conveniently living in London, while Florence remains in Stratton. Cecelia Burton is another Very Good Woman and Harry admires her a lot (for good reason, she’s initially great). However, she goes to great lengths to shield Florence from the full truth of Harry’s waffling and obsession with Julia and pressures Harry to keep his engagement. Florence is too good for Harry. This is a fact acknowledged by Cecilia. But from pretty much everyone’s view, this just means that Harry should man up and honor the engagement. There’s no talk about Florence cutting her losses and finding someone who will be faithful to her. (At times, it seems like Florence herself would actually prefer this route.) This seems to have something to do with Harry’s higher (than the Burtons) social status. Cecilia, and pretty much everyone in the book, is a little too obsessed with Harry’s happiness and finding out what exactly will make him the most happy.</p>
-
-<p>Julia, even, is the same way. She is still in love with Harry but thinks he will be happier with Florence. Will he? Maybe? But Julia is actually very nice too and there’s no obvious reason why Harry and Julia wouldn’t be very happy together. Harry eventually ends up with Florence, but there’s a certain amount of resignation in his decision. It’s the easier decision that’s supported (and maneuvered) by his family and Florence’s family, and Florence is really very nice. Harry is rewarded for choosing love (is it really love, though?) over wealth (as represented by Julia): after the untimely (timely?) deaths of some key characters, Harry’s father is the new baronet and Harry is his heir. He’s set for life and never has to work again.</p>
-
-<p>One subplot that I found at turns interesting and sad was Harry’s sister Fanny Clavering’s courtship by Mr. Saul, a poor and extremely unsuitable (according to Fanny and Harry’s father) clergyman. Saul lives in poverty so he can give more to his parish. He truly cares for Fanny and they meet doing good works in the neighborhood. Saul proposes to Fanny suddenly, taking her by surprise. He takes advantage of her genuine liking for him and manipulates her into accepting his proposal – the implication is she’s not a true Christian unless she marries him. It feels like Saul sees Fanny as the ideal wife (this isn’t not true), and because he wants it, he will get it, regardless of how Fanny feels. He thinks he knows better and that Fanny is just confused and indecisive. They marry, of course, and Fanny and Saul both seem very pleased. Even though her family initially disapproves, marrying Saul is in many ways the path of least resistance, just like Harry.</p>
-
-<p>I’d like to read more Trollope, but as it stands there are many other Victorian novels that I find much better than <em>The Claverings.</em></p>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="books" /><summary type="html"><![CDATA[After years and years of seeing Trollope books in used bookstores and thinking “I should read those someday,” I finally read The Claverings in October 2024. I chose this specific book to be my foray into Trollope because it was a standalone book (not part of a larger series like the Chronicles of Barsetshire) and the plot seemed similar to the kind of stuff I already like in Victorian literature (basically, marriage plot with a twist). While I’m glad I read the book and enjoyed parts of it, I found it overlong and depressingly patriarchal. I’m honestly surprised by the rave reviews on Goodreads.]]></summary></entry><entry><title type="html">Managing library books on the Kobo Libra H2O</title><link href="http://localhost:4000/2025/01/10/librarykobo.html" rel="alternate" type="text/html" title="Managing library books on the Kobo Libra H2O" /><published>2025-01-10T00:00:00-05:00</published><updated>2025-01-10T00:00:00-05:00</updated><id>http://localhost:4000/2025/01/10/librarykobo</id><content type="html" xml:base="http://localhost:4000/2025/01/10/librarykobo.html"><![CDATA[<p>This page describes how to set up a library account and manage library books on the <a href="https://us.kobobooks.com/products/kobo-libra-h2o">Kobo Libra H2O</a> device using OverDrive functionality. This page does not cover the<a href="https://www.kobo.com/us/en/p/apps"> Kobo app</a>, another tool you can use to check out books to both the app and your e-reader.</p>
-
-<h2 id="background-overdrive-and-the-libra-h2o-model">Background: OverDrive and the Libra H2O model</h2>
-
-<p>The Kobo Libra H2O is a discontinued Rakuten Kobo model that is <a href="https://help.kobo.com/hc/en-us/articles/360019690433-Products-no-longer-manufactured-or-supported-by-Kobo">still supported by Kobo.</a></p>
-
-<p>OverDrive is a digital platform that distributes library content to e-readers. Using OverDrive, you can directly access your library account on the Libra H2O and other e-readers. OverDrive also makes the Libby app, which <a href="https://company.overdrive.com/2021/08/09/important-update-regarding-libby-and-the-overdrive-app/">replaced the OverDrive platform functionality</a> on some Kobo models in 2023. However, OverDrive (not Libby) is still the only way to connect to your library directly from the Libra H2O model without using the Kobo iOS or Android app. Unlike newer Kobo e-readers, OverDrive is built directly into the Kobo Libra H2O so it’s not impacted by the Libby update. You aren’t able to download Libby or any other app directly onto the Libra H2O.</p>
-
-<h2 id="getting-started-with-overdrive">Getting started with OverDrive</h2>
-
-<p><img src="/assets/kobo/homepage.jpg" alt="Kobo homepage" class="smaller-image" /></p>
-
-<ol>
-  <li>
-    <p>First, <a href="https://help.kobo.com/hc/en-us/articles/360017439594-Set-up-your-Kobo-eReader-over-Wi-Fi">ensure your e-reader is connected to Wi-Fi</a>. You must be connected to Wi-Fi to set up OverDrive functionality. You also need Wi-Fi to check out new library books, although you can return books without the Wi-Fi enabled.</p>
-  </li>
-  <li>
-    <p>Next, navigate to the <strong>More</strong> icon at the bottom right of the Libra H2O homepage. In the menu that opens, select <strong>Settings</strong>, then to <strong>OverDrive</strong>.</p>
-
-    <div class="image-container">
- <img src="/assets/kobo/more.jpg" alt="Kobo more menu" class="side-by-side-image" />
- <img src="/assets/kobo/settings.jpg" alt="Kobo settings menu" class="side-by-side-image" /></div>
-  </li>
-  <li>
-    <p>In the OverDrive menu, select <strong>Add a library</strong>. Search for your library in the OverDrive search bar, select it, and then enter your library card and pin directly on the device.</p>
-
-    <blockquote>
-      <p>Note: Kobo warns that this method doesn’t always work and that the more reliable methods include scanning the QR code with your phone or entering a code on the OverDrive website.</p>
-    </blockquote>
-
-    <div class="image-container">
- <img src="/assets/kobo/notsignedin.jpg" alt="OverDrive menu: user not signed in" class="side-by-side-image" />
- <img src="/assets/kobo/addlibrary.jpg" alt="Add a library page" class="side-by-side-image" /></div>
-  </li>
-  <li>
-    <p>When you’ve successfully added your library card, the device returns you to the OverDrive menu. Check the <strong>Communication</strong> bar to make sure your email address is up to date. OverDrive sends notifications to this email address to let you know when holds are available to borrow.</p>
-
-    <p><img src="/assets/kobo/overdrivemenu.jpg" alt="OverDrive menu" class="smaller-image" /></p>
-  </li>
-</ol>
-
-<h3 id="switching-overdrive-accounts">Switching OverDrive accounts</h3>
-
-<p>You might have multiple OverDrive accounts with different library systems. This might be the case if you’re a student and have library accounts with your school and your town. It’s also common to have multiple accounts if you reside in multiple places over the course of a year or have recently moved. When you’re using the Libra H2O model, you can only be logged into a single OverDrive account at any given time, but you can manually switch between accounts.</p>
-
-<p>To switch accounts:</p>
-
-<ol>
-  <li>
-    <p>Navigate to the <strong>OverDrive</strong> menu.</p>
-  </li>
-  <li>
-    <p>Select <strong>Remove</strong> to log out of your library account. Then, follow the instructions in <a href="?tab=t.0#heading=h.42klufn99hm1">Getting started with OverDrive</a> to add a new library account. The Libra H2O won’t save any previous login information so if you want to switch back to your previous account, you must reupload your library card details.</p>
-
-    <blockquote>
-      <p>Note: Switching OverDrive accounts only affects the books you have checked out with that library card. It doesn’t affect any books you have purchased or downloaded directly to your device.</p>
-    </blockquote>
-  </li>
-</ol>
-
-<h2 id="finding-and-checking-out-books">Finding and checking out books</h2>
-
-<p>You can browse for library books directly on your library’s website or via the built-in search on your device.</p>
-
-<h3 id="searching-for-books-on-your-librarys-catalog">Searching for books on your library’s catalog</h3>
-
-<p>To use your library’s catalog to find an ebook to check out to your LIbra H2O:</p>
-
-<ol>
-  <li>
-    <p>Access your library’s catalog the way you normally access it – this might be on on your phone or desktop computer.</p>
-  </li>
-  <li>
-    <p>Log in with your library card details (this should be the same library account you’re logged into on your e-reader) and search the catalog.</p>
-
-    <p><img src="/assets/kobo/library.jpg" alt="Catalog homepage for the Arlington Public Library in Arlington, VA." /></p>
-  </li>
-  <li>
-    <p>When you’ve found the book you want to check out or put on hold, choose the <strong>eBook</strong> format and select <strong>Borrow with Libby/OverDrive</strong> (for books that are available now) or <strong>Place Hold</strong> (for books that aren’t available now).</p>
-
-    <blockquote>
-      <p>Note: Different library systems might use slightly different terminology for different book formats. It’s important to choose the eBook format that is not the Kindle format, as the Kindle format, as this isn’t compatible with Kobo e-readers.</p>
-    </blockquote>
-
-    <p><img src="/assets/kobo/catalog.jpg" alt="A book you might want to check out, with different format options." /></p>
-  </li>
-  <li>
-    <p>You might not need to do anything to get a book you checked out to appear on your Libra H2O. Automatic sync is on by default, so when you turn on your device, it syncs to your library account automatically. However, the device often requires an additional manual sync to download books you checked out on your library account. To manually sync your device, select the <strong>Sync</strong> icon on the top right of the homepage</p>
-  </li>
-</ol>
-
-<h3 id="searching-for-books-on-the-libra-h2o">Searching for books on the Libra H2O</h3>
-
-<blockquote>
-  <p>Note: The built-in search functionality on the device is basic and slow. While you can filter searches by author, title, and other categories, the search results are often strange and unexpected. Searching directly from your library’s catalog is often the best bet if you’re looking for something specific. <img src="/assets/kobo/results.jpg" alt="Filtering search results" class="smaller-image" /></p>
-</blockquote>
-
-<p>To search for a book directly on the Libra H2O:</p>
-
-<ol>
-  <li>
-    <p>Select the <strong>search icon</strong> on the top right of the device homepage.</p>
-  </li>
-  <li>
-    <p>The search option defaults to the Kobo store. Click the dropdown menu to switch to the OverDrive catalog, which is the catalog for the library you are logged into. From there, enter your search term and select <strong>Go</strong>.</p>
-  </li>
-  <li>
-    <p>After you’ve conducted a search, you can filter the results by a number of categories, including <strong>Most Popular</strong> or <strong>Author</strong>.</p>
-
-    <p><img src="/assets/kobo/filter.jpg" alt="Filtering search results" class="smaller-image" /></p>
-  </li>
-</ol>
-
-<p>To borrow books that you previously placed on hold and are now ready for checkout, select the <strong>Borrow books from your public library</strong> option at the bottom left of the device homepage. This brings you to an OverDrive page that shows any current holds and suggests books to check out. Select <strong>Borrow</strong> to check out a hold that is ready to check out.</p>
-
-<p>To check out a suggested book, click on the book. Note that the default option is to buy the book from the Kobo catalog, not check it out from the library. Select the <strong>…</strong> option to open an additional menu and then borrow the book from your library. If the book is available to check out, it will be checked out and added to your books. If it isn’t, you will have an option to place a library hold.</p>
-
-<h3 id="other-ways-to-add-books">Other ways to add books</h3>
-
-<p>If a book you want to read isn’t available on OverDrive, you can:</p>
-
-<ol>
-  <li>
-    <p>Buy it via the Kobo catalog. Before you buy an individual book, look into Kobo’s <a href="https://help.kobo.com/hc/en-us/sections/360002747873-Kobo-Super-Points">membership options</a>. It might be a better deal.</p>
-  </li>
-  <li>
-    <p>Download it. If you are located in the United States and you want to check out a book from before 1929, you may want to find a downloadable public domain copy of the book instead of checking it out from the library so you aren’t subject to the time limits of a library book. <a href="https://standardebooks.org/">Standard Ebooks</a> has a robust catalog of public domain ebooks.</p>
-  </li>
-</ol>
-
-<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="tutorials" /><category term="tech" /><summary type="html"><![CDATA[This page describes how to set up a library account and manage library books on the Kobo Libra H2O device using OverDrive functionality. This page does not cover the Kobo app, another tool you can use to check out books to both the app and your e-reader.]]></summary></entry></feed>
+<script data-goatcounter="https://dlog.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>]]></content><author><name> </name></author><category term="ai" /><category term="tech" /><summary type="html"><![CDATA[Any technical writer working on a large documentation site with legacy docs knows the pain of site reorganization projects.]]></summary></entry></feed>

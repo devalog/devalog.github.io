@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /**
  * Reset some basic elements
  */
@@ -667,6 +668,17 @@ img {
   height: auto;
 }
 
+.post-video {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: 20px auto;
+}
+
 /* New styles for side-by-side images */
 .image-container {
   display: flex;
@@ -727,20 +739,48 @@ img {
 
 /* Pinned post styling */
 .pinned-post {
-  padding: 1.5rem;
-  margin-bottom: 2rem;
+  max-width: 320px;
+  padding: 1.25rem 1.5rem;
+  margin: 0 auto 2rem;
   background-color: #e6f3ff;
   border-radius: 12px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.06);
 }
 
 .pinned-label {
-  font-size: 0.9em;
-  color: #009900;
-  font-weight: bold;
-  font-style: italic;
-  display: block;
-  margin-bottom: 0.5rem;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #0066cc;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  margin-bottom: 0.75rem;
+}
+
+/* Pinned arrow link (books page) */
+.pinned-arrow {
+  display: inline-block;
+  padding: 0.35rem 1.6rem 0.35rem 0.8rem;
+  margin-bottom: 2rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #fff;
+  background-color: #d63384;
+  clip-path: polygon(0 0, calc(100% - 0.9rem) 0, 100% 50%, calc(100% - 0.9rem) 100%, 0 100%);
+  transition: background-color 0.15s;
+}
+
+.pinned-arrow:visited {
+  color: #fff;
+}
+
+.pinned-arrow:hover {
+  color: #fff;
+  background-color: #b02a6b;
+  text-decoration: none;
 }
 
 /* Updated date styling */
@@ -784,6 +824,96 @@ img {
 .portfolio-page h2 {
   font-size: 2em !important;
   font-weight: 400;
+}
+
+/* Book list spreadsheet */
+.booklist-status {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0 0.75rem;
+  padding: 0 4px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.booklist-status button {
+  font: inherit;
+  padding: 2px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.booklist-wrap {
+  max-height: 80vh;
+  overflow: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 0 8px 8px;
+  margin-bottom: 2rem;
+}
+
+#booklist {
+  margin: 0;
+  border: none;
+  font-size: 0.9em;
+  width: 100%;
+}
+
+#booklist th,
+#booklist td {
+  padding: 4px 8px;
+}
+
+#booklist th.sortable {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+#booklist th.sortable::after {
+  content: " ↕";
+  color: #bbb;
+}
+
+#booklist th[aria-sort=ascending]::after {
+  content: " ▲";
+  color: #333;
+}
+
+#booklist th[aria-sort=descending]::after {
+  content: " ▼";
+  color: #333;
+}
+
+#booklist .booklist-filters th {
+  position: sticky;
+  top: var(--booklist-filter-top, 2em);
+  z-index: 2;
+  background: #f6f6f6;
+  padding: 4px;
+}
+
+#booklist .booklist-filters input,
+#booklist .booklist-filters select {
+  width: 100%;
+  box-sizing: border-box;
+  font: inherit;
+  font-weight: normal;
+  padding: 2px 4px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  min-width: 4em;
+}
+
+#booklist td:nth-child(3),
+#booklist td:nth-child(5) {
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */

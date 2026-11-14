@@ -8,9 +8,9 @@ layout: home
 
 ## About me
 
-I write high quality technical content, including documentation, longform blog posts, and case studies, for early-stage B2B devtool startups. Good content helps companies win developers' trust and retain customers.
+I write technical content, including documentation, longform blog posts, and case studies, for early-stage B2B devtool startups.
 
-I currently write technical marketing content (case studies and blog posts) at [Extend](https://www.extend.ai/) (YC W23). Previously, I wrote developer documentation and technical marketing content for [Fern](https://buildwithfern.com/) (W23). Before that, I wrote internal developer documentation for Google. Here's my [resume](https://github.com/devalog/resume/blob/main/resume.pdf).
+I currently write technical marketing content (case studies and blog posts) at [Extend](https://www.extend.ai/) (YC W23), plus some adhoc freelance work. Previously, I wrote developer documentation and technical marketing content for [Fern](https://buildwithfern.com/) (W23). Before that, I wrote internal developer documentation for Google. Here's my [resume](https://github.com/devalog/resume/blob/main/resume.pdf).
 
 My [portfolio](/portfolio/) contains a selection of my work; my [GitHub profile](https://github.com/devalog) is a better indicator of how much I write. The rest of this site contains random musings I write in my free time. 
 
