@@ -24,8 +24,18 @@
     var tds = tr.querySelectorAll('td');
     if (tds.length < 5) return { tr: tr, sep: true, idx: i };
     var text = Array.prototype.map.call(tds, function (td) { return td.textContent.trim(); });
+    // Tags come from <tr data-tags="reread translated nonfiction">; show them as pills after the title
+    var tags = (tr.getAttribute('data-tags') || '').split(/\s+/).filter(Boolean);
+    tags.forEach(function (t) {
+      var pill = document.createElement('span');
+      pill.className = 'book-tag book-tag-' + t;
+      pill.textContent = t;
+      tds[0].appendChild(document.createTextNode(' '));
+      tds[0].appendChild(pill);
+    });
     return {
       tr: tr,
+      tags: tags,
       idx: i,
       text: text,
       lower: text.map(function (t) { return t.toLowerCase(); }),
@@ -88,6 +98,21 @@
   });
   headerRow.parentNode.insertBefore(filterRow, headerRow.nextSibling);
 
+  // Tag dropdown sits next to the title filter
+  var tagSel = document.createElement('select');
+  tagSel.setAttribute('aria-label', 'Filter by tag');
+  [['', 'All tags'], ['reread', 'Reread'], ['translated', 'Translated'], ['nonfiction', 'Nonfiction']].forEach(function (o) {
+    var opt = document.createElement('option');
+    opt.value = o[0];
+    opt.textContent = o[1];
+    tagSel.appendChild(opt);
+  });
+  tagSel.addEventListener('input', apply);
+  var titleCell = filterRow.firstChild;
+  titleCell.classList.add('booklist-title-filter');
+  titleCell.appendChild(tagSel);
+  var allFilters = inputs.concat([tagSel]);
+
   var status = document.createElement('div');
   status.className = 'booklist-status';
   var count = document.createElement('span');
@@ -95,7 +120,7 @@
   reset.type = 'button';
   reset.textContent = 'Reset';
   reset.addEventListener('click', function () {
-    inputs.forEach(function (el) { el.value = ''; });
+    allFilters.forEach(function (el) { el.value = ''; });
     sortCol = -1;
     apply();
   });
@@ -134,6 +159,7 @@
   }
 
   function matches(it) {
+    if (tagSel.value && it.tags.indexOf(tagSel.value) === -1) return false;
     for (var i = 0; i < COLS.length; i++) {
       var q = inputs[i].value.trim().toLowerCase();
       if (!q) continue;
@@ -146,7 +172,7 @@
   }
 
   function apply() {
-    var filtering = inputs.some(function (el) { return el.value.trim(); });
+    var filtering = allFilters.some(function (el) { return el.value.trim(); });
     var shown = 0;
 
     var list;
