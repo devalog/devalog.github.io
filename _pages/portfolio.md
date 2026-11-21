@@ -8,11 +8,18 @@ custom_css_class: portfolio-page
 
 ## Extend
 
-I currently write technical marketing content for Extend. This is a mix of sole authorship and collaborative writing. I make all of my own graphics (animations + still images). 
+I write technical marketing content for Extend. This is a mix of sole authorship and collaborative writing. I make all of my own graphics (animations + still images). 
 
 * [How we built Extend's internal GTM system](https://www.extend.ai/resources/how-we-built-extends-gtm-system) (Nov 2026)
 * [How we made table parsing 4x faster with DFlash](https://www.extend.ai/resources/table-parsing-with-dflash) (Nov 2026)
 * [The history of OCR: from reading characters to understanding documents](https://www.extend.ai/resources/history-of-ocr) (Oct 2026)
+
+## Trace
+
+I write developer documentation and customer blog posts for Trace. 
+
+* [Continuous coverage](https://securewithtrace.com/docs/pentest/continuous) (Nov 2026)
+* [Weekly changelog](https://securewithtrace.com/changelog) (ongoing)
 
 ## Fern
 

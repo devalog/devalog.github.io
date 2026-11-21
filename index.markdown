@@ -10,11 +10,11 @@ layout: home
 
 I write technical content, including documentation, longform blog posts, and case studies, for early-stage B2B devtool startups.
 
-I currently write technical marketing content (case studies and blog posts) at [Extend](https://www.extend.ai/) (YC W23), plus some adhoc freelance work. Previously, I wrote developer documentation and technical marketing content for [Fern](https://buildwithfern.com/) (W23). Before that, I wrote internal developer documentation for Google. Here's my [resume](https://github.com/devalog/resume/blob/main/resume.pdf).
+I currently write technical marketing content (case studies and blog posts) at [Extend](https://www.extend.ai/) (YC W23), plus some adhoc writing work for [Trace](https://securewithtrace.com/). Previously, I wrote developer documentation and technical marketing content for [Fern](https://buildwithfern.com/) (W23) and internal developer documentation for Google. Here's my [resume](https://github.com/devalog/resume/blob/main/resume.pdf).
 
 My [portfolio](/portfolio/) contains a selection of my work; my [GitHub profile](https://github.com/devalog) is a better indicator of how much I write. The rest of this site contains random musings I write in my free time. 
 
-In my free time, I [read a lot](/2025/08/19/booklist.html). The best book I've read so far in 2026 is *The English Understand Wool* (2022) by Helen DeWitt, followed closely by *The Romance of a Shop* (1888) by Amy Levy.
+In my free time, I [read a lot](/2025/08/19/booklist.html). The top three books I've read so far in 2026 are *The English Understand Wool* (2022) by Helen DeWitt, *Exit Party* (2026) by Emily St. John Mandel, and *The Romance of a Shop* (1888) by Amy Levy.
 
 <script data-goatcounter="https://dlog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>

@@ -911,6 +911,45 @@ img {
   min-width: 4em;
 }
 
+#booklist .booklist-title-filter {
+  white-space: nowrap;
+}
+
+#booklist .booklist-title-filter input {
+  width: calc(100% - 7.5em);
+  margin-right: 4px;
+}
+
+#booklist .booklist-title-filter select {
+  width: 7em;
+  min-width: 0;
+}
+
+.book-tag {
+  display: inline-block;
+  font-size: 0.7em;
+  line-height: 1;
+  padding: 2px 6px;
+  border-radius: 999px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.book-tag-reread {
+  background: #fde2ef;
+  color: #a3245f;
+}
+
+.book-tag-translated {
+  background: #e2effd;
+  color: #1f5fa3;
+}
+
+.book-tag-nonfiction {
+  background: #e4f4e4;
+  color: #2d6e2d;
+}
+
 #booklist td:nth-child(3),
 #booklist td:nth-child(5) {
   text-align: center;
